@@ -1,0 +1,1179 @@
+"rpt code","line number","item date",Cont/Exp,name,"address 1","address 2",city,state,zip,"cont. type",occupation,"item type",description,amount,"Amend. code",lastname
+9068,2,2021-03-17,E,"HARLAND CLARK","15955 La Cantera Parkway",,"SAN ANTONIO",TX,78256,,,MO,"CHECK ORDER",35.30,,"HARLAND CLARK"
+9068,1,2021-03-19,C,"Jon  Ausman","2202 Woodlawn Drive ",,Tallahassee,FL,32303,I,,CH,,100.00,,Ausman
+9068,2,2021-03-19,C,"Stephen  Thomas","***Protected Voter***",,,,,I,Attorney,CH,,250.00,,Thomas
+9068,3,2021-03-19,C,"Courtney  Whitis","403 Plantation Road",,Tallahassee,FL,32303,I,Political<br>Advisor,CH,,250.00,,Whitis
+9068,4,2021-03-19,C,"Derek  Whitis","403 Plantation Road",,Tallahassee,FL,32303,I,Political<br>Advisor,CH,,250.00,,Whitis
+9068,5,2021-03-19,C,"Jim  Wolf","1888 Witchtree Acres",,Tallahassee,FL,32312,I,Retired,CH,,150.00,,Wolf
+9068,6,2021-03-19,C,"Lee  Hinkle","824 Greenbrier Lane",,Tallahassee,FL,32308,I,Retired,CH,,250.00,,Hinkle
+9068,7,2021-03-19,C,"Donald  Hinkle","3710 Bobbin Mill Road",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Hinkle
+9068,8,2021-03-19,C,"Keaton  Alexander","2300 N Scenic Highway",,"Lake Wales",FL,33898,I,"Silver<br>Palm<br>Cons.,P",CH,,250.00,,Alexander
+9068,9,2021-03-19,C,"Ryan  Smith","1202 Richview Road",,Tallahassee,FL,32301,I,"CCO, TMH",CH,,250.00,,Smith
+9068,10,2021-03-19,C,"Leon  Corbett","1422 Devils Dip",,Tallahassee,FL,32308,I,Marketing,CH,,250.00,,Corbett
+9068,11,2021-03-19,C,"Laura Lee Corbett","1422 Devils Dip",,Tallahassee,FL,32308,I,Advisor,CH,,250.00,,Corbett
+9068,12,2021-03-19,C,"Theresa  Mayernick","4616 Grove Park Drive",,Tallahassee,FL,32311,I,"Political<br>Advisor ",CH,,250.00,,Mayernick
+9068,13,2021-03-19,C,"Frank  Mayernick","4616 Grove Park Drive",,Tallahassee,FL,32311,I,Political<br>Advisor,CH,,250.00,,"Mayernick "
+9068,14,2021-03-19,C,"Thomas  Whitley","2007 Dellwood Drive ",,Tallahassee,FL,32303,I,"CHIEF OF<br>STAFF,MAYOR",CH,,250.00,,"Whitley "
+9068,15,2021-03-19,C,"Kathryn  Cattafesta","1612 Mitchell Avenue",,Tallahassee,FL,32303,I,,CH,,100.00,,Cattafesta
+9068,16,2021-03-19,C,"Samuel  Clayton","3210 Del Rio Terrace",,Tallahassee,FL,32312,I,Retired,CH,,200.00,,Clayton
+9068,17,2021-03-19,C,"Mark  Mustain","2308 Charles Court ",,Tallahassee,FL,32303,I,"Attorney ",CH,,250.00,,Mustain
+9068,18,2021-03-26,C,"Gil  Ziffer","1448 Terrace St. #1",,Tallahassee,FL,32308,I,Public<br>Relations,CH,,250.00,,Ziffer
+9068,19,2021-03-26,C,"Mark  Miller","1108 Shalimar Dr.",,Tallahassee,FL,32312,I,Public<br>Relations,CH,,150.00,,Miller
+9068,20,2021-03-26,C,"Gail Stansberry Ziffer","PO Box 3208",,Tallahassee,FL,32315,I,"Public<br>Relations ",CH,,250.00,,Ziffer
+9068,21,2021-03-26,C,"Janet  Hinkle","1127 Terrace St.",,Tallahassee,FL,32303,I,Professor,CH,,250.00,,Hinkle
+9068,22,2021-03-26,C,"Robert  Bacon","PO Box 12039",,Tallahassee,FL,32317,I,"Insurance ",CH,,250.00,,Bacon
+9068,23,2021-03-26,C,"David  Barrett","PO Box 930",,Tallahassee,FL,32302,I,Attorney,CH,,250.00,,Barrett
+9068,24,2021-03-26,C,"Harry  Morrison","1051 Live Oak Plantation Rd.",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Morrison
+9068,25,2021-03-26,C,"Benjamin  Abberger III","PO Box 1168",,Tallahassee,FL,32302,I,"Attorney ",CH,,250.00,,"Abberger III"
+9068,26,2021-03-26,C,"Sarah   Dailey","2510 Limerick Drive",,Tallahassee,FL,32309,I,AUTHOR,CH,,250.00,,Dailey
+9068,27,2021-03-26,C,"Michael  Sittig","2108 Ellicott Dr.",,Tallahassee,FL,32308,I,"Attorney ",CH,,250.00,,Sittig
+9068,28,2021-03-26,C,"Marty  Sittig","2108 Ellicott Dr.",,Tallahassee,FL,32308,I,"Real<br>Estate ",CH,,250.00,,Sittig
+9068,29,2021-03-26,C,"Betty  Sittig","4152 Diplomacy Cir",,Tallahassee,FL,32308,I,Journalist<br>,CH,,250.00,,Sittig
+9068,30,2021-03-26,C,"Stephen  Farmer","105 RIVERSIDE DRIVE",,"ORMAND BEACH",FL,32176,I,ATTORNEY,CH,,250.00,,Farmer
+9068,31,2021-03-26,C,"Caroline   Weiss","2909 Woodside Drive",,Tallahassee,FL,32312,I,REAL<br>ESTATE<br>SALES,CH,,250.00,,Weiss
+9068,32,2021-03-26,C,"Clarence  Gridley","2108 Ellicott Dr.",,Tallahassee,FL,32308,I,"Retired ",CH,,250.00,,Gridley
+9068,33,2021-03-26,C,"Cory  Couch","5355 Pembridge Place",,Tallahassee,FL,32309,I,DENTIST,CH,,250.00,,Couch
+9068,34,2021-03-26,C,"Elizabeth  Couch","5355 Pembridge Place",,Tallahassee,FL,32309,I,"P, KCCI",CH,,250.00,,Couch
+9068,35,2021-03-26,C,"Cari  Roth","818 Ingleside Ave",,Tallahassee,FL,32303,I,ATTORNEY,CH,,250.00,,Roth
+9068,36,2021-03-26,C,"Michael  Roper","***Protected Voter***",,,,,I,PROFESSOR,CH,,250.00,,Roper
+9068,37,2021-03-26,C,"Wellington  Meffert","818 Ingleside Ave",,Tallahassee,FL,32303,I,ATTORNEY,CH,,250.00,,Meffert
+9068,38,2021-03-26,C,"Raymond  Sittig","2108 Ellicott Dr.",,Tallahassee,FL,32308,I,"Retired ",CH,,250.00,,Sittig
+9068,39,2021-03-26,C,"Katherine  Kile","***Protected Voter***",,,,,I,ATTORNEY,CH,,250.00,,Kile
+9068,40,2021-03-26,C,"Virginia  Proctor","1111 Brookwood Drive",,Tallahassee,FL,32308,I,"Retired ",CH,,250.00,,Proctor
+9068,41,2021-03-29,C,"Kelly  Wells Horton","702 Waverly Road",,Tallahassee,FL,32312,I,"Real<br>Estate ",CH,,250.00,,"Wells Horton"
+9068,42,2021-03-29,C,"Paul  Bradshaw","1345 Dupont Rd",,Tallahassee,FL,32333,I,"P,SOUTHERN<br>STRAT. GRP",CH,,250.00,,Bradshaw
+9068,43,2021-03-29,C,"Sally  Bradshaw","1345 Dupont Rd",,Tallahassee,FL,32333,I,BOOKSTORE<br>OWNER,CH,,250.00,,Bradshaw
+9068,44,2021-03-29,C,"Erin  Rock","3145 Baringer Hill Dr",,Tallahassee,FL,32311,I,"Public<br>Service ",CH,,250.00,,Rock
+9068,45,2021-03-29,C,"Craig  Hansen","9196 Shoal Creek Dr.",,Tallahassee,FL,32312,I,Law,CH,,250.00,,Hansen
+9068,46,2021-03-29,C,"Christopher  Hansen","2226 Ten Oaks Dr",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Hansen
+9068,47,2021-03-29,C,"Michael  Harrell","319 Rosehill Drive East",,Tallahassee,FL,32312,I,,CH,,100.00,,Harrell
+9068,48,2021-03-29,C,"Scott  Brock","901 N Ride",,Tallahassee,FL,32303,I,,CH,,100.00,,Brock
+9068,49,2021-03-29,C,"Christopher  Dudley","3907 W Millers Bridge Rd.",,Tallahassee,FL,32312,I,"P,<br>SOUTHERN<br>GROUP",CH,,250.00,,Dudley
+9068,50,2021-03-29,C,"R. Paul  Mitchell","3876 W. Millers Bridge Rd",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Mitchell
+9068,51,2021-03-29,C,"Brian   Bautista","576 Rhoden Cove Rd ",,Tallahassee,FL,32312,I,Finance,CH,,250.00,,Bautista
+9068,52,2021-03-31,C,"Roger  Wynn","***Protected Voter***",,,,,I,Engineering,CH,,250.00,,Wynn
+9068,53,2021-03-31,C,"Donald  Novin","***Protected Voter***",,,,,I,Sales,CH,,250.00,,Novin
+9068,54,2021-03-31,C,"Tor  Friedman","403 East Park Ave",,Tallahassee,FL,32301,I,,CH,,100.00,,Friedman
+9068,55,2021-03-31,C,"Joy  Ryan","***Protected Voter***",,,,,I,,CH,,100.00,,Ryan
+9068,56,2021-03-31,C,"Jeff  Couch","2753 Millstone Plantation Rd.",,Tallahassee,FL,32312,I,,CH,,100.00,,Couch
+9068,57,2021-03-31,C,"Tracey  Cohen","2518 Marston Rd. ",,Tallahassee,FL,32308,I,Print<br>Production,CH,,250.00,,Cohen
+9068,58,2021-03-31,C,"Jeremy   Cohen","2518 Marston Rd.",,Tallahassee,FL,32308,I,Print<br>Production<br>,CH,,250.00,,Cohen
+9068,59,2021-03-31,C,"Joan  Mayernick","4115 Kipling Ct.",,Tallahassee,FL,32311,I,"Retired ",CH,,250.00,,Mayernick
+9068,60,2021-03-31,C,"William  Smith","6284 Pine Fair Way",,Tallahassee,FL,32309,I,,CH,,100.00,,Smith
+9068,61,2021-03-31,C,"Ethan  Katz","187 Meridianna Dr",,Tallahassee,FL,32312,I,,CH,,10.00,,Katz
+9068,62,2021-03-31,C,"Jean  Moyle","856 North Forest Drive",,Tallahassee,FL,32303,I,Retired,CH,,250.00,,Moyle
+9068,63,2021-03-31,C,"Matthew  Montgomery","116 Wildwood Ave",,"Ormond Beach",FL,32176,I,"Finance ",CH,,250.00,,Montgomery
+9068,64,2021-03-31,C,"Davisson  Dunlap","606 Middlebrooks Circle",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Dunlap
+9068,65,2021-03-31,C,"Lawrence  Keefe","15 Country Club Road",,Tallahassee,FL,32579,I,"Attorney ",CH,,250.00,,Keefe
+9068,66,2021-03-31,C,"Clarissa  Dunlap","606 Middlebrooks Circle",,Tallahassee,FL,32312,I,"Teacher ",CH,,250.00,,Dunlap
+9068,67,2021-03-31,C,"Thomas  Tharpe","3628 Pine Tip Rd",,Tallahassee,FL,32312,I,"Retired ",CH,,250.00,,Tharpe
+9068,68,2021-03-31,C,"John  Trombetta","1503 Bellau Wood Dr.",,Tallahassee,FL,32308,I,"ED,<br>ALZHEIMERS<br>PROJ.",CH,,250.00,,Trombetta
+9068,69,2021-03-31,C,"Elizabeth   Trombetta","1503 Bellau Wood Dr.",,Tallahassee,FL,32308,I,"DIR. FL<br>BAR",CH,,250.00,,Trombetta
+9068,70,2021-03-31,C,"Jonathan  Hayes","613 Short St.",,Tallahassee,FL,32308,I,,CH,,50.00,,Hayes
+9068,71,2021-03-31,C,"Elizabeth   Barron","187 El Destino Rd.",,Monticello,FL,32344,I,"Attorney ",CH,,250.00,,Barron
+9068,72,2021-03-31,C,"Michael   Glazer","1211 Braemore Way",,Tallahassee,FL,32308,I,"Attorney ",CH,,200.00,,Glazer
+9068,73,2021-03-31,C,"Wendy  Schulte","1581 Marion Ave",,Tallahassee,FL,32303,I,"Retired ",CH,,125.00,,Schulte
+9068,74,2021-03-31,C,"Miles  Knight","1737 West Point Circle",,Marietta,GA,30068,I,,CH,,100.00,,Knight
+9068,75,2021-03-31,C,"Donald  Gray","***Protected Voter***",,,,,I,,CH,,100.00,,Gray
+9068,76,2021-03-31,C,"Ryan  McGehee","418 Valley Brook Dr. NE",,Atlanta,GA,30342,I,"Finance ",CH,,150.00,,McGehee
+9068,77,2021-03-31,C,"Nathaniel  Myers","647 Chancey Lane",,Tallahassee,FL,32308,I,Healthcare,CH,,250.00,,Myers
+9068,78,2021-03-31,C,"Laurence  Maurer","1765 SE 7 St.",,"Fort Lauderdale",FL,33316,I,Engineering<br>,CH,,250.00,,Maurer
+9068,79,2021-03-31,C,"Clay  Dodson","4621 Barclay Ln",,Tallahassee,FL,32309,I,,CH,,100.00,,"Dodson "
+9068,80,2021-03-31,C,"Frank  Mayernick","4115 Kipling Ct",,Tallahassee,FL,32311,I,"Retired ",CH,,250.00,,Mayernick
+9068,81,2021-03-31,C,"Benjamin  Bean","2119 SW 16th Terrace",,"Fort Lauderdale",FL,33315,I,"Attorney ",CH,,250.00,,Bean
+9068,82,2021-03-31,C,"Thomas  Panza","2400 East Commercial Blvd.",,"Fort Lauderdale",FL,33308,I,"Attorney ",CH,,250.00,,Panza
+9068,83,2021-03-31,C,"Alan  Williams","801 Olive Ave.",,Tallahassee,FL,32301,I,,CH,,100.00,,Williams
+9068,84,2021-03-31,C,"Lance  Lozano","2525 Killarney Way",,Tallahassee,FL,32309,I,,CH,,50.00,,Lozano
+9068,85,2021-03-31,C,"Robert  Clarke","4703 High Grove Rd.",,Tallahassee,FL,32309,I,"Attorney ",CH,,250.00,,Clarke
+9068,86,2021-03-31,C,"Jack  Kiker","222 Oakland Ave",,Tallahassee,FL,32301,I,ATTORNEY,CH,,250.00,,Kiker
+9068,87,2021-03-31,C,"Jennifer  Bean","2119 SW 16th Terrace",,"Fort Lauderdale",FL,33315,I,"Attorney ",CH,,250.00,,Bean
+9068,88,2021-03-31,C,"Julian  Proctor","3953 Meandering Ln",,Tallahassee,FL,32308,I,ATTORNEY,CH,,200.00,,Proctor
+9068,89,2021-03-31,C,"Barney  Bishop III","2215 Thomasville Rd.",,Tallahassee,FL,32308,I,"Attorney ",CH,,250.00,,"Bishop III"
+9068,90,2021-03-31,C,"Shelby Lynn  Stinson","2215 Thomasville Rd",,Tallahassee,FL,32308,I,PHYS.<br>ASSISTANT,CH,,250.00,,Stinson
+9068,91,2021-03-31,C,"Thomas  O'Steen","2142 Trescott Dr.",,Tallahassee,FL,32308,I,Engineer,CH,,250.00,,O'Steen
+9068,92,2021-03-31,C,"Amir  Darabi","910 Lasswade Dr.",,Tallahassee,FL,32312,I,Engineer,CH,,250.00,,Darabi
+9068,93,2021-03-31,C,"Richard  Moore","2644 N. Arendell Way",,Tallahassee,FL,32308,I,ENGINEER,CH,,250.00,,Moore
+9068,94,2021-03-31,C,"Ken  Powell","6990 Napa Court",,Tallahassee,FL,32317,I,ENGINEER,CH,,250.00,,Powell
+9068,95,2021-03-31,C,"Pamela  Kane","2340 SW 14th Ct",,"Fort Lauderdale",FL,33312,I,,CH,,50.00,,Kane
+9068,96,2021-03-31,C,"Angelina  Perez","9880 NW 2nd Court",,Plantation,FL,33324,I,,CH,,75.00,,Perez
+9068,97,2021-03-31,C,"Ben  Hood","3115 Dowling Drive",,Tallahassee,FL,32309,I,Engineer,CH,,250.00,,Hood
+9068,98,2021-03-31,C,"Matthew  Gilbert","PO Box 13796",,Tallahassee,FL,32317,I,"CPA, CAR<br>RIGGS",CH,,250.00,,Gilbert
+9068,99,2021-03-31,C,"Brent  Sparkman","5716 Farnsworth Dr.",,Tallahassee,FL,32312,I,"CPA, CARR<br>RIGGS",CH,,250.00,,Sparkman
+9068,100,2021-03-31,C,"Christine   Hale","1736 Commerce Blvd.",,Midway,FL,32343,I,Construction<br>,CH,,250.00,,Hale
+9068,101,2021-03-31,C,"Michael   Carter","7120 Nesters Dr",,Tallahassee,FL,32312,I,"Finance ",CH,,250.00,,Carter
+9068,102,2021-03-31,C,"Martin  Sipple","2921 Woodside Dr.",,Tallahassee,FL,32312,I,"Attorney ",CH,,100.00,,Sipple
+9068,103,2021-03-31,C,"Charles  DuBose Ausley","PO Box 391",,Tallahassee,FL,32302,I,"Attorney ",CH,,250.00,,"DuBose Ausley"
+9068,104,2021-03-31,C,"Kevin  Forsthoefel","2609 Lotus Dr",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Forsthoefel
+9068,105,2021-03-31,C,"Ken  Abele","3315 Dartmoor Dr.",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Abele
+9068,106,2021-03-31,C,"James  Daughton Jr","1386 Constitution Place E",,Tallahassee,FL,32308,I,"Attorney ",CH,,250.00,,"Daughton Jr"
+9068,107,2021-03-31,C,"Samie  Dixon Jr","6452 Old Millstone Plantation Rd.",,Tallahassee,FL,32312,I,"Finance ",CH,,250.00,,"Dixon Jr"
+9068,108,2021-03-31,C,"Clinton  Ketcham","706 Middlebrooks Circle",,Tallahassee,FL,32312,I,"Finance ",CH,,250.00,,Ketcham
+9068,109,2021-03-31,C,"Laura  Ketcham","706 Middlebrooks Circle",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Ketcham
+9068,110,2021-03-31,C,"Rick  Savage","4967 Glen Castle Dr.",,Tallahassee,FL,32309,I,"Attorney ",CH,,250.00,,Savage
+9068,111,2021-03-31,C,"Jon  Moyle Jr","118 North Gadsden St",,Tallahassee,FL,32301,I,"Attorney ",CH,,250.00,,"Moyle Jr"
+9068,112,2021-03-31,C,"Serena  Moyle","118 North Gadsden St",,Tallahassee,FL,32301,I,"Attorney ",CH,,250.00,,Moyle
+9068,113,2021-03-31,C,"Ryan  Lawson","5019 Metke Ln.",,Tallahassee,FL,32308,I,ELECTRICIAN,CH,,250.00,,Lawson
+9068,114,2021-03-31,C,"Jennifer  Roady-Lawson","656 Forest Lair",,Tallahassee,FL,32312,I,"Teacher ",CH,,250.00,,Roady-Lawson
+9068,115,2021-03-31,C,"OZ   Lawson III","656 Forest Lair",,Tallahassee,FL,32312,I,Construction<br>,CH,,250.00,,"Lawson III"
+9068,116,2021-03-31,C,"OZ   Lawson Jr","5021 Metzke Lane",,Tallahassee,FL,32303,I,Construction,CH,,250.00,,"Lawson Jr"
+9068,117,2021-03-31,C,"William  Fixel","2115 E. Randolph Circle",,Tallahassee,FL,32308,I,"Attorney ",CH,,250.00,,Fixel
+9068,118,2021-03-31,C,"Sarah   Fixel","2115 E. Randolph Circle",,Tallahassee,FL,32308,I,"FL DEPT<br>ECONOMIC<br>OP.",CH,,250.00,,Fixel
+9068,119,2021-03-31,C,"Joe  Fixel","251 Rosehill Dr. N",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Fixel
+9068,120,2021-03-31,C,"Janet  Fixel","251 Rosehill Dr. N.",,Tallahassee,FL,32312,I,"Retired ",CH,,250.00,,Fixel
+9068,121,2021-03-31,C,"William  Graham","1203 Kenilworth Rd.",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Graham
+9068,122,2021-03-31,C,"Christopher   Barkas","2659 Millstone Plantation Rd",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Barkas
+9068,123,2021-03-31,C,"Jennifer  Gleason","5269 Wild Goose Rd.",,Tallahassee,FL,32311,I,"Attorney ",CH,,250.00,,Gleason
+9068,124,2021-03-31,C,"Douglas  Jones","423 Audubon Dr.",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Jones
+9068,125,2021-03-31,C,"Anthony   Carvalho","3896 W Millers Bridge Rd",,Tallahassee,FL,32312,I,Healthcare,CH,,250.00,,"Carvalho "
+9068,126,2021-03-31,C,"Scott  Ross","3580 Mossy Creek Ln.",,Tallahassee,FL,32311,I,"Attorney ",CH,,250.00,,Ross
+9068,127,2021-03-31,C,"James   Boxold","***Protected Voter***",,,,,I,"P, CAP.<br>CITY CONS.",CH,,250.00,,Boxold
+9068,128,2021-03-31,C,"Nicholas  Iarossi","***Protected Voter***",,,,,I,"P, CAP.<br>CITY<br>CONSUL.",CH,,250.00,,Iarossi
+9068,129,2021-03-31,C,"Deborah Wright  Iarossi","***Protected Voter***",,,,,I,"Retired ",CH,,250.00,,Iarossi
+9068,130,2021-03-31,C,"Stephen  Kalifeh II","1530 Marion Ave.",,Tallahassee,FL,32303,I,"CPA,<br>THOMAS<br>HOWELL",CH,,250.00,,"Kalifeh II"
+9068,131,2021-03-31,C,"Ronald  Laface Jr","1728 Tarpon Dr.",,Tallahassee,FL,32308,I,"P, CAP<br>CITY CONS.",CH,,250.00,,"Laface Jr"
+9068,132,2021-03-31,C,"Douglas  Saunders III","526 Vinnedge Ride",,Tallahassee,FL,32303,I,"Insurance ",CH,,250.00,,"Saunders III"
+9068,133,2021-03-31,C,"Gregory  Jaap","2713 Waterford Glen Ct",,Tallahassee,FL,32312,I,"Insurance ",CH,,250.00,,Jaap
+9068,134,2021-03-31,C,"Matthew  Osiecki","2415 Radford Farm Rd",,Tallahassee,FL,32309,I,"Insurance ",CH,,250.00,,Osiecki
+9068,135,2021-03-31,C,"Elizabeth   Dudek","4617 Killmore Lane",,Tallahassee,FL,32309,I,ATTORNEY,CH,,250.00,,Dudek
+9068,136,2021-03-31,C,"Michael  Cherniga","708 Forest Lair",,Tallahassee,FL,32303,I,"Attorney ",CH,,250.00,,Cherniga
+9068,137,2021-03-31,C,"David  Ashburn","2332 Haverhill Rd.",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Ashburn
+9068,138,2021-03-31,C,"Barry  Richard","***Protected Voter***",,,,,I,"Attorney ",CH,,250.00,,Richard
+9068,139,2021-03-31,C,"Hayden  Dempsey","***Protected Voter***",,,,,I,"Attorney ",CH,,250.00,,Dempsey
+9068,140,2021-03-31,C,"Fredric  Baggett","1867 Miller Landing Road",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Baggett
+9068,141,2021-03-31,C,"Brian  Crumbaker","6617 Lake Pisgah Dr.",,Tallahassee,FL,32309,I,"Attorney ",CH,,250.00,,Crumbaker
+9068,142,2021-03-31,C,"Agustin  Corbella","2226 Ellicott Dr.",,Tallahassee,FL,32308,I,"Attorney ",CH,,200.00,,Corbella
+9068,143,2021-03-31,C,"Andrew  Ketchel","***Protected Voter***",,,,,I,,CH,,100.00,,Ketchel
+9068,144,2021-03-31,C,"Robert  McDonald","859 Hill Roost Rd.",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,McDonald
+9068,145,2021-03-31,C,"Lorence  Bielby","101 E. College Ave",,Tallahassee,FL,32301,I,"Attorney ",CH,,250.00,,Bielby
+9068,1,2021-03-31,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,ECOMMERCE<br>FEES,362.92,,PAYPAL
+9069,1,2021-04-02,C,"Susan  Maurer","1765 SE 7th St.","Suite 905","Fort Lauderdale",FL,33316,I,Lawyer,CH,,250.00,,Maurer
+9069,2,2021-04-02,C,"Martha  Barnett","1901 Miller Landing Road",,Tallahassee,FL,32312,I,"Attorney ",CH,,250.00,,Barnett
+9069,3,2021-04-02,C,"Jordan  Matheson","1400 Village Square Boulevard",3-219,Tallahassee,FL,32312,I,"Finance ",CH,,250.00,,Matheson
+9069,1,2021-04-05,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,ecommerce<br>fees,187.78,,PAYPAL
+9069,2,2021-04-05,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE",800.00,,"GRIMSLEY AND COMPANY CPAS"
+9069,3,2021-04-05,E,"TARGET PRINT AND MAIL","635 W TENNESSEE STREET",,TALLAHASSEE,FL,32304,,,MO,"THANK YOU NOTES/CAMPAIGN SUPPLIES",384.68,,"TARGET PRINT AND MAIL"
+9069,4,2021-04-05,C,"Panza Maurer Law Firm","2400 East Commercial Blvd.","Suite 905","Fort Lauderdale",FL,33308,B,"LAW FIRM",CH,,250.00,,"Panza Maurer Law Firm "
+9069,5,2021-04-05,C,"Lastowski Realty & Property Se","1641 B Metropolitan Cir",,Tallahassee,FL,32308,B,,CH,,100.00,,"Lastowski Realty & Property Se"
+9069,6,2021-04-05,C,"Smith, Bryan & Myers, Inc.","311 East Park Ave.",,Tallahassee,FL,32301,B,GOVT<br>RELATIONS,CH,,250.00,,"Smith, Bryan & Myers, Inc. "
+9069,7,2021-04-05,C,"EKW Holdings of Walton, LLC","702 Waverly Rd.",,Tallahassee,FL,32312,B,REAL<br>ESTATE<br>HOLDINGS,CH,,250.00,,"EKW Holdings of Walton, LLC"
+9069,8,2021-04-09,C,"Patrick  Proctor","705 Middlebrooks Circle",,Tallahassee,FL,32312,I,"COMM. R.E<br>SALES",CH,,250.00,,Proctor
+9069,9,2021-04-09,C,"Gail  Knight","4927 Arden Forest Way",,Tallahassee,FL,32309,I,RETIRED,CH,,250.00,,Knight
+9069,10,2021-04-09,C,"Robert   Knight","4927 Arden Forest Way ",,Tallahassee,FL,32309,I,RETIRED,CH,,250.00,,"Knight "
+9069,11,2021-04-09,C,"Daniel Brock Knight","4927 Arden Forest Way",,Tallahassee,FL,32309,I,"Graphic<br>Design ",CH,,250.00,,Knight
+9069,12,2021-04-09,C,"Timothy Fitzgerald Knight","4927 Arden Forest Way",,Tallahassee,FL,32309,I,Photography<br>,CH,,250.00,,Knight
+9069,13,2021-04-09,C,"Thomas  Knight","4927 Arden Forest Way",,Tallahassee,FL,32309,I,"POLITICAL<br>ADV. SERV",CH,,250.00,,Knight
+9069,14,2021-04-09,C,"Kim's Katering","2400 E. Commercial Boulevard Suite","Suite 905","Ft. Lauderdale",FL,33308,B,"Catering ",CH,,250.00,,"Kim's Katering"
+9069,15,2021-04-09,C,"Dixie  Daimwood","9516 Star View Ln",,Tallahassee,FL,32309,I,,CH,,100.00,,Daimwood
+9069,16,2021-04-09,C,"Public Sector Research Associa","2400 E. Commercial Boulevard","Suite 905","Ft. Lauderdale",FL,33308,O,ASSOCIATION,CH,,250.00,,"Public Sector Research Associa"
+9069,17,2021-04-09,C,"Academic Research Associates","2400 E. Commercial Boulevard","Suite 905","Ft. Lauderdale",FL,33308,B,WRITING/EDITING,CH,,250.00,,"Academic Research Associates"
+9069,18,2021-04-16,C,"Sandra  Harris","828 N. Forest Drive",,Tallahassee,FL,32303,I,"Education ",CH,,250.00,,Harris
+9069,19,2021-04-22,C,"Joseph  Kelley","830 Pine Bluff Trail",,Tallahassee,FL,32312,I,"CEO,GHOST<br>CONTRL",CH,,200.00,,Kelley
+9069,20,2021-04-22,C,"Financial Partners of N FL LLC","403 East Park Ave.",,Tallahassee,FL,32301,B,"FIN. ADV<br>SERVC.",CH,,100.00,,"Financial Partners of N FL LLC"
+9069,21,2021-04-22,C,"William  Butler","997 Ilex Way",,Tallahassee,FL,32312,I,"P, R.E.<br>INSYNC",CH,,250.00,,Butler
+9069,22,2021-04-22,C,"Erin  Tilton","7701 Deepwood Trl.",,Tallahassee,FL,32317,I,"Attorney ",CH,,250.00,,Tilton
+9069,23,2021-04-22,C,"Nancy  Click","6031 Quail Ridge Drive",,Tallahassee,FL,32312,I,"PR,<br>MAYFIELD<br>GRP",CH,,250.00,,"Click "
+9069,24,2021-04-22,C,"Sallie M. Ausley","3212 Thomasville Road",,Tallahassee,FL,32308,I,RETIRED,CH,,250.00,,Ausley
+9069,25,2021-04-30,C,"Patrick   McKee","1103 Shalimar Dr.",,Tallahassee,FL,32312,I,"P, MCKEE<br>INS.",CH,,250.00,,McKee
+9069,26,2021-04-30,C,"Talethia  Edwards","1802 Saxon St.",,Tallahassee,FL,32310,I,,CH,,100.00,,Edwards
+9069,27,2021-04-30,C,"Bill  Smith","1005 East Park Ave.",,Tallahassee,FL,32301,I,"CEO,<br>CAPITAL<br>CITY BANK",CH,,250.00,,Smith
+9069,28,2021-04-30,C,"Paula  Smith","1005 East Park Ave.",,Tallahassee,FL,32301,I,RETIRED,CH,,250.00,,Smith
+9069,29,2021-04-30,C,"James  Gay","2676 Breton Ridge Dr.",,Tallahassee,FL,32312,I,CERTIFIED<br>PUBLIC<br>ACCT,CH,,250.00,,Gay
+9069,30,2021-04-30,C,"Grimsley and Company CPAs","1427 Piedmont Drive East",,Tallahassee,FL,32308,B,Accounting<br>,CH,,250.00,,"Grimsley and Company CPAs"
+9081,1,2021-05-06,C,"Timothy  Denny","1714 Copperfield Circle",,Tallahassee,FL,32312,I,Retired,CH,,200.00,,Denny
+9081,2,2021-05-07,C,"John B Smith","***Protected Voter***",,,,,I,"P, AJAX<br>Corp.",CH,,250.00,,Smith
+9081,3,2021-05-07,C,"Brianne D Smith","***Protected Voter***",,,,,I,Homemaker,CH,,250.00,,Smith
+9081,4,2021-05-11,C,"Reginald  Bouthillier","3857 Moriarity Court",,Tallahassee,FL,32309,I,"Attorney ",CH,,250.00,,Bouthillier
+9081,5,2021-05-11,C,"Robert  Walters","112 Sugar Plum Dr",,Tallahassee,FL,32312,I,,CH,,100.00,,Walters
+9081,6,2021-05-13,C,"Benjamin  Diamond","165 7th Avenue NE",,"St. Petersburg",FL,33701,I,"Attorney ",CH,,250.00,,Diamond
+9081,7,2021-05-14,C,"Mary Owen Thames","***Protected Voter***",,,,,I,RETIRED,CH,,250.00,,Thames
+9081,8,2021-05-14,C,"William G.  Thames Jr.","215 Rosehill Ln.",,Tallahassee,FL,32312,I,Lawyer,CH,,250.00,,"Thames Jr. "
+9081,1,2021-05-20,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ECOMMERCE FEES",31.95,,PAYPAL
+9081,2,2021-05-20,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE REPORTING",740.00,,"GRIMSLEY AND COMPANY CPAS"
+9081,9,2021-05-21,C,"Vaughn  Wilson","***Protected Voter***",,,,,I,"P, MEGA<br>ACE MEDIA",CH,,250.00,,Wilson
+9081,10,2021-05-31,C,"William  Faulkner III","1102 Victory Garden Dr",,Tallahassee,FL,32301,I,"RES. R.E.<br>Construction<br>",CH,,250.00,,"Faulkner III"
+9081,11,2021-05-31,C,"Sean  Marston","5979 Ansel Ferrel Rd",,Tallahassee,FL,32309,I,"P, URBAN<br>CATALYSTS",CH,,250.00,,Marston
+9081,12,2021-05-31,C,"Ronald  Hobbs","8940 Winged Foot Dr.",,Tallahassee,FL,32312,I,"Comm R.E.<br>Dev.",CH,,250.00,,Hobbs
+9081,13,2021-05-31,C,"Brian  Hobbs","***Protected Voter***",,,,,I,"RES REAL<br>ESTATE<br>DEV.",CH,,250.00,,Hobbs
+9081,14,2021-05-31,C,"Marcia  Thornberry","4946 Glen Castle Dr.",,Tallahassee,FL,32309,I,"P,<br>THORNBERRY<br>TECH.",CH,,250.00,,Thornberry
+9081,15,2021-05-31,C,"Brady  Squires","3456 Chamblee Rd.",,Tallahassee,FL,32309,I,,CH,,100.00,,Squires
+9081,16,2021-05-31,C,"H2 Engineering, Inc.","114 E. 5th Ave.",,Tallahassee,FL,32309,B,ENGINEERING<br>FIRM,CH,,250.00,,"H2 Engineering, Inc."
+9095,2,2021-06-01,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE",565.00,,"GRIMSLEY AND COMPANY CPAS"
+9095,1,2021-06-15,C,"Collegetown Rentals LLC","2020 W PENSACOLA STREET","SUITE 90B",TALLAHASSEE,FL,32316,B,COMMERCIAL<br>RENTALS,CH,,150.00,,"Collegetown Rentals LLC"
+9095,1,2021-06-15,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ecommerce fees",4.65,,PAYPAL
+9117,1,2021-06-15,C,"Collegetown Rentals LLC","2020 W PENSACOLA STREET","SUITE 90B",TALLAHASSEE,FL,32316,B,COMMERCIAL<br>RENTALS,CH,,150.00,D,"Collegetown Rentals LLC"
+9117,2,2021-06-15,C,"MATTHEW  LATCH","2020 W PENSACOLA STREET","SUITE 90B",TALLAHASSEE,FL,32316,I,"COMMERCIAL RENTALS",CH,,150.00,A,LATCH
+9095,2,2021-06-16,C,"Stephen  Birtman","1015 Waverly Road",,Tallahassee,FL,32312,I,POLITICAL<br>ADVIS.<br>SERV.,CH,,200.00,,Birtman
+9097,1,2021-07-06,C,"Wendy  Walker","1329 Preakness Point",,Tallahassee,FL,32308,I,"P,<br>Leadership<br>FL",CH,,250.00,,Walker
+9097,2,2021-07-06,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE REPORTING",475.00,,"GRIMSLEY AND COMPANY CPAS"
+9097,2,2021-07-15,C,"Steven  Evans","3920 Bobbin Brook Circle",,Tallahassee,FL,32312,I,"Retired ",CH,,500.00,,Evans
+9097,3,2021-07-22,C,"Laura  Rogers","1741 Marston Place",,Tallahassee,FL,32308,I,"Program<br>Dir. Lead<br>TLH",CH,,250.00,,Rogers
+9097,4,2021-07-22,C,"Samuel   Rogers, Jr.","1741 Marston Place",,Tallahassee,FL,32308,I,"Prop. &<br>Cas. Ins.",CH,,250.00,,"Rogers, Jr. "
+9097,5,2021-07-22,C,"Jennifer  Gunter","515 South Ride",,Tallahassee,FL,32303,I,FDOT<br>Manager,CH,,250.00,,Gunter
+9097,6,2021-07-22,C,"Bart  Gunter","515 South Ride",,Tallahassee,FL,32303,I,"Prop &<br>Cas. Ins.",CH,,250.00,,Gunter
+9097,7,2021-07-22,C,"Rebecca  Duncan","1645 Copperfield Cir.",,Tallahassee,FL,32312,I,Homemaker,CH,,250.00,,Duncan
+9097,8,2021-07-22,C,"James D. Duncan","1645 Copperfield Cir.",,Tallahassee,FL,32312,I,"Prop & Cas<br>Insurance",CH,,250.00,,Duncan
+9097,9,2021-07-22,C,"Vaughn Investments","PO Box 15434",,Tallahassee,FL,32317,B,Real<br>Estate<br>Inv.,CH,,250.00,,"Vaughn Investments"
+9097,10,2021-07-22,C,"G Kevin Vaughn","PO Box 15434",,Tallahassee,FL,32317,I,"Prop &<br>Cas.<br>Insurance",CH,,250.00,,Vaughn
+9097,11,2021-07-22,C,"Steven  Evans","3920 Bobbin Brook Circle",,Tallahassee,FL,32312,I,"Retired ",CH,,500.00,,Evans
+9097,1,2021-07-23,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ECOMMERCE FEES",37.15,,PAYPAL
+9124,1,2021-08-18,C,"Krista  Campbell","***Protected Voter***",,,,,I,"COO, FBMC<br>MGMT",CH,,500.00,,Campbell
+9124,2,2021-08-18,C,"Bennett  Napier","300 South Duval Street",#803,Tallahassee,FL,32301,I,"CEO,PRTNS<br>IN ASSOC<br>MGT",CH,,1000.00,,Napier
+9124,1,2021-08-18,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ecommerce fees",29.30,,PAYPAL
+9124,2,2021-08-18,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",450.00,,"GRIMSLEY AND COMPANY CPAS"
+9135,1,2021-09-01,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",450.00,,"GRIMSLEY AND COMPANY CPAS"
+9135,2,2021-09-01,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ECOMMERCE FEES",394.06,,PAYPAL
+9135,1,2021-09-10,C,"Patrick  O'Bryant","131 W. 4th Avenue",,Tallahassee,FL,32303,I,ATTORNEY,CH,,500.00,,O'Bryant
+9135,2,2021-09-13,C,"Martin  Kavka","2115 Old Fort Dr",,Tallahassee,FL,32301,I,"Education ",CH,,500.00,,Kavka
+9135,3,2021-09-16,C,"Jennifer  Hinson","2520 Chamberlin Dr.",,Tallahassee,FL,32308,I,Healthcare<br>Advisory,CH,,250.00,,Hinson
+9135,4,2021-09-16,C,"Samantha  Sexton","5901 N Kenneth Ave",,Tampa,FL,33604,I,"Dir. of<br>Comms; UF",CH,,250.00,,Sexton
+9135,5,2021-09-16,C,"Kristen  Schmidt","13403 North Meridian Road",,Tallahassee,FL,32312,I,,CH,,50.00,,Schmidt
+9135,6,2021-09-16,C,"Max  Solomon","3019 Richview Park Cir S.",,Tallahassee,FL,32301,I,,CH,,25.00,,Solomon
+9135,7,2021-09-16,C,"Michael  Eurich","PO Box 15741",,Tallahassee,FL,32317,I,,CH,,100.00,,Eurich
+9135,8,2021-09-16,C,"Daniel  Taylor","1224 Mitchell Ave",,Tallahassee,FL,32303,I,,CH,,50.00,,Taylor
+9135,13,2021-09-16,C,"Sherrill  Ragans","1305 Parga St.",,Tallahassee,FL,32304-1326,I,"College<br>Administrator<br> ",CH,,500.00,,Ragans
+9135,9,2021-09-17,C,"Christian  Bock","1501 SW 22nd Way",,"Boynton Beach",FL,33426,I,"Education ",CH,,1000.00,,Bock
+9135,10,2021-09-17,C,"Martha  Barnett","1901 Miller Landing Road",,Tallahassee,FL,32312,I,ATTORNEY,CH,,500.00,,Barnett
+9135,11,2021-09-20,C,"Christopher  Maier","1106 Wald Road",,Orlando,FL,32806,I,"Public<br>Service ",CH,,250.00,,Maier
+9135,12,2021-09-21,C,"Gil  Ziffer","1448 Terrace St. #1",,Tallahassee,FL,32308,I,"P, Ziffer<br>Stansberry",CH,,500.00,,Ziffer
+9135,14,2021-09-23,C,"Gray  Cartee","1006 ALACHUA AVE",,Tallahassee,FL,32308,I,,CH,,100.00,,Cartee
+9135,15,2021-09-23,C,"Lee  Hinkle","824 Greenbrier Ln",,Tallahassee,FL,32308,I,College<br>Administrator<br>,CH,,750.00,,Hinkle
+9135,16,2021-09-23,C,"Donald  Hinkle","824 Greenbrier Ln",,Tallahassee,FL,32308,I,Attorney,CH,,250.00,,Hinkle
+9135,17,2021-09-23,C,"Jill  Carraway","2910 Kerry Forrest Pkwy.",,Tallahassee,FL,32309,I,"Writing<br>and Comms.",CH,,250.00,,Carraway
+9135,18,2021-09-23,C,"Phillip  Downs","2992 Habersham Dr",,Tallahassee,FL,32309,I,"Downs & St<br>Germain",CH,,500.00,,Downs
+9135,19,2021-09-23,C,"Hal  Transou III","7193 Ox Bow Cir ",,Tallahassee,FL,32312,I,"Sales ",CH,,250.00,,"Transou III"
+9135,20,2021-09-23,C,"Bill  Strauss","***Protected Voter***",,,,,I,Portable<br>Restrooms,CH,,1000.00,,Strauss
+9135,21,2021-09-23,C,"Robert  Miller","2713 Lucerne Dr.",,Tallahassee,FL,32303,I,"Insur.<br>Ser.<br>Provider ",CH,,150.00,,Miller
+9135,22,2021-09-23,C,"George  Reynolds IV","***Protected Voter***",,,,,I,,CH,,100.00,,"Reynolds IV"
+9135,23,2021-09-23,C,"John  Perkins","1430 MARION AVENUE",,TALLAHASSEE,FL,32308,I,"Software<br>Devlop. ",CH,,200.00,,Perkins
+9135,44,2021-09-24,C,"James  Scarboro","201 Hawk Drive Meadow Drive",,Tallahassee,FL,32312,I,,CH,,100.00,,"Scarboro "
+9135,45,2021-09-24,C,"Ashley  Leggett","7589 Proctor Rd",,Tallahassee,FL,32309,I,,CH,,50.00,,Leggett
+9135,46,2021-09-24,C,"Lawrence  Hartung","2746 Millstone Plantation Road",,Tallahassee,FL,32312,I,,CH,,100.00,,Hartung
+9135,47,2021-09-24,C,"Edward  Wood","7043 Standing Pines Lane ",,Tallahassee,FL,32312,I,,CH,,100.00,,Wood
+9135,48,2021-09-24,C,"Warren  Smith","2038 Florida Avenue",,Tallahassee,FL,32303,I,Construction,CH,,250.00,,Smith
+9135,49,2021-09-24,C,"Theresa   Proctor","705 Middlebrooks Circle",,Tallahassee,FL,32312,I,"Attorney ",CH,,500.00,,Proctor
+9135,50,2021-09-24,C,"Mathew  Farrar","4097 Tam O Shanter ",,Tallahassee,FL,32309,I,Marketing,CH,,1000.00,,Farrar
+9135,51,2021-09-24,C,"Miguel  Masferrer","4947 Glen Castle Dr. ",,Tallahassee,FL,32309-2959,I,,CH,,100.00,,Masferrer
+9135,52,2021-09-24,C,"William  Oliver","PO Box 1328",,Tallahassee,FL,32302,I,COMM<br>CONSTRUCTION,CH,,150.00,,"Oliver "
+9135,53,2021-09-24,C,"Todd  Sperry","2275 Trescott Drive",,Tallahassee,FL,32308,I,Construction<br>and<br>Renovat,CH,,150.00,,"Sperry "
+9135,54,2021-09-24,C,"P. Stewart  Proctor","1400 Village Square Blvd. Ste. 3 - 151",,Tallahassee,FL,32312,I,"Comm. Real<br>Estate",CH,,750.00,,"Proctor "
+9135,55,2021-09-24,C,"Charles  Cook","1358 Millstream Dr.",,Tallahassee,FL,32312,I,INFORMATION<br>TECH.,CH,,250.00,,Cook
+9135,56,2021-09-24,C,"Nancy  Click","6031 Quail Ridge Road",,Tallahassee,FL,32312,I,,CH,,100.00,,Click
+9135,57,2021-09-24,C,"Strategic Digital Services Inc","318 N. Monroe St., Suite 2, ",,Tallahassee,FL,32301,B,Digital<br>Advertising<br>,CH,,1000.00,,"Strategic Digital Services Inc"
+9135,58,2021-09-24,C,"Hunter Louis LLC","401 Office Plaza Dr.",,Tallahassee,FL,32301,B,Business,CH,,250.00,,"Hunter Louis LLC"
+9135,59,2021-09-24,C,"Michael  Conn","1960 Buford Blvd. Ste C., ",,Tallahassee,FL,32308,I,Architect,CH,,1000.00,,Conn
+9135,60,2021-09-24,C,"Matthew  Tharpe","PO Box 14868",,Tallahassee,FL,32317,I,"New Home<br>Construct.<br>",CH,,500.00,,Tharpe
+9135,61,2021-09-24,C,"Tharpe Construction","PO Box 14868",,Tallahassee,FL,32317,B,"New Home<br>Construct.<br>",CH,,500.00,,"Tharpe Construction"
+9135,62,2021-09-24,C,"Haynes & Associates, LLC","PO Box 10835",,Tallahassee,FL,32302,B,,CH,,50.00,,"Haynes & Associates, LLC"
+9135,63,2021-09-24,C,"Moore Bass Management Co., Inc","805 N. Gadsden, St.",,Tallahassee,FL,32303,B,"Civil Eng.<br>",CH,,1000.00,,"Moore Bass Management Co., Inc"
+9135,64,2021-09-24,C,"Jordan  Matheson","1400 Village Square Blvd. Unit 3-219",,Tallahassee,FL,32312,I,REAL<br>ESTATE<br>DEV.,CH,,750.00,,Matheson
+9135,65,2021-09-24,C,"David  Parker","335 Milestone Dr",,Tallahassee,FL,32312,I,"FL Youth<br>Construction",CH,,250.00,,Parker
+9135,66,2021-09-24,C,"Sarah  Dailey","2510 Limerick Dr.",,Tallahassee,FL,32309,I,Retired,CH,,500.00,,Dailey
+9135,67,2021-09-24,C,"William  Tucker","2802 Primrose Lane",,Tallahassee,FL,32301,I,,CH,,100.00,,"Tucker "
+9135,68,2021-09-24,C,"James Ira  Crews Jr.","PO Box 3244 ",,Tallahassee,FL,32315-3244,I,Real<br>Estate,CH,,500.00,,"Crews Jr."
+9135,69,2021-09-24,C,"Richard  Moore","2644 N. Arendell Way",,Tallahassee,FL,32308,I,Attorney,CH,,500.00,,Moore
+9135,70,2021-09-24,C,"Alison  Taber","6337 Glasgow Dr.",,Tallahassee,FL,32312,I,,CH,,100.00,,Taber
+9135,71,2021-09-24,C,"Poole Engineering & Surveying,","2145 Delta Blvd. Suite 100",,Tallahassee,FL,32303,B,ENGINEERING<br>FIRM,CH,,300.00,,"Poole Engineering & Surveying,"
+9135,72,2021-09-24,C,"Edward  Canup","1561 Escadrille Dr.",,Tallahassee,FL,32308,I,"Bank<br>Admin. ",CH,,250.00,,Canup
+9135,73,2021-09-24,C,"Sachs Media Group","PO Box 109",,Tallahassee,FL,32301,B,"Marketing<br>Advisory ",CH,,1000.00,,"Sachs Media Group"
+9135,74,2021-09-24,C,"Garber Road Leasing Partnershi","PO Box 2068",,Tallahassee,FL,32316,B,"Real<br>Estate<br>Advisory ",CH,,500.00,,"Garber Road Leasing Partnershi"
+9135,75,2021-09-24,C,"Hamilton Leasing Partnership","PO Box 2068",,Tallahassee,FL,32316,I,"Real<br>Estate<br>Advisory ",CH,,500.00,,"Hamilton Leasing Partnership"
+9135,76,2021-09-24,C,"Curtis  Zimmerman","1821 Miccosukee Commons Dr, ",,Tallahassee,FL,32308,I,Marketing<br>Advisory,CH,,500.00,,Zimmerman
+9135,77,2021-09-24,C,"William  Smith III","6284 Pine Fair Way",,Tallahassee,FL,32309,I,,CH,,100.00,,"Smith III"
+9135,78,2021-09-24,C,"Ron  Sachs","PO Box 109, Tallahassee",,Tallahassee,FL,32301,I,"Comms.<br>Advisory ",CH,,1000.00,,Sachs
+9135,79,2021-09-24,C,"Gay  Webster- Sachs","PO Box 109",,Tallahassee,FL,32301,I,"Comms.<br>Advisory ",CH,,1000.00,,"Webster- Sachs"
+9135,80,2021-09-24,C,"Allison  Tant","6035 Boynton Homestead",,Tallahassee,FL,32312,I,"HOUSE OF<br>REP. FL",CH,,500.00,,Tant
+9135,81,2021-09-24,C,"Ronald  Christaldi","3321 W. Carrington St.",,Tampa,FL,33611,I,Lawyer,CH,,1000.00,,Christaldi
+9135,82,2021-09-24,C,"Helen  Proctor","323 Thornberg Dr.",,Tallahassee,FL,32312,I,,CH,,50.00,,Proctor
+9135,83,2021-09-24,C,"Davisson  Dunalp III","606 Middlebrooks Circle ",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,"Dunalp III"
+9135,84,2021-09-24,C,"Clarissa  Dunlap","606 Middlebrooks Circle",,Tallahassee,FL,32312,I,Jewelry<br>Design,CH,,500.00,,Dunlap
+9135,85,2021-09-24,C,"Jason  Gasset","6326 Bird Dog Point",,Tallahassee,FL,32309,I,,CH,,100.00,,Gasset
+9135,86,2021-09-24,C,"Patricia   Martin","3119 Brockton",,Tallahassee,FL,32308,I,,CH,,100.00,,Martin
+9135,87,2021-09-24,C,"David Keith  Coburn","PO Box 3003",,Tallahassee,FL,32315,I,College<br>Athletics,CH,,500.00,,Coburn
+9135,88,2021-09-24,C,"Kim  Williams","PO Box 2068",,Tallahassee,FL,32316,I,"Construction<br>Ser. ",CH,,500.00,,"Williams "
+9135,89,2021-09-24,C,"Pinpoint Results LLC","150 S Monroe St., Suite 303",,Tallahassee,FL,32301,B,"Business<br>Advisory ",CH,,250.00,,"Pinpoint Results LLC"
+9135,90,2021-09-24,C,"Allen  Richardson","1821 Fernando Dr.",,Tallahassee,FL,32303,I,,CH,,75.00,,Richardson
+9135,91,2021-09-24,C,"Andrea  Jones","705 Bivins Ave.",,Tallahassee,FL,32303,I,,CH,,75.00,,Jones
+9135,92,2021-09-24,C,"Molly Paige LLC","2518 Marston Rd.",,Tallahassee,FL,32308,B,"Writing<br>and Strat.",CH,,1000.00,,"Molly Paige LLC"
+9135,93,2021-09-24,C,"Jerome Timothy  Jones","3025 Huntington Woods Blvd.",,Tallahassee,FL,32303,I,,CH,,100.00,,Jones
+9135,94,2021-09-24,C,"E. Dylan  Rivers","123 S. Calhoun St.",,Tallahassee,FL,32301,I,,CH,,100.00,,Rivers
+9135,95,2021-09-24,C,"M. Julian   Proctor Jr.","3953 Meandering Ln.",,Tallahassee,FL,32308,I,Real<br>Estate,CH,,150.00,,"Proctor Jr."
+9135,96,2021-09-24,C,"David  Weiss","2909 Woodside Dr.",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Weiss
+9135,97,2021-09-24,C,"Robert  Clarke Jr.","4703 High Grove Rd.",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,"Clarke Jr."
+9135,98,2021-09-24,C,"Elizabeth   Barron","187 El Destino Road",,Monticello,FL,32344,I,Attorney,CH,,250.00,,"Barron "
+9135,99,2021-09-24,C,"James  Donohue","7487 Buck Lake Road",,Tallahassee,FL,32317,I,,CH,,100.00,,Donohue
+9135,100,2021-09-24,C,"Joseph   Long","***Protected Voter***",,,,,I,Real<br>Estate,CH,,500.00,,Long
+9135,101,2021-09-24,C,"W. Paul  Sawyer","2012 Winthrop Way",,Tallahassee,FL,32308,I,,CH,,50.00,,Sawyer
+9135,102,2021-09-24,C,"Thomas  O' Steen","2142 Trescott Dr. ",,Tallahassee,FL,32308,I,"Civil<br>Engineer ",CH,,250.00,,"O' Steen"
+9135,103,2021-09-24,C,"Margaret  O' Steen","2140 Trescott Dr.",,Tallahassee,FL,32308,I,Retired,CH,,250.00,,"O' Steen"
+9135,104,2021-09-24,C,"Curtis  Taylor","2214 High Rd.",,Tallahassee,FL,32303,I,Non-profit<br>admin.,CH,,250.00,,Taylor
+9135,105,2021-09-24,C,"Lewis + Whitlock","206 W. Virginia St.",,Tallahassee,FL,32301,B,Architects,CH,,1000.00,," Lewis + Whitlock"
+9135,106,2021-09-24,C,"Kristen  Harrison","5175 Velda Dairy Rd.",,Tallahassee,FL,32309,I,Bank<br>Director,CH,,150.00,,Harrison
+9135,107,2021-09-24,C,"Gallop  Franklin II","1101 Missionwood Ln.",,Tallahassee,FL,32304,I,Pharmacy<br>Education,CH,,500.00,,"Franklin II"
+9135,108,2021-09-24,C,"Carolyn   Cummings","5005 Touraine Dr.",,Tallahassee,FL,32308,I,Attorney,CH,,250.00,,Cummings
+9135,109,2021-09-24,C,"Robert  Pierce","815 E. 6th Ave.",,Tallahassee,FL,32303,I,,CH,,100.00,,"Pierce "
+9135,110,2021-09-24,C,"Jep  Dove","99 St. Andrews St.",,"Quincy ",FL,32351,I,,CH,,100.00,,"Dove "
+9135,111,2021-09-24,C,"William  Bippus Jr.","900 W. Washington St.",,Tallahassee,FL,32344,I,,CH,,75.00,,"Bippus Jr."
+9135,112,2021-09-24,C,"NAI Talcor","1018 Thomasville Road, Suite 200A",,Tallahassee,FL,32303,B,"Comm. RE<br>Services",CH,,1000.00,,"NAI Talcor"
+9135,113,2021-09-24,C,"Thomas  Barron","187 El Destino Road",,Monticello,FL,32344,I,"P, CAPITAL<br>CITY BANK",CH,,500.00,,Barron
+9135,114,2021-09-24,C,"William  Smith Jr.","PO Box 900",,Tallahassee,FL,32302,I,"Bank<br>Admin. ",CH,,1000.00,,"Smith Jr."
+9135,115,2021-09-24,C,"William  Dahl","PO Box 449",,"Ponte Vedra",FL,32004,I,Private<br>Equity,CH,,1000.00,,Dahl
+9135,116,2021-09-24,C,"Jack  Campbell","2813 Rebecca Dr.",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Campbell
+9135,117,2021-09-24,C,"William  Messer","6336 Bird Dog Pt.",,Tallahassee,FL,32309,I,Insur.<br>Ser.<br>Provider,CH,,1000.00,,Messer
+9135,118,2021-09-24,C,"Richard  Murphy","8267 Charrington Forest Blvd.",,Tallahassee,FL,32312,I,Non-profit<br>Admin.,CH,,200.00,,Murphy
+9135,119,2021-09-24,C,"Moore Bass Consulting, Inc.","805 North Gadsen St.",,Tallahassee,FL,32303,B,"Civil Eng.<br>",CH,,1000.00,,"Moore Bass Consulting, Inc."
+9135,120,2021-09-24,C,"James  Dahl","PO Box 449",,"Ponte Vedra",FL,32004,I,Investment<br>Manage.,CH,,1000.00,,Dahl
+9135,121,2021-09-24,C,"Roberts and Roberts Inc.","805 North Gadsen St.",,Tallahassee,FL,32303,B,Road<br>Construction,CH,,1000.00,,"Roberts and Roberts Inc."
+9135,122,2021-09-24,C,"Hale CONTRACTING","1736 Commerce Blvd",,Tallahassee,FL,32343,B,COMMERCIAL<br>CONTRACTOR,CH,,1000.00,,"Hale CONTRACTING"
+9135,123,2021-09-24,C,Culpepper,"1538 Metropolitan Blvd.",,Tallahassee,FL,32308,B,Construction<br>Management<br>,CH,,1000.00,,Culpepper
+9135,124,2021-09-24,C,"Samantha  Vance","113 S. Monroe St.",,Tallahassee,FL,32301,I,Non-Profit<br>admin.,CH,,500.00,,Vance
+9135,125,2021-09-24,C,"Burga  Demirel","859 E. Call St.",,Tallahassee,FL,32301,I,"RE<br>Advisory ",CH,,1000.00,,Demirel
+9135,126,2021-09-24,C,"Mary Ann  Lindley","503 East Georgia St.",,Tallahassee,FL,32303,I,Retired,CH,,200.00,,Lindley
+9135,127,2021-09-24,C,"Dionte  Gavin","PO Box 38125",,Tallahassee,FL,32315,I,,CH,,100.00,,Gavin
+9135,128,2021-09-24,C,"Carrie  Boyod","3126 Baringer Hill Dr.",,Tallahassee,FL,32311,I,Government<br>,CH,,250.00,,Boyod
+9135,129,2021-09-24,C,"John B Smith","***Protected Voter***",,,,,I,Construction<br>Contractor,CH,,500.00,,Smith
+9135,130,2021-09-24,C,"Brianne  Smith","***Protected Voter***",,,,,I,Nurse,CH,,500.00,,Smith
+9135,131,2021-09-24,C,"Matthew  Sirmans","1217 Lowry Dr.",,Tallahassee,FL,32312,I,,CH,,100.00,,Sirmans
+9135,132,2021-09-24,C,"Christopher   Barkas","2659 Millstone Plantation Rd.",,Tallahassee,FL,32312,I,,CH,,100.00,,Barkas
+9135,133,2021-09-24,C,"Ken  Powell Jr.","6990 Napa Court, Tallahassee",,Tallahassee,FL,32317,I,Government<br>Advisory,CH,,250.00,,"Powell Jr."
+9135,134,2021-09-24,C,"Amir  Darabi","910 Lasswade Dr.",,Tallahassee,FL,32312,I,Engineer,CH,,500.00,,Darabi
+9135,135,2021-09-24,C,"Margaret  Franklin","1101 Missionwood Ln.",,Tallahassee,FL,32304,I,Primary<br>Edu.<br>Admin.,CH,,250.00,,Franklin
+9135,136,2021-09-24,C,"Revell Media LLC","1124 Camellia Dr.",,Tallahassee,FL,32301,B,Communications<br>Serv.,CH,,300.00,,"Revell Media LLC"
+9135,137,2021-09-24,C,"Christi Ann  Eggersdorf","1012 Shalimar Dr.",,Tallahassee,FL,32312,I,Sales<br>Manager,CH,,250.00,,Eggersdorf
+9135,138,2021-09-24,C,"C and C Investments LLC","1736 Commerce Blvd",,Tallahassee,FL,32343,B,"RE.<br>Investing ",CH,,1000.00,,"C and C Investments LLC"
+9135,139,2021-09-24,C,"JKM Venture Holdings LLC","1736 Commerce Blvd.",,Tallahassee,FL,32343,B,Business,CH,,1000.00,,"JKM Venture Holdings LLC"
+9135,140,2021-09-24,C,"Thermon  Richter, Jr.","15289 NE Bo St.",,Hosford,FL,32334,I,Retired,CH,,1000.00,,"Richter, Jr."
+9135,141,2021-09-24,C,"Christine   Hale","1736 Commerce Blvd.",,midway,FL,32343,I,Construction,CH,,750.00,,Hale
+9135,142,2021-09-24,C,"Theodore  Thomas Jr.","1469 Vieux Carre Dr.",,Tallahassee,FL,32308,I,Real<br>Estate,CH,,250.00,,"Thomas Jr."
+9135,143,2021-09-24,C,"Kathleen  Daly","4504 Rangewood Dr.",,Tallahassee,FL,32309,I,Legal<br>Education,CH,,200.00,,Daly
+9135,144,2021-09-24,C,"Willie  Williams","***Protected Voter***",,,,,I,,CH,,25.00,,Williams
+9135,145,2021-09-24,C,"Harold  Branch","***Protected Voter***",,,,,I,"Highway<br>Safety ",CH,,250.00,,Branch
+9135,146,2021-09-24,C,"Edmond Group","525 North Calhoun Street",,Tallahassee,FL,32301,B,"Community<br>Dev. ",CH,,250.00,,"Edmond Group"
+9135,147,2021-09-24,C,"Timothy D Edmond","813 Lake Ridge Drive ",,Tallahassee,FL,32312,I,"Community<br>Dev. ",CH,,250.00,,Edmond
+9135,148,2021-09-24,C,"Joseph R Garcia","PO Box 988",,Tallahassee,FL,32302,I,Construction,CH,,250.00,,Garcia
+9149,1,2021-09-24,C,"Kristen  Harrison","5175 Velda Dairy Rd.",,Tallahassee,FL,32309,I,Bank<br>Director,CH,,150.00,D,Harrison
+9149,2,2021-09-24,C,"Andy  Harrison","5175 Velda Dairy Rd.",,Tallahassee,FL,32309,I,Banker,CH,,150.00,A,Harrison
+9135,24,2021-09-24,C,"Patrick  Kearney","6949 Mcbride Pt.",,Tallahassee,FL,32312,I,INFORMATION<br>TECHNOLOGY,CH,,1000.00,,Kearney
+9135,25,2021-09-24,C,"Mainline Information Systems","1700 Summit Lake Drive",,Tallahassee,FL,32317,B,INFORMATION<br>TECHNOLOGY,CH,,1000.00,,"Mainline Information Systems"
+9135,30,2021-09-27,C,"Michael  Rayboun","2512 Marston Road",,Tallahassee,FL,32308,I,Attorney,CH,,300.00,,Rayboun
+9135,31,2021-09-27,C,"Hilltop Building, LLC","3427 Bannerman Road","Suite D208",Tallahassee,FL,32312,B,Home<br>Construction<br>,CH,,1000.00,,"Hilltop Building, LLC"
+9135,32,2021-09-27,C,"Hillside Building, LLC","3425 Bannerman Road","Suite 105-428",Tallahassee,FL,32312,B,"COMM REAL<br>ESTATE<br>HLDS.",CH,,1000.00,,"Hillside Building, LLC"
+9135,26,2021-09-27,C,"Courtney  Barry","3798 Piney Grove Drive",,Tallahassee,FL,32311,I,"College<br>Admin. ",CH,,300.00,,Barry
+9135,27,2021-09-27,C,"Kelly  Dozier","2101 E Randolph Circle",,Tallahassee,FL,32308,I,Const.<br>Management<br>,CH,,250.00,,Dozier
+9135,28,2021-09-27,C,"Susan  Ault","2776 Julieanna Lane",,Tallahassee,FL,32308,I,"Medical<br>Sales ",CH,,1000.00,,Ault
+9135,29,2021-09-27,C,"Erika  Brenneman","***Protected Voter***",,,,,I,Attorney,CH,,250.00,,Brenneman
+9135,33,2021-09-28,C,"Courtney  Ewing","***Protected Voter***",,,,,I,"Finance ",CH,,1000.00,,Ewing
+9135,34,2021-09-28,C,"Emory  Mayfield","1532 N Beach Blvd.",,"Bay St. Louis",MS,39520,I,Bank<br>Admin.,CH,,500.00,,Mayfield
+9135,35,2021-09-28,C,"Bernard  Pautsch","***Protected Voter***",,,,,I,Food<br>Services,CH,,1000.00,,Pautsch
+9135,36,2021-09-28,C,"Thomas  Derzypolski","2115 Trescott Dr.",,Tallahassee,FL,32308,I,Mking<br>Services<br>Admin.,CH,,1000.00,,Derzypolski
+9135,37,2021-09-28,C,"John  Kenny","1700 North Monroe Street","Suite 11-131",Tallahassee,FL,32303,I,Attorney,CH,,200.00,,Kenny
+9135,38,2021-09-28,C,"Fred  Shelfer","10939 LUNA POINT RD.",,Tallahassee,FL,32312,I,"Non-profit<br>Admin. ",CH,,250.00,,Shelfer
+9135,39,2021-09-28,C,"Erin  Ennis","2910 Kerry Forest Pkw D4-234",,Tallahassee,FL,32309,I,,CH,,100.00,,Ennis
+9135,40,2021-09-28,C,"Mahoney's Books","2920 Ivanhoe Rd",,Tallahassee,FL,32312,B,"Book Sales",CH,,500.00,,"Mahoney's Books"
+9135,41,2021-09-29,C,"George M. O'Bryant","1130 Carriage Road",,Tallahassee,FL,32312,I,"Healthcare<br>Admin. ",CH,,500.00,,O'Bryant
+9135,42,2021-09-29,C,"Jared Willis LLC","1206 N Duval Street",,Tallahassee,FL,32303,B,Real<br>Estate<br>Advisory,CH,,250.00,,"Jared Willis LLC"
+9135,43,2021-09-29,C,"Gerard  La Mothe Jr.","2184 Lake Hall Rd",,Tallahassee,FL,32309,I,Painter,CH,,500.00,,"La Mothe Jr."
+9135,3,2021-09-29,E,"SOCIAL CATERING","705 S Woodward Ave. Unit 101",,TALLAHASSEE,FL,32304,,,MO,"FOOD/BEVERAGE/SUPPLIES FOR CAMPAIGN EVENT",3788.52,,"SOCIAL CATERING"
+9135,4,2021-09-29,E,"CITY OF TALL.- DOROTHY B OVEN","3205 Thomasville Rd",,THOMASVILLE,FL,32308,,,MO,"EVENT FEE",763.00,,"CITY OF TALL.- DOROTHY B OVEN"
+9135,5,2021-09-29,E,"TARGET PRINT AND MAIL","635 W TENNESSEE STREET",,TALLAHASSEE,FL,32304,,,MO,"CAMPAIGN SIGNS",67.28,,"TARGET PRINT AND MAIL"
+9135,6,2021-09-29,E,"TARGET PRINT AND MAIL","635 W TENNESSEE STREET",,TALLAHASSEE,FL,32304,,,MO,"NAME TAGS",95.23,,"TARGET PRINT AND MAIL"
+9135,149,2021-09-30,C,"Richard  Slaughter","8219 Laurel Kay Lane,",,Tallahassee,FL,32317,I,,CH,,100.00,,Slaughter
+9146,1,2021-10-01,C,"Amy  Zumblay","6352 Glasgow Drive",,Tallahassee,FL,32312,I,Pu.Affairs/<br>Disaster<br>Rel,CH,,500.00,,Zumblay
+9146,2,2021-10-01,C,"MIS Security","1700 Summit Lake Drive",,Tallahassee,FL,32317,B,MIS<br>Solutions,CH,,1000.00,,"MIS Security"
+9146,3,2021-10-01,C,"Jeffery  Bryan","2575 Yarmouth Lane",,Tallahassee,FL,32309,I,Retired,CH,,200.00,,Bryan
+9146,4,2021-10-01,C,"Darby  Scott","1101 Carriage Rd",,Tallahassee,FL,32312,I,Legal<br>Education,CH,,250.00,,Scott
+9146,5,2021-10-01,C,"John  Wood","526 Glenview Dr.",,Tallahassee,FL,32303,I,medical<br>sales,CH,,250.00,,Wood
+9146,6,2021-10-01,C,"BowStern, LLC","3122 Mahan Dr. Ste. 801-327",,Tallahassee,FL,32308,B,Advertising,CH,,1000.00,,"BowStern, LLC"
+9146,7,2021-10-01,C,"Bethany  Corum","315 E Georgia Street",,Tallahassee,FL,32301,I,Bank<br>Admin.,CH,,1000.00,,Corum
+9146,2,2021-10-06,E,"CITY OF TALL.- DOROTHY B OVEN","3205 Thomasville Rd",,THOMASVILLE,FL,32308,,,RE,"REFUND OF EXPENSE OVERAGE",-200.00,,"CITY OF TALL.- DOROTHY B OVEN"
+9146,4,2021-10-08,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",1500.00,,"GRIMSLEY AND COMPANY CPAS"
+9146,3,2021-10-11,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ECOMMERCE FEES",362.32,,PAYPAL
+9146,8,2021-10-14,C,"JR  Harding","6027 Ox Bottom Drive",,Tallahassee,FL,32312,I,,CH,,50.00,,Harding
+9146,9,2021-10-15,C,"Thomas  Barrett","***Protected Voter***",,,,,I,Attorney,CH,,500.00,,Barrett
+9146,10,2021-10-15,C,"Shaun  York","***Protected Voter***",,,,,I,MIS<br>Professional<br>,CH,,200.00,,York
+9146,11,2021-10-15,C,"Kathleen  Farrell","7391 Buck Lake Road",,Tallahassee,FL,32317,I,,CH,,100.00,,Farrell
+9146,12,2021-10-15,C,"Sean  DaSilva","***Protected Voter***",,,,,I,,CH,,100.00,,DaSilva
+9146,13,2021-10-15,C,"Betsy  Wood","2565 Noble Drive",,Tallahassee,FL,32312,I,,CH,,100.00,,Wood
+9146,14,2021-10-15,C,"Charles  Williams","456 Carr Lane",,Tallahassee,FL,32301,I,Doctor,CH,,200.00,,"Williams "
+9146,15,2021-10-15,C,"Harry  Middlebrooks, Jr.","526 E.7th Avenue ",,Tallahassee,FL,32303,I,"Real<br>Estate<br>Mng. ",CH,,175.00,,"Middlebrooks, Jr."
+9146,16,2021-10-15,C,"JOHN  DAILEY","703 Live Oak Plantation Road",,Tallahassee,FL,32312,S,CANDIDATE,IK,Stamps,81.20,,DAILEY
+9146,18,2021-10-19,C,"Ryan  Matthews","2809 Shamrock Street South",,Tallahassee,FL,32309,I,"POLITICAL<br>ADV. SERV.",CH,,500.00,,Matthews
+9146,19,2021-10-19,C,"Paul  Mitchell","3876 West Millers Bridge Rd",,Tallahassee,FL,32312,I,"POLITICAL<br>ADV. SERV.",CH,,750.00,,Mitchell
+9146,20,2021-10-19,C,"Jim Smith Insurance Agency","PO Box 1504",,Tallahassee,FL,32302,B,Insurance,CH,,100.00,,"Jim Smith Insurance Agency"
+9146,1,2021-10-19,E,"STEPHEN K. BEASLEY","630 WEST BREVARD STREET",,TALLAHASSEE,FL,32304,,,MO,"POLITICAL CONSULTING",1000.00,,BEASLEY
+9146,17,2021-10-22,C,"Steve   Evans JR","611 10th street",,Coronado,CA,92118,I,RESTAURANT<br>OWNER,CH,,250.00,,"Evans JR"
+9146,21,2021-10-22,C,"Don  Tolliver","53 Bridle Gate",,Crawfordville,FL,32327,I,,CH,,100.00,,Tolliver
+9146,30,2021-10-28,C,"DIANE  DEWOLF","1444 GOLF TERRACE DRIVE",,TALLAHASSEE,FL,32301,I,,CH,,100.00,,DEWOLF
+9146,22,2021-10-29,C,"Lois  Franklin","3169 Brockton Way",,Tallahassee,FL,32308,I,,CH,,50.00,,Franklin
+9146,23,2021-10-29,C,"Perkins Family Trust","2107E Randolph Circle",,Tallahassee,FL,32303,O,,CH,,100.00,,"Perkins Family Trust "
+9146,24,2021-10-29,C,"Cynthia   Phipps","2100 Clippys Drive",,Tallahassee,FL,32312,I,"Museum and<br>Gardens",CH,,250.00,,Phipps
+9146,25,2021-10-29,C,"Greater Florida Leadership GR.","120 S. Monroe St.,",,Tallahassee,FL,32301,F,PAC,CH,,250.00,,"Greater Florida Leadership GR."
+9146,26,2021-10-29,C,"Good Gov. Group  HCA North Florida Division and","101 N. Monroe St. Ste 801",,Tallahassee,FL,32301,B,"Employee<br>Advocacy ",CH,,1000.00,,"HCA North Florida Division and"
+9146,27,2021-10-29,C,"Robert  Bacon","P.O. Box 12039",,Tallahassee,FL,32317,I,INSURANCE,CH,,250.00,,Bacon
+9146,28,2021-10-29,C,"Lisa  Carey","4052 McLaughlin Drive",,Tallahassee,FL,32309,I,,CH,,100.00,,Carey
+9146,29,2021-10-29,C,"Jared Willis LLC","1206 N Duval Street",,Tallahassee,FL,32303,B,REAL<br>ESTATE<br>ADVISORY,CH,,250.00,,"Jared Willis LLC"
+9175,1,2021-11-05,C,"William  Fixel","2115 East Randolph Circle",,Tallahassee,FL,32308,I,"Attorney ",CH,,750.00,,Fixel
+9175,2,2021-11-05,C,"Sarah  Fixel","2115 East Randolph Circle",,Tallahassee,FL,32308,I,"Dep. Of<br>Rev.",CH,,750.00,,"Fixel "
+9175,3,2021-11-05,C,"Janet   Fixel","251 Rosehill Dr. N.",,Tallahassee,FL,32312,I,"Retired ",CH,,750.00,,Fixel
+9175,4,2021-11-05,C,"Joe  Fixel","251 Rosehill Dr. N.",,Tallahassee,FL,32312,I,"Attorney ",CH,,750.00,,"Fixel "
+9175,1,2021-11-09,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",875.00,,"GRIMSLEY AND COMPANY CPAS"
+9175,2,2021-11-09,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ECOMMERCE FEES",164.30,,PAYPAL
+9175,5,2021-11-12,C,"Peter  Cracchiolo","1490 Big Moss Lake Rd",,"Lutz ",FL,33558,I,,CH,,10.00,,Cracchiolo
+9175,6,2021-11-12,C,"Michael  Sittig","2108 Ellicott Dr",,Tallahassee,FL,32308,I,"Urban<br>Planning ",CH,,750.00,,Sittig
+9175,7,2021-11-12,C,"Marty  Sittig","2108 Ellicott Dr",,Tallahassee,FL,32308,I,Urban<br>Planning,CH,,750.00,,Sittig
+9175,3,2021-11-14,E,"BOARDS BY ALEXIS","1204 CROSS CREEK WAY",,TALLAHASSEE,FL,32310,,,MO,"CAMPAIGN FUNDRAISER/SUPPLIES",300.00,,"BOARDS BY ALEXIS"
+9175,8,2021-11-19,C,"Laurye  Messer","6960 Standing Pines Lane",,Tallahassee,FL,32312,I,TCC<br>Professor,CH,,500.00,,Messer
+9175,9,2021-11-19,C,"Theodore  Baker","3470 Lakeshore Drive",,Tallahassee,FL,32312,I,Public<br>Service,CH,,200.00,,Baker
+9175,10,2021-11-19,C,"Kathleen  Brennan","4778 Lancashure Ln",,Tallahassee,FL,32309,I,FSU<br>Professor,CH,,500.00,,Brennan
+9175,11,2021-11-19,C,"Rob  Garner","3725 Tom John Lane",,Tallahassee,FL,32309,I,"Government<br>Advisory ",CH,,500.00,,Garner
+9175,12,2021-11-19,C,"Adam  Ellis","***Protected Voter***",,,,,I,,CH,,100.00,,Ellis
+9175,13,2021-11-19,C,"Bryan  Desloge","PO Box 10723 Tallahassee",,Tallahassee,FL,32302,I,"med equip<br>sales",CH,,250.00,,Desloge
+9175,14,2021-11-19,C,"Houston  Barnes","3607 Mossy Creek Lane",,Tallahassee,FL,32311,I,Attorney,CH,,250.00,,Barnes
+9175,15,2021-11-19,C,"Paula  Smith","1005 East Park Avenue",,Tallahassee,FL,32301,I,Retired,CH,,500.00,,Smith
+9175,16,2021-11-19,C,"Benjamin  Abberger III","P.O. Box 1168",,Tallahassee,FL,32302,I,"Retired ",CH,,250.00,,"Abberger III"
+9175,17,2021-11-24,C,"Michael  Alao","***Protected Voter***",,,,,I,,CH,,20.00,,Alao
+9175,18,2021-11-24,C,"Frank  Mercer","2077 Florida Ave.,",,Tallahassee,FL,32303,I,CPA,CH,,250.00,,Mercer
+9175,19,2021-11-24,C,"Mary  Carroll","520 Short Street",,Tallahassee,FL,32308,I,"Retired ",CH,,250.00,,Carroll
+9175,20,2021-11-24,C,"Julann  Long","***Protected Voter***",,,,,I,Education,CH,,250.00,,Long
+9175,21,2021-11-30,C,"Carlton  Dean","1399 Constitution Place",,Tallahassee,FL,32303,I,"Com. Real<br>Estate",CH,,500.00,,Dean
+9175,22,2021-11-30,C,"Shannon  Hartsfield","2795 Armistead Road",,Tallahassee,FL,32303,I,,CH,,100.00,,Hartsfield
+9175,23,2021-11-30,C,"Tiffany  Heckler","801 Arthur Godfrey Road, Suite 401",,Miami,FL,33140,I,Finance<br>Attorney,CH,,1000.00,,"Heckler "
+9175,24,2021-11-30,C,"Mark  Herron","503 N. Ride,",,Tallahassee,FL,32303,I,,CH,,100.00,,Herron
+9175,25,2021-11-30,C,"Sarah  Dailey","2510 Limerick Drive",,Tallahassee,FL,32309,I,Retired,CH,,250.00,,Dailey
+9175,26,2021-11-30,C,"Lamar  Blair","3797 Bobbin Mill Rd",,Tallahassee,FL,32312,I,Real<br>Estate,CH,,1000.00,,Blair
+9175,27,2021-11-30,C,"Roy  Van Wyk","***Protected Voter***",,,,,I,Attorney,CH,,500.00,,"Van Wyk"
+9175,28,2021-11-30,C,"William  Cotterall","2356 N Arendell Way",,Tallahassee,FL,32308,I,"Attorney ",CH,,250.00,,Cotterall
+9175,29,2021-11-30,C,"Jon  Johnson","***Protected Voter***",,,,,I,"Attorney ",CH,,1000.00,,Johnson
+9187,1,2021-12-10,C,"Elizabeth  Ellis","***Protected Voter***",,,,,I,Attorney,CH,,250.00,,Ellis
+9187,2,2021-12-10,C,"Terry  Lewis","359 Thornberg Dr",,Tallahassee,FL,32312,I,,CH,,100.00,,Lewis
+9187,3,2021-12-10,C,"George  Foreman","1049 Wandering Willow Way",,Loxahatchee,FL,33470,I,"COO, PALM<br>BCH<br>SHERIFF",CH,,500.00,,Foreman
+9187,4,2021-12-10,C,"Ronald  Meyer","5278 Pimlico Dr",,Tallahassee,FL,32309,I,,CH,,100.00,,Meyer
+9187,5,2021-12-10,C,"Adam  Ellis","203 N. Gadsden Street",,Tallahassee,FL,32309,I,Attorney,CH,,150.00,,Ellis
+9187,6,2021-12-10,C,"Palmer  Williams","3740 Bobbin Brook Way",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Williams
+9187,7,2021-12-10,C,"Tor  Friedman","403 East Park Ave",,Tallahassee,FL,32301,I,Attorney,CH,,200.00,,Friedman
+9187,8,2021-12-10,C,"Susan  Clark","2236 Ellicott Drive",,Tallahassee,FL,32308,I,,CH,,100.00,,Clark
+9187,9,2021-12-10,C,"Jana  McConnaughhay","2806 Walter Scott Rd",,Tallahassee,FL,32308,I,,CH,,100.00,,McConnaughhay
+9187,10,2021-12-10,C,"Michael  Thomas","3664 Letitia Ln",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,Thomas
+9187,11,2021-12-10,C,"John  McFarlain","***Protected Voter***",,,,,I,,CH,,100.00,,McFarlain
+9187,12,2021-12-10,C,"Bruce  Platt","5412 Lawton Ct",,Tallahassee,FL,32317,I,,CH,,100.00,,Platt
+9187,13,2021-12-10,C,"Carol  Bracy","1010 Mohican Trail",,Tallahassee,FL,32317,I,Gov.<br>Advisory,CH,,500.00,,Bracy
+9187,14,2021-12-10,C,"Dubose  Ausley","P.O. BOX 391",,Tallahassee,FL,32302,I,Attorney,CH,,500.00,,Ausley
+9187,15,2021-12-10,C,"Kristen  Bigham","2007 Randolph Cir",,Tallahassee,FL,32308,I,,CH,,100.00,,Bigham
+9187,16,2021-12-10,C,"Bruce  Wiener","2615 Millstone Plantation Rd.",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,Wiener
+9187,17,2021-12-10,C,"WRW Legal PLLC","1700 Summit Lake Dr., Ste. 10",,Tallahassee,FL,32317,B,LEGAL,CH,,250.00,,"WRW Legal PLLC"
+9187,18,2021-12-10,C,"Christopher   Hansen","2226 Ten Oaks Dr",,Tallahassee,FL,32312,I,,CH,,100.00,,Hansen
+9187,19,2021-12-10,C,"Nancy  Linnan","507 E. Call St.",,Tallahassee,FL,32301,I,Attorney,CH,,150.00,,Linnan
+9187,20,2021-12-10,C,"Carlton Fields Political Com.","PO Box 190",,Tallahassee,FL,32302,C,POLITICAL<br>COMMITEE,CH,,250.00,,"Carlton Fields Political Com."
+9187,21,2021-12-10,C,"E. Murray  Moore. Jr.","1760 Marston Place",,Tallahassee,FL,32308,I,,CH,,50.00,,"Moore. Jr. "
+9187,22,2021-12-10,C,"Charles  Tunnicliff","121 N. Monroe St. Ph 2",,Tallahassee,FL,32301,I,,CH,,100.00,,Tunnicliff
+9187,23,2021-12-10,C,"Ben  Andrews","4774 Highgrove Rd",,Tallahassee,FL,32309,I,,CH,,100.00,,Andrews
+9187,24,2021-12-10,C,"Cornelia Sha'Ron  James","2849 Alexis Ln",,Tallahassee,FL,32308,I,Attorney,CH,,125.00,,James
+9187,25,2021-12-10,C,"Impact Food Services Group","832 Piney Village Loop",,Tallahassee,FL,32311,B,"Social<br>Impact<br>Start up",CH,,125.00,,"Impact Food Services Group"
+9187,26,2021-12-10,C,"William  Dillon","2229 Killarney Way",,Tallahassee,FL,32309,I,,CH,,100.00,,Dillon
+9187,27,2021-12-10,C,"Cochran  Keating","***Protected Voter***",,,,,I,Gov.<br>Service,CH,,125.00,,Keating
+9187,28,2021-12-10,C,"Linda  Petrovich","6251 Whittondale Dr",,Tallahassee,FL,32312,I,Retired,CH,,250.00,,Petrovich
+9187,30,2021-12-10,C,"JOHN A DAILEY","1427 Piedmont Drive East","SUITE 2",Tallahassee,FL,32308-,S,MAYOR,IK,"Campaign<br>event food<br>and<br>beverage<br>donation",740.80,,DAILEY
+9187,29,2021-12-13,C,"JOHN A DAILEY","1427 Piedmont Drive East","SUITE 2",Tallahassee,FL,32308-,S,MAYOR,IK,"Campaign<br>event food<br>donation-<br>PUBLIX",34.80,,DAILEY
+9187,31,2021-12-17,C,"Robert  Inzer","613 Forest Lair",,Tallahassee,FL,32312,I,Retired,CH,,250.00,,Inzer
+9187,32,2021-12-17,C,"Alan  Rosenzweig","1520 Argonne Rd",,Tallahassee,FL,32308,I,County<br>Administrator<br>-,CH,,250.00,,Rosenzweig
+9187,33,2021-12-24,C,"Joseph  Brown","601 Lothian drive",,Tallahassee,FL,32312,I,,CH,,100.00,,Brown
+9187,34,2021-12-24,C,"Mahoney's Books","2920 Ivanhoe Rd",,Tallahassee,FL,32312,B,Books,CH,,250.00,,"Mahoney's Books"
+9187,35,2021-12-24,C,"Delegal Aubuchon Consulting LL","P.O. Box 4089 ",,Tallahassee,FL,32315,B,Gov.<br>Advisory,CH,,500.00,,"Delegal Aubuchon Consulting LL"
+9187,36,2021-12-24,C,"Christopher  Jenkins","***Protected Voter***",,,,,I,,CH,,100.00,,Jenkins
+9187,1,2021-12-24,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,ECOMMERCE<br>FEES,206.32,,PAYPAL
+9187,2,2021-12-24,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",890.00,,"GRIMSLEY AND COMPANY CPAS"
+9247,1,2021-12-31,C,"Wayne Blanton and Associates L","1319 Peacefield Place",,Tallahassee,FL,32308,I,Real<br>Estate,CH,,250.00,D,"Wayne Blanton and Associates L"
+9247,2,2021-12-31,C,"Wayne Blanton and Associates L","1319 Peacefield Place",,Tallahassee,FL,32308,B,"Real Estate",CH,,250.00,A,"Wayne Blanton and Associates L"
+9247,3,2021-12-31,C,"Jared Willis LLC","1206 N Duval Street",,Tallahassee,FL,32303,I,REAL<br>ESTATE<br>SALES,CH,,250.00,D,"Jared Willis LLC"
+9247,4,2021-12-31,C,"Jared Willis LLC","1206 N Duval Street",,Tallahassee,FL,32303,B,"REAL ESTATE SALES",CH,,250.00,A,"Jared Willis LLC"
+9187,37,2021-12-31,C,"Tobbie  Berrian","4381 Rockingham Road ",,Tallahassee,FL,32303,I,,CH,,100.00,,Berrian
+9187,38,2021-12-31,C,"Wayne Blanton and Associates L","1319 Peacefield Place",,Tallahassee,FL,32308,I,Real<br>Estate,CH,,250.00,,"Wayne Blanton and Associates L"
+9187,39,2021-12-31,C,"Jennifer  Berrian","4381 Rockingham Road",,Tallahassee,FL,32303,I,,CH,,50.00,,Berrian
+9187,40,2021-12-31,C,"Jared Willis LLC","1206 N Duval Street",,Tallahassee,FL,32303,I,REAL<br>ESTATE<br>SALES,CH,,250.00,,"Jared Willis LLC"
+9187,41,2021-12-31,C,"Peter  Collins","2501 S MacDill Ave",,Tampa,FL,33629,I,Private<br>Equity,CH,,1000.00,,Collins
+9187,42,2021-12-31,C,"Floyd  Self","2924 Coldstream Drive ",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Self
+9187,43,2021-12-31,C,"Jeremey  Cohen","308 Magnolia Drive",,Tallahassee,FL,32308,I,"TARGET<br>PRINT AND<br>MAIL",CH,,500.00,,Cohen
+9187,44,2021-12-31,C,"Peter  Jones","308 Magnolia Drive",,Tallahassee,FL,33756,I,Doctor,CH,,1000.00,,Jones
+9248,1,2022-01-07,C,"Jim  Henderson","200 Colonial Center Parkway Suite 140",,"Lake Mary",FL,32746,I,Insurance,CH,,1000.00,,Henderson
+9248,2,2022-01-07,C,"Leslie  Pantin","300 Sevilla Avenue  #215",,"Coral Gables",FL,33134,I,Public<br>Relations,CH,,1000.00,,Pantin
+9248,3,2022-01-07,C,"Craig  Mateer"," 2500 Weston Rd # 101",,Weston,FL,33331,I,Real<br>Estate,CH,,1000.00,,Mateer
+9248,4,2022-01-07,C,"Edward  Burr","7807 Baymeadows Rd E #205",,Jacksonville,FL,32256,I,Real<br>Estate<br>Inv.,CH,,1000.00,,Burr
+9248,5,2022-01-07,C,"Rachel  Docekal","4418 Hunting Trail",,"Lake Worth",FL,33467,I,,CH,,100.00,,Docekal
+9248,62,2022-01-09,C,"LANCE  BARTON","3535 Grandview Pkwy # 600",,BIRMINGHAM,AL,35243,I,INSURANCE,CH,,1000.00,,BARTON
+9248,4,2022-01-12,E,MAILCHIMP,"675 Ponce de Leon Ave NE","Suite 5000",ATLANTA,GA,30308,,,MO,EMAIL,30.60,,MAILCHIMP
+9248,5,2022-01-12,E,"TARGET PRINT AND MAIL","635 W TENNESSEE STREET",,TALLAHASSEE,FL,32304,,,MO,"CAMPAIGN SUPPLIES",1125.65,,"TARGET PRINT AND MAIL"
+9248,63,2022-01-13,C,"FLORIDIAN PARTNERS LLC","108 S MONROE STREET",,TALLAHASSEE,FL,32301,B,LOBBYING<br>FIRM,IK,FOOD/BEVERAGE,275.00,,"FLORIDIAN PARTNERS LLC"
+9248,6,2022-01-14,C,"Jennifer  McCafferty","6590 SW 111ST",,Miami,FL,33156,I,Hospital<br>Director-,CH,,1000.00,,McCafferty
+9248,7,2022-01-14,C,"William  Lloyd","6307 32nd Avenue East",,Bradenton,FL,34208,I,Retired,CH,,1000.00,,Lloyd
+9248,8,2022-01-14,C,"Ronald  Hobbs","8940 WINGED FOOT DR",,Tallahassee,FL,32312,I,Real<br>Estate,CH,,250.00,,Hobbs
+9248,9,2022-01-14,C,"Brent  Lindquist","701 Nina Dr",,"St. Petersburg",FL,33715,I,Mortgages,CH,,1000.00,,Lindquist
+9248,10,2022-01-14,C,"Francis  Nardozza","3218 Beechberry Circle",,Davie,FL,33328,I,Investment<br>Advisory,CH,,300.00,,Nardozza
+9248,11,2022-01-14,C,"Vivian  de las Cuevas- Diaz","701 Brickell Ave Suite 3300",,Miami,FL,33131,I,Attorney,CH,,1000.00,,"de las Cuevas- Diaz"
+9248,12,2022-01-14,C,"Deborah   Sargeant","1420 North Ocean Blvd",,"Gulf Stream",FL,33483,I,Accounting,CH,,1000.00,,Sargeant
+9248,13,2022-01-14,C,"Ruth  Akers","1453 Vieux Carre Drive ",,Tallahassee,FL,32308,I,Music<br>Education,CH,,1000.00,,Akers
+9248,14,2022-01-14,C,"Les  Akers","1453 Vieux Carre Drive ",,Tallahassee,FL,32308,I,Automotive<br>VP,CH,,1000.00,,Akers
+9248,15,2022-01-14,C,"Shari  Arrington","106 NE Sixth Street",,"Havana ",FL,32333,I,,CH,,100.00,,Arrington
+9248,16,2022-01-14,C,"Betty  Joanos","4436 Meandering Way #107",,Tallahassee,FL,32308,I,,CH,,100.00,,Joanos
+9248,17,2022-01-14,C,"C. Raymond  Cottrell","3664 Mossy Creek Lane",,Tallahassee,FL,32311,I,Doctor,CH,,250.00,,Cottrell
+9248,18,2022-01-14,C,"James  Reed","3609 Uncle Glover Road ",,Tallahassee,FL,32311,I,Investment<br>Sales,CH,,500.00,,Reed
+9248,19,2022-01-14,C,"Graganella Insurance Agency","2514 Millstone Plantation Road",,Tallahassee,FL,32312,B,Insurance,CH,,1000.00,,"Graganella Insurance Agency"
+9248,20,2022-01-14,C,"Charles Dudley PA","PO Box 428 ",,Tallahassee,FL,32308,B,Lobbying,CH,,1000.00,,"Charles Dudley PA"
+9248,21,2022-01-14,C,"Kris  Kraft","215 W. College Ave. Apt 1002",,Tallahassee,FL,32301,I,Automotive,CH,,1000.00,,Kraft
+9248,22,2022-01-14,C,"Florida Health Care PAC","307 West Park Ave ",,Tallahassee,FL,32301,F,"Health<br>Care -",CH,,1000.00,,"Florida Health Care PAC"
+9248,23,2022-01-14,C,"Council for Senior Floridians","PO Box 1459 ",,Tallahassee,FL,32302,F,Senior<br>Citizens<br>PC,CH,,1000.00,,"Council for Senior Floridians "
+9248,24,2022-01-14,C,"Douglas  Tredway","3760 Sally Lane",,Tallahassee,FL,32312,I,,CH,,100.00,,Tredway
+9248,25,2022-01-14,C,"Nicholas  Iarossi III","3924 W Millers Bridge",,Tallahassee,FL,32312,I,lobbyist,CH,,750.00,,"Iarossi III"
+9248,26,2022-01-14,C,"Debbie  Iarossi","***Protected Voter***",,,,,I,Retired,CH,,750.00,,Iarossi
+9248,27,2022-01-14,C,"David  Theriaque","400 Capital Circle SE ",,Tallahassee,FL,32301,I,Attorney,CH,,500.00,,Theriaque
+9248,28,2022-01-14,C,"Douglas  Mannheimer","PO Box 11300",,Tallahassee,FL,32302,I,Attorney,CH,,1000.00,,Mannheimer
+9248,29,2022-01-14,C,"Ashbel  Williams","137 Preakness Point",,Tallahassee,FL,32308,I,Gov.<br>Investments-,CH,,1000.00,,Williams
+9248,30,2022-01-14,C,"Matthew  Cogburn","1151 Abbeys Way",,Tampa,FL,33602,I,Attorney,CH,,500.00,,Cogburn
+9248,3,2022-01-14,E,"STEPHEN K. BEASLEY","630 WEST BREVARD STREET",,TALLAHASSEE,FL,32304,,,MO,"CAMPAIGN CONSULTING",1000.00,,BEASLEY
+9248,31,2022-01-21,C,"William  Bell","3901 Royal Oaks Court",,Tallahassee,FL,32309,I,Lawyer,CH,,250.00,,Bell
+9248,32,2022-01-21,C,"Peter  Lewis","2701 Waterford Glen Court ",,Tallahassee,FL,32312,I,Data<br>Analyst,CH,,500.00,,Lewis
+9248,33,2022-01-21,C,"Cameron  Williams","810 South Oregon Street",,Tampa,FL,33606,I,Business<br>Analyst-,CH,,500.00,,Williams
+9248,34,2022-01-21,C,"John  Holley","134 W Jefferson Street",,Tallahassee,FL,32301,I,Gov.<br>Advisory-,CH,,250.00,,Holley
+9248,35,2022-01-21,C,"Carlana  Hoffman","2023 Middlewood Drive",,Tallahassee,FL,32312,I,Retired,CH,,250.00,,Hoffman
+9248,36,2022-01-21,C,"A. Lawton  Langford","5002 Brill Point Road",,Tallahassee,FL,32312,I,Retired,CH,,1000.00,,Langford
+9248,1,2022-01-31,E,Paypal,"2211 N 1ST San Jose Street",,"San Jose",CA,95131,,,MO,"ECOMMERCE Fees",538.30,,Paypal
+9248,2,2022-01-31,E,"Grimsley and Company CPAs","1427 Piedmont Drive East",,Tallahassee,FL,32308,,,MO,"Campaign Treasurer ",1479.00,,"Grimsley and Company CPAs"
+9248,37,2022-01-31,C,"Janis  DaCosta","9345 133rd Street ",,Seminole,FL,33776,I,Retired,CH,,250.00,,DaCosta
+9248,38,2022-01-31,C,"Jason  Mahoney","1675 Long Bow Lane ",,Tallahassee,FL,33764,I,"Night Club",CH,,1000.00,,Mahoney
+9248,39,2022-01-31,C,"Stan  Barnes","1801 Hermitage Blvd",,Tallahassee,FL,32308,I,Fin<br>Planner,CH,,150.00,,Barnes
+9248,40,2022-01-31,C,"Matthew  Pinzur","1860 Sweetbay Way",,Hollywood,FL,33019,I,Marketing,CH,,500.00,,Pinzur
+9248,41,2022-01-31,C,"Frances  White","1992 Chatsworth Way",,Tallahassee,FL,32309,I,Retired,CH,,250.00,,White
+9248,42,2022-01-31,C,"Crystal  Stickle","1102 Old Fort Drive",,Tallahassee,FL,32301,I,Lobbyist,CH,,250.00,,Stickle
+9248,43,2022-01-31,C,"John Wesley  White","4615 Oak Forrest Drive",,Sarasota,FL,34231,I,Public<br>Service,CH,,500.00,,White
+9248,44,2022-01-31,C,"John David  White","3808 W. Barcelona Street",,Tampa,FL,33629,I,Fin<br>Planner,CH,,500.00,,White
+9248,45,2022-01-31,C,"Woodbury Payton LLC","19709 Wellington Manor Blvd",,Lutz,FL,33549,B,Real<br>Estate,CH,,500.00,,"Woodbury Payton LLC"
+9248,46,2022-01-31,C,"Catherine  Buckhorn","175 Baltic Circle",,Tampa,FL,33606,I,,CH,,100.00,,Buckhorn
+9248,47,2022-01-31,C,"Ann  Dunman","1403 Rachel Lane ",,Tallahassee,FL,32308,I,Retired,CH,,250.00,,Dunman
+9248,48,2022-01-31,C,"Vinetta  Godelia","3048 Carlow Circle",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,Godelia
+9248,49,2022-01-31,C,"Jason  Icerman","9471 Treasure Lane NE",,Tallahassee,FL,33702,I,Graphics,CH,,250.00,,Icerman
+9248,50,2022-01-31,C,"Roy  Cannon Jr","421 Meridian Place",,Tallahassee,FL,32303,I,Retail,CH,,1000.00,,"Cannon Jr"
+9248,51,2022-01-31,C,"Jason  Unger","160 Rosehill Drive ",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,Unger
+9248,52,2022-01-31,C,"Kirk  Pepper","2024 Middlebrook Drive ",,Tallahasse,FL,32312,I,Gov.<br>Advisory,CH,,500.00,,Pepper
+9248,53,2022-01-31,C,"Gray Robinson-PA-PAC","301 E. Pine Street Suite 1400",,Orlando,FL,32801,B,Gov.<br>Advisory,CH,,1000.00,,"Gray Robinson-PA-PAC"
+9248,54,2022-01-31,C,"The Recess Club of Tallahassee","705 South Woodard Street Suite A301 ",,Tallahassee,FL,32304,B,"Night Club",CH,,1000.00,,"The Recess Club of Tallahassee"
+9248,55,2022-01-31,C,"College Ave District License","115 W. College Ave",,Tallahassee,FL,32301,B,Real<br>Estate,CH,,1000.00,,"College Ave District License "
+9248,56,2022-01-31,C,"Clydes and Costellos","210 S Adams Street",,Tallahassee,FL,32301,B,"Night Club",CH,,1000.00,,"Clydes and Costellos"
+9248,57,2022-01-31,C,"Daniel  Jackson","6541 Spicewood Lane",,Tallahassee,FL,32312,I,Retired,CH,,500.00,,Jackson
+9248,58,2022-01-31,C,"Jacob  Cremer","3237 W. Fountain Blvd",,Tampa,FL,33609,I,Attorney,CH,,500.00,,Cremer
+9248,59,2022-01-31,C,"Michael  Griffin","4220 West Corona Street",,Tampa,FL,33629,I,Education,CH,,250.00,,Griffin
+9248,60,2022-01-31,C,"Robert  Day","4425 Meandering Way Apt 405 ",,Tallahassee,FL,32308,I,Retired,CH,,250.00,,Day
+9248,61,2022-01-31,C,"Jared Willis LLC","1206 N DUVAL STREET",,Tallahassee,FL,32303,I,Gov.<br>Advisory,CH,,250.00,,"Jared Willis LLC"
+9296,1,2022-01-31,C,"Jared Willis LLC","1206 N DUVAL STREET",,Tallahassee,FL,32303,I,Gov.<br>Advisory,CH,,250.00,D,"Jared Willis LLC"
+9296,2,2022-01-31,C,"Jared Willis LLC","1206 N DUVAL STREET",,Tallahassee,FL,32303,B,"REAL ESTATE ADVISORY",CH,,250.00,A,"Jared Willis LLC"
+9308,3,2022-02-10,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",850.00,,"GRIMSLEY AND COMPANY CPAS"
+9308,4,2022-02-10,E,"STEPHEN K. BEASLEY","630 WEST BREVARD STREET",,TALLAHASSEE,FL,32304,,,MO,"CAMPAIGN CONSULTING",1000.00,,BEASLEY
+9308,1,2022-02-14,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,"ecommerce fees",57.81,,PAYPAL
+9308,2,2022-02-15,E,MAILCHIMP," 675 Ponce de Leon Ave NE ","Suite 5000",ATLANTA,GA,30308,,,MO,COMMUNICATIONS,30.60,,MAILCHIMP
+9308,1,2022-02-18,C,"Colleen  Castille","3209 Adwood Drive ",,Tallahassee,FL,32312,I,,CH,,100.00,,Castille
+9308,2,2022-02-18,C,"Doug  Roberts","3600 Pine Tip Road",,"Tallahassee ",FL,32309,I,,CH,,100.00,,Roberts
+9308,3,2022-02-18,C,"Bill  Montford","4090 Duffy Court",,Tallahassee,FL,32309,I,Retired,CH,,500.00,,Montford
+9308,6,2022-02-23,C,"BRYAN  DESLOGE","P.O. BOX 10723",,TALLAHASSEE,FL,32302,I,RETIRED,CH,,250.00,,DESLOGE
+9308,7,2022-02-23,C,"JACK  KIKER","2010 DELTA BLVD.",,TALLAHASSEE,FL,32303,I,ATTORNEY,CH,,250.00,,KIKER
+9308,4,2022-02-25,C,"C David  Foneville","10800 McCracken Road",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,Foneville
+9308,5,2022-02-25,C,"JOHN  CRIST","7006 WESTBELT DRIVE",,"NASHVILLE ",TN,37209,I,"CEO, DBAT<br>NASHVILLE",CH,,1000.00,,CRIST
+9371,2,2022-03-01,E,"Stephen K Beasley","630 West Brevard Street",,Tallahassee,FL,32304,,,MO,"Campaign Consulting ",1000.00,,Beasley
+9371,3,2022-03-03,E,"Silver Productions","PO Box 20782",,Tallahassee,FL,32316,,,MO,"Video Productions ",400.00,,"Silver Productions"
+9371,1,2022-03-04,C,"Elizabeth  Desloge","3573 Swallowtrail Chase",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,Desloge
+9371,2,2022-03-04,C,"Adam  Ellis","3573 Swallowtrail Chase",,Tallahassee,FL,32303,I,,CH,,100.00,,Ellis
+9371,3,2022-03-04,C,"Leigh  Ansley","568 Frank Shaw Road ",,Tallahassee,FL,32312,I,Catering,CH,,150.00,,Ansley
+9371,4,2022-03-04,C,"Allison  Hill","3899 Ward Basin RE",,Tallahassee,FL,32583,I,,CH,,100.00,,Hill
+9371,5,2022-03-04,C,"Edward  Bouza","261 Timberlane Road ",,Tallahassee,FL,32312,I,,CH,,100.00,,Bouza
+9371,6,2022-03-04,C,"Michael  Hines","Post Office Box 3285",,Tallahassee,FL,32315,I,Retired,CH,,500.00,,Hines
+9371,7,2022-03-04,C,"Chris  Dudley","3907 W Millers Bridge Road",,Tallahassee,FL,32312,I,Gov.<br>Advisory,CH,,500.00,,Dudley
+9371,8,2022-03-11,C,"Theodore F. Thomas Jr. Revocab","1469 Viuex Carre Drive",,Tallahassee,FL,32308,O,Trust,CH,,250.00,,"Theodore F. Thomas Jr. Revocab"
+9371,9,2022-03-11,C,"Joseph  Williamson","2910 Kerry Forrest Parkway D-4-390",,Tallahassee,FL,32309,I,"Insurance ",CH,,150.00,,Williamson
+9371,10,2022-03-11,C,"Paul  Joanas Jr","1137 Ronds Ponte Dr. W",,Tallahassee,FL,32312,I,"Retired ",CH,,200.00,,"Joanas Jr"
+9371,11,2022-03-11,C,"Kathleen  Brennan","4778 Lancashure Lane",,Tallahassee,FL,32309,I,"Non Profit",CH,,1000.00,,Brennan
+9622,1,2022-03-11,C,"Kathleen  Brennan","4778 Lancashure Lane",,Tallahassee,FL,32309,I,"Non Profit",CH,,1000.00,D,Brennan
+9622,2,2022-03-11,C,"Robert C Hendon","4778 Lancashure Lane",,Tallahassee,FL,32309,I,Retired,CH,,1000.00,A,Hendon
+9371,5,2022-03-14,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE",729.00,,"GRIMSLEY AND COMPANY CPAS"
+9371,6,2022-03-14,E,FACEBOOK,"1 HACKER WAY",,"MENLO PARK",CA,94025,,,MO,ADVERTISING,60.00,,FACEBOOK
+9371,7,2022-03-14,E,MAILCHIMP,"675 PONCE DE LEON AVE","SUITE 5000",ATLANTA,GA,30308,,,MO,COMMUNICATOINS,30.60,,MAILCHIMP
+9371,12,2022-03-18,C,"Dean  Pugh","319 Ross Road",,Tallahassee,FL,32305,I,"Moving and<br>Storage",CH,,1000.00,,Pugh
+9371,13,2022-03-18,C,"Mary  Moor","3735 Bobbin Mill Road ",,Tallahassee,FL,32312,I,Interior<br>Design-,CH,,250.00,,Moor
+9371,14,2022-03-25,C,"Patrick  Farrell","7391 Buck Lake Road",,Tallahassee,FL,32317,I,,CH,,100.00,,Farrell
+9371,15,2022-03-25,C,"Shelton  Bridges","3606 S. Thatcher Ave.",,Tallahassee,FL,33629,I,Attorney,CH,,500.00,,Bridges
+9371,16,2022-03-31,C,"Colleen  Andrew","822 North Monroe Street ",,Tallahassee,FL,32303,I,"Legal Ass.",CH,,500.00,,Andrew
+9371,17,2022-03-31,C,"Mahoneys Books","2920 Ivanhoe Road",,Tallahassee,FL,32312,B,"Book Sales",CH,,250.00,,"Mahoneys Books "
+9371,18,2022-03-31,C,"Jill  David","***Protected Voter***",,,,,I,,CH,,100.00,,David
+9371,19,2022-03-31,C,"Kenneth  Kopczynski","1114 Brandt Drive",,Tallahassee,FL,32308,I,,CH,,50.00,,Kopczynski
+9371,20,2022-03-31,C,"Marc  Mitchell","1330 Capital Circle NE",,Tallahassee,FL,32308,I,"Asphalt<br>Services ",CH,,1000.00,,Mitchell
+9371,21,2022-03-31,C,"Edward  Mitchell","1330 Capital Circle NE",,Tallahassee,FL,32308,I,"Paving ",CH,,1000.00,,Mitchell
+9371,1,2022-03-31,E,Paypal," 2211 N First St",,"San Jose",CA,95131,,,MO,E-Commerce<br>Fees,215.48,,Paypal
+9371,4,2022-03-31,E,"HAYNES & ASSOCIATES LLC","P.O. BOX 10835",,Tallahassee,FL,32302,,,MO,Campaign<br>Consulting<br>,1000.00,,"HAYNES & ASSOCIATES LLC"
+9474,1,2022-04-01,E,"Haynes & Associates, LLC","P.O. Box 10835",,Tallahassee,FL,32302,,,MO,"Campaign Consulting",500.00,,"Haynes & Associates, LLC"
+9474,2,2022-04-06,E,"Public Square LLC","2721 12th Street N",,"St. Petersburg",FL,32704,,,MO,"Campaign Consulting",4000.00,,"Public Square LLC"
+9474,1,2022-04-08,C,"Jeffrey  Sharkey","106 E. College Avenue Suite 1110",,Tallahassee,FL,32301,I,Government<br>Relations,CH,,1000.00,,Sharkey
+9474,2,2022-04-08,C,"Hunter Louis LLC","401 Office Plaza Drive ",,Tallahassee,FL,32301,B,Real<br>Estate,CH,,250.00,,"Hunter Louis LLC"
+9474,4,2022-04-08,E,"Stephen K Beasley","630 West Brevard Street",,Tallahassee,FL,32304,,,MO,"Campaign Consulting",1000.00,,Beasley
+9474,3,2022-04-08,C,"Samuel  Rogers","4180 Covenant Lane #305 ",,Tallahassee,FL,32308,I,Retired,CH,,500.00,,Rogers
+9474,4,2022-04-08,C,"Melanie  Oliver","625 E. College Avenue",,Tallahassee,FL,32301,I,Retired,CH,,250.00,,Oliver
+9474,5,2022-04-08,C,"Oliver Sperry Renovation and C","401 Office Plaza Drive",,Tallahassee,FL,32301,B,Construction,CH,,250.00,,"Oliver Sperry Renovation and C"
+9474,6,2022-04-08,C,"Mary Lou  Rajchel","901 Hillcrest Court",,Tallahassee,FL,32308,I,,CH,,100.00,,Rajchel
+9474,7,2022-04-08,C,"Ronald  Richmond","4425 Meandering Way","Apt 420",Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Richmond
+9474,8,2022-04-08,C,"Ron  Brafford","3509 Colonnade Drive",,Tallahassee,FL,32309,I,Real<br>Estate,CH,,200.00,,Brafford
+9474,9,2022-04-08,C,"Maye  Walker","1305 Covington Drive",,Tallahassee,FL,32312,I,Retired-,CH,,300.00,,Walker
+9474,10,2022-04-08,C,"Claude  Walker","2170 Stiles Pond Court",,Tallahassee,FL,32303,I,"CEO,SUMMIT",CH,,300.00,,Walker
+9474,6,2022-04-09,E,"Carolyn Allen Photography","406 Talaflo Street",,Tallahassee,FL,32308,,,MO,Photography,750.00,,"Carolyn Allen Photography"
+9474,7,2022-04-12,E,"Capital City Garden Club","626 Tram Road",,Tallahassee,Fl,32305,,,MO,Event<br>Rental,250.00,,"Capital City Garden Club"
+9474,11,2022-04-12,C,"Kevin  Graham","3043 Feeney Court ",,Tallahassee,FL,32309,I,Real<br>Estate<br>Foundation,CH,,500.00,,Graham
+9474,12,2022-04-12,C,"Ralph  DeMeo","1983 Centre Point Blvd  ","Ste. 200",Tallahassee,FL,32308,I,Attorney,CH,,500.00,,DeMeo
+9474,13,2022-04-12,C,"Talcor Holdings Inc","1018 Thomasville Road","Suite 200A",Tallahassee,FL,32303,B,Real<br>Estate,CH,,1000.00,,"Talcor Holdings Inc"
+9474,14,2022-04-12,C,"Talcor Management Group, L.C.","1018 Thomasville Road","Suite 200A",Tallahassee,FL,32303,B,Real<br>Estate,CH,,1000.00,,"Talcor Management Group, L.C."
+9474,15,2022-04-12,C,"Talcor Properties LLC","1018 Thomasville Road","Suite 200A",Tallahassee,FL,32308,B,Real<br>Estate,CH,,1000.00,,"Talcor Properties LLC"
+9474,16,2022-04-12,C,"Talcor Tennessee Square","1018 Thomasville Road","Suite 200A",Tallahassee,FL,32303,B,Real<br>Estate,CH,,1000.00,,"Talcor Tennessee Square"
+9474,17,2022-04-12,C,"Talcor Betton Place","1018 Thomasville Road","Suite 200A",Tallahassee,FL,32308,B,Real<br>Estate,CH,,1000.00,,"Talcor Betton Place"
+9474,18,2022-04-12,C,"Dan  Langston","313 Dahlonega Drive",,Tallahassee,FL,32317,I,"CEO,<br>FLIGHTLINE",CH,,250.00,,Langston
+9474,19,2022-04-12,C,"Helen  Middlebrooks","706 Live Oak Plantation Road",,Tallahassee,FL,32312,I,RETIRED,CH,,1000.00,,Middlebrooks
+9474,20,2022-04-12,C,"Brick Avenue Homes LLC","706 Live Oak Plantation Road",,Tallahassee,FL,32312,B,"RES. RE<br>INVEST.",CH,,1000.00,,"Brick Avenue Homes LLC"
+9474,8,2022-04-13,E,MAILCHIMP,"675 PONCE DE LEON AVE NE","SUITE 500",ATLANTA,GA,30308,,,MO,EMAIL,34.00,,MAILCHIMP
+9474,10,2022-04-21,E,"Grimsley and Company CPAs","1427 Piedmont Drive East",,Tallahassee,FL,32308,,,MO,"Campaign Treasurer",679.00,,"Grimsley and Company CPAs"
+9474,9,2022-04-22,E,"TARGET PRINT AND MAIL","635 W TENNESSEE STREET",,TALLAHASSEE,FL,32304,,,MO,"CAMPAIGN SUPPLIES",7039.21,,"TARGET PRINT AND MAIL"
+9474,21,2022-04-22,C,"Meghann  Van Hise","2916 Huntington Drive",,Tallahassee,FL,32308,I,,CH,,50.00,,"Van Hise"
+9474,22,2022-04-22,C,"Thomas  Montalbano","3366 Cameron Chase Drive",,Tallahassee,FL,32309,I,"CPA, CARR<br>RIGGS",CH,,300.00,,Montalbano
+9474,23,2022-04-22,C,"Gary  Rudledge","641 Forest Lair",,Tallahassee,FL,32312,I,Attorney,CH,,100.00,,Rudledge
+9474,24,2022-04-22,C,"Jennifer  Hinson","2520 Chamberlin Drive",,Tallahassee,FL,32308,I,Attorney,CH,,500.00,,Hinson
+9474,11,2022-04-26,E,"Stearns Weaver Miller PA","106 E College Ave",,Tallahassee,FL,32301,,,MO,Campaign<br>Consulting,2500.00,,"Stearns Weaver Miller PA"
+9474,12,2022-04-26,E,"Capital City Bank","P.O. Box 900",,Tallahassee,FL,32302,,,MO,"BANK FEE",25.00,,"Capital City Bank"
+9474,25,2022-04-26,C,"Rutledge Ecenia P.A.","P.O. Box 551",,Tallahassee,FL,32302,B,Attorney,CH,,500.00,,"Rutledge Ecenia P.A."
+9474,26,2022-04-26,C,"Raja  Komuroji","***Protected Voter***",,,,,I,Governmental<br>Affairs,CH,,300.00,,Komuroji
+9474,3,2022-04-30,E,Paypal,"2211 North First Street",,"San Jose",CA,95131,,,MO,"E-Commerce Fees",66.99,,Paypal
+9474,5,2022-04-30,E,Facebook,"1 Hacker Way",,"Menlo Park",CA,94025,,,MO,Marketing,305.24,,Facebook
+9528,1,2022-05-02,E,"HAYNES & ASSOCIATES LLC","POST OFFICE BOX 10835",,TALLAHASSEE,FL,32302,,,MO,"CAMPAIGN CONSULTING",500.00,,"HAYNES & ASSOCIATES LLC"
+9528,2,2022-05-02,E,"STEPHEN K. BEASLEY","630 WEST BREVARD STREET",,TALLAHASSEE,FL,32304,,,MO,"CAMPAIGN CONSULTING",1000.00,,BEASLEY
+9528,3,2022-05-05,E,"TALLAHASSEE REPORTS- RED HILLS","3048 WATERFORD DRIVE",,TALLAHASSEE,FL,32312,,,MO,ADVERTISING/COMMUNICATIONS,940.00,,"TALLAHASSEE REPORTS- RED HILLS"
+9528,4,2022-05-05,E,"PUBLIC SQUARE","2721 12TH STREET N",,"ST. PETERSBURG",FL,32704,,,MO,"CAMPAIGN CONSULTING",2000.00,,"PUBLIC SQUARE"
+9528,5,2022-05-05,E,"STATECRAFT DIGITAL LLC","37 NORTH ORANGE AVENUE","SUITE 500",ORLANDO,FL,32801,,,MO,"COMMUNICATIONS/WEBSITE DESIGN",5000.00,,"STATECRAFT DIGITAL LLC"
+9528,6,2022-05-05,E,MAILCHIMP,"675 PONCE DE LEON AVE","SUITE 5000",ATLANTA,GA,30308,,,MO,EMAILS,34.00,,MAILCHIMP
+9528,7,2022-05-05,E,"GRIMSLEY AND COMPANY CPAS","1427 Piedmont Drive East",,TALLAHASSEE,FL,32308-,,,MO,"CAMPAIGN FINANCE SERVICES",843.00,,"GRIMSLEY AND COMPANY CPAS"
+9528,1,2022-05-06,C,"Lindsay  Volpe","402 E Georgia St",,Tallahassee,FL,32301,I,,CH,,100.00,,Volpe
+9528,2,2022-05-06,C,"Robert  Volpe","402 E Georgia St",,Tallahassee,FL,32301,I,,CH,,100.00,,Volpe
+9528,3,2022-05-06,C,"Kimberly  Armistead","4752 Lancashure Lane",,Tallahassee,FL,32309,I,Attorney,CH,,200.00,,Armistead
+9528,4,2022-05-06,C,"David  Weiss","2909 Woodside Dr",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Weiss
+9528,5,2022-05-06,C,"Blaine  Click","6031 Quail Ridge Dr",,Tallahassee,FL,32312,I,CFO,CH,,1000.00,,Click
+9528,6,2022-05-06,C,"Alison  Denny","1714 Copperfield Circle",,Tallahassee,FL,32312,I,Realtor,CH,,250.00,,Denny
+9528,7,2022-05-06,C,"Thomas  Whitley","2007 Dellwood Dr",,Tallahassee,FL,32303,I,"Chief of<br>Staff",CH,,250.00,,Whitley
+9528,8,2022-05-06,C,"Patrick  McKee","1103 Shalimar Dr",,Tallahassee,FL,32312,I,Insurance<br>Agent,CH,,250.00,,McKee
+9528,9,2022-05-06,C,"Joseph Robert Long III","2025 Chimney Swift Hollow",,Tallahassee,FL,32312,I,Real<br>Estate<br>Agent,CH,,250.00,,"Long III"
+9528,10,2022-05-06,C,"Susan  Thomas","930 Live Oak Plantation",,Tallahassee,FL,32312,I,Oper.<br>Program<br>Admin,CH,,500.00,,Thomas
+9528,11,2022-05-06,C,"Mary Lee Mann","17281 Brenfield Ln",,Alva,FL,33920,I,Retired,CH,,500.00,,Mann
+9528,12,2022-05-06,C,"David  Weiss","2909 Woodside Dr",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Weiss
+9528,13,2022-05-06,C,"Clayton  Osteen","2355 Merrigan Place",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,Osteen
+9528,14,2022-05-06,C,"Ken  Abele","3315 Dartmoor Dr",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Abele
+9528,15,2022-05-06,C,"Robert  Clarke Jr","4703 High Grove Rd",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,"Clarke Jr"
+9528,16,2022-05-06,C,"Thomas  Schulte Jr","1581 Marion Avenue",,Tallahassee,FL,32303,I,Attorney,CH,,250.00,,"Schulte Jr"
+9528,17,2022-05-06,C,"John Jeffry Wahlen","330 Milestone Drive",,Tallahassee,FL,32312,I,Lawyer,CH,,250.00,,Wahlen
+9528,18,2022-05-06,C,"Gerald  Thomas","904 Lasswade Dr",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Thomas
+9528,19,2022-05-06,C,"Jonathan  Hayes","2763 Raintree Circle",,Tallahassee,FL,32308,I,,CH,,50.00,,Hayes
+9528,20,2022-05-06,C,"Kenneth  Hart","706 N. Ride",,Tallahassee,FL,32303,I,Attorney,CH,,200.00,,Hart
+9528,21,2022-05-06,C,"Martin  Sipple","2921 Woodside Dr",,Tallahassee,FL,32312,I,,CH,,100.00,,Sipple
+9528,22,2022-05-06,C,"Elizabeth  Barron","187 El Destino Road",,Monticello,FL,32344,I,Attorney,CH,,300.00,,Barron
+9528,23,2022-05-06,C,"Kevin  Forsthoefel","2609 Lotus Dr",,Tallahassee,FL,32312,I,Attorney,CH,,150.00,,Forsthoefel
+9528,24,2022-05-06,C,"Ian  White","***Protected Voter***",,,,,I,,CH,,100.00,,White
+9528,25,2022-05-06,C,"George  Reynolds IV","***Protected Voter***",,,,,I,Laywer,CH,,200.00,,"Reynolds IV"
+9528,26,2022-05-13,C,"Gunster Pac Inc","777 S. Flagler Drive","Suite 500E","West Palm Beach",FL,33401,F,POLITICAL<br>COMMITTEE,CH,,500.00,,"Gunster Pac Inc"
+9528,27,2022-05-13,C,"J. Larry  Williams","P.O. Box 10235",,Tallahassee,FL,32302,I,,CH,,100.00,,Williams
+9528,28,2022-05-13,C,"Francis P. Rentz PA","2065 Thomasville Road","Suite 1",Tallahassee,FL,32308,B,"LAW FIRM",CH,,1000.00,,"Francis P. Rentz PA"
+9528,29,2022-05-13,C,"Jason  Osteen","2900 East Park Ave",,Tallahassee,FL,32301,I,Mediator,CH,,500.00,,Osteen
+9528,30,2022-05-13,C,"Shuan  York","***Protected Voter***",,,,,I,"Exec.<br>Director<br>of Tech",CH,,200.00,,York
+9528,31,2022-05-13,C,"Betty  Steffens","1956 Charlais Street",,Tallahassee,FL,32317,I,Lawyer,CH,,250.00,,Steffens
+9528,8,2022-05-14,E,FACEBOOK,"1 HACKER WAY",,"MENLO PARK",CA,94025,,,MO,ADVERTISING,34.76,,FACEBOOK
+9528,32,2022-05-20,C,"Charles  Cooper","3210 Lisa Court",,Tallahassee,FL,32312,I,Retired,CH,,500.00,,Cooper
+9528,33,2022-05-20,C,"Kim  Williams","PO Box 2068",,Tallahassee,FL,32316,I,RECYCLING,CH,,500.00,,Williams
+9528,34,2022-05-20,C,"Wayne Blanton & Associates LLC","1319 Peacefield Place",,Tallahassee,FL,32308,B,Business<br>Advisory<br>Svs,CH,,500.00,,"Wayne Blanton & Associates LLC"
+9528,35,2022-05-20,C,"Sandra  Cartee","1319 Peacefield Place",,Tallahassee,FL,32308,I,,CH,,100.00,,Cartee
+9528,36,2022-05-20,C,"David  Coburn","P.O. Box 3003",,Tallahassee,FL,32315,I,Retired,CH,,1000.00,,Coburn
+9528,37,2022-05-20,C,"Mary  Coburn","P.O. Box 3003",,Tallahassee,FL,32315,I,Retired,CH,,500.00,,Coburn
+9528,38,2022-05-20,C,"Jessie  Werner","3505 Trillium Court",,Tallahassee,FL,32312,I,"Marketing<br>& PR Prof",CH,,200.00,,Werner
+9528,39,2022-05-20,C,"Thomas  Lewis","1103 Piedmont Drive",,Tallahassee,FL,32312,I,Retired,CH,,500.00,,Lewis
+9528,40,2022-05-20,C,"Willie  Williams","***Protected Voter***",,,,,I,Professor,CH,,200.00,,Williams
+9528,9,2022-05-25,E,"STEARNS WEAVER MILLER PA","150 WEST FLAGLER STREET","SUITE 2200",MIAMI,FL,33130,,,MO,"LEGAL CONSULTING",340.00,,"STEARNS WEAVER MILLER PA"
+9528,10,2022-05-25,E,PAYPAL,"2211 NORTH FIRST STREET",,"SAN JOSE",CA,95131-,,,MO,ECOMMERCE<br>FEES,42.19,,PAYPAL
+9528,41,2022-05-31,C,"Howard  Moody","1006 Altamont Dr",,Tallahassee,FL,32312,I,Optometrist,CH,,200.00,,Moody
+9528,42,2022-05-31,C,"Kevin  Mayeux","636 Mariposa St",,Orlando,FL,32801,I,Attorney,CH,,250.00,,Mayeux
+9528,43,2022-05-31,C,"Laura  Johnson","***Protected Voter***",,,,,I,COTTON<br>COLORS,CH,,400.00,,Johnson
+9575,1,2022-06-01,E,"Haynes & Associates, LLC","PO Box 10835",,Tallahassee,FL,32302,,,MO,Campaign<br>Consulting,500.00,,"Haynes & Associates, LLC"
+9575,2,2022-06-01,E,"Stephen K. Beasley","630 W Brevard St",,Tallahassee,FL,32304,,,MO,Campaign<br>Consulting,1100.00,,Beasley
+9575,7,2022-06-01,E,"Capital City Bank","P.O. Box 900",,Tallahassee,FL,32302,,,MO,"Bank Fee",59.79,,"Capital City Bank"
+9575,1,2022-06-03,C,"Ernest  Korst, Jr.","1487 Alligator Dr",,"Alligator Point",FL,32346,I,,CH,,100.00,,"Korst, Jr."
+9575,2,2022-06-03,C,"Michael  Forsthoefel","1300 Medical Dr",,Tallahassee,FL,32308,I,Doctor,CH,,1000.00,,Forsthoefel
+9575,3,2022-06-03,C,"Carter  Scott","2805 Thomasville Rd",,Tallahassee,FL,32308,I,Attorney,CH,,250.00,,Scott
+9575,4,2022-06-03,E,"Public Square","2721 12th Street N",,"St. Petersburg",FL,32704,,,MO,"Campaign Consulting",2000.00,,"Public Square"
+9575,8,2022-06-06,E,"Leon County Supervisor of Elec","P O Box 7357",,Tallahassee,FL,32314,,,MO,Campaign<br>Qualifying<br>Fee,839.45,,"Leon County Supervisor of Elec"
+9575,9,2022-06-07,E,"Sarah Solomon Films","1314 Hidden Timbers Place",,Tallahassee,FL,32312,,,MO,"Video Productions",250.00,,"Sarah Solomon Films"
+9575,4,2022-06-10,C,"James  Westmoreland","614 Beard St",,Tallahassee,FL,32303,I,Retired,CH,,1000.00,,Westmoreland
+9575,5,2022-06-10,C,"LJ  Block","5189 Wildefield Dr",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,Block
+9575,5,2022-06-10,E,"Grimsley and Company CPAs","1427 Piedmont Drive East",,Tallahassee,FL,32308,,,MO,"Campaign Finance Services",940.00,,"Grimsley and Company CPAs"
+9575,12,2022-06-13,E,Mailchimp,"675 Ponce De Leon Ave","Suite 5000",Atlanta,GA,30308,,,MO,Emails,34.00,,Mailchimp
+9575,13,2022-06-13,E,"Full Press Apparel","3445 Garber Dr",,Tallahassee,FL,32303,,,MO,Advertising,609.31,,"Full Press Apparel"
+9575,11,2022-06-15,E,Facebook,"1 Hacker Way",,"Menlo Park",CA,94025,,,MO,Advertising,125.00,,Facebook
+9575,10,2022-06-16,E,"STATECRAFT DIGITAL LLC","37 NORTH ORANGE AVE","SUITE 500",ORLANDO,FL,32801,,,MO,"Digital Marketing",11475.00,,"STATECRAFT DIGITAL LLC"
+9575,6,2022-06-17,C,"Thomas  DeLopez","815 Live Oak Plantation Rd",,Tallahassee,FL,32312,I,,CH,,100.00,,DeLopez
+9575,3,2022-06-17,E,Paypal,"2211 North First Street",,"San Jose",CA,95131,,,MO,Ecommerce<br>Fees,48.21,,Paypal
+9575,6,2022-06-17,E,"Target Print and Mail","635 W Tennessee Street",,Tallahassee,FL,32304,,,MO,"Campaign Supplies",1114.24,,"Target Print and Mail"
+9641,8,2022-06-21,E,Facebook,"1 Hacker Way",,"Menlo Park",CA,94025,,,MO,Advertisement,210.85,,Facebook
+9641,1,2022-06-24,C,"BARRY  DISKIN","6400 STONE STREET TRAIL",,TALLAHASSEE,FL,32309,I,PROFESSOR,CH,,200.00,,DISKIN
+9641,2,2022-06-24,C,"William  Lemocks","402 Piedmont Drive",,Tallahassee,FL,32312,I,,CH,,100.00,,Lemocks
+9641,3,2022-06-24,C,"Robert  Bacon","P.O. Box 12039",,Tallahasse,FL,32317,I,Insurance<br>Agent,CH,,250.00,,Bacon
+9641,4,2022-06-24,C,"Bridget  Smitha","11562 Buck Lake Road",,Tallahassee,FL,32317,I,Attorney,CH,,100.00,,"Smitha "
+9641,5,2022-06-24,C,"Chanta   Coombs","1514 Cristobal Drive ",,Tallahassee,FL,32303,I,Political<br>Attorney,CH,,1000.00,,Coombs
+9641,6,2022-06-24,C,"Glenn  Burhans","5004 Caracara Drive",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Burhans
+9641,43,2022-07-01,C,"Daniel  Taylor","1224 Mitchell Ave",,Tallahassee,FL,32303,I,,CH,,25.00,,Taylor
+9641,44,2022-07-01,C,"Meghann  VanHise","2916 Huntington Dr",,Tallahassee,FL,32308,I,,CH,,50.00,,VanHise
+9641,45,2022-07-01,C,"Lisa  Foran","389 Meadow Ridge",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Foran
+9641,46,2022-07-01,C,"Courtney  Barry","3798 Piney Grove Dr",,Tallahassee,FL,32311,I,,CH,,100.00,,Barry
+9641,47,2022-07-01,C,"Russell  Mick","1999 Sara Lee Ln",,Tallahassee,FL,32312,I,,CH,,50.00,,Mick
+9641,48,2022-07-01,C,"Anthony  DiMarco","3434 Foley Dr",,Tallahassee,FL,32309,I,,CH,,100.00,,DiMarco
+9641,49,2022-07-01,C,"Allison  Anway","1962 Chatworth Way",,Tallahassee,FL,32309,I,,CH,,100.00,,Anway
+9641,50,2022-07-01,C,"Jennifer  Underhill","3972 Grove Park Drive ",,TALLAHASSEE,FL,32311,I,,CH,,50.00,,Underhill
+9641,51,2022-07-01,C,"John  Dailey","1427 Peidmont Drive East",,Tallahassee,FL,32308,S,Candidate,IK,Bartending<br>Services<br>Gratuities<br>-,500.00,,Dailey
+9641,52,2022-07-01,C,"John  Dailey","1427 Peidmont Drive East",,Tallahassee,FL,32308,S,Candidate,IK,"Chef and<br>Catering",682.00,,Dailey
+9641,53,2022-07-01,C,"John  Dailey","1427 Peidmont Drive East",,Tallahassee,FL,32308,S,Candidate,IK,"Food and Beverage ",43.21,,Dailey
+9719,1,2022-07-01,C,"William  A Messer","6336 Bird Dog PT",,Tallahassee,FL,32309,I,,CH,,50.00,D,Messer
+9719,2,2022-07-01,C,"Stephani  Messer","6336 Bird Dog PT",,Tallahassee,FL,32309,I,,CH,,50.00,A,Messer
+9641,7,2022-07-01,C,"Paul E Joanos","3120 Fieldstone Lane",,"Tallahassee ",FL,32308,I,,CH,,100.00,,Joanos
+9641,8,2022-07-01,C,"Matthew L Duke","***Protected Voter***",,,,,I,IT<br>Advisory<br>Service,CH,,200.00,,Duke
+9641,9,2022-07-01,C,"Rick  Savage","4967 Glen Castle Drive",,Tallahassee,FL,32309,I,Attorney,CH,,500.00,,Savage
+9641,10,2022-07-01,C,"Florida Police Benevolent Asso","300 E Brevard St",,"Tallahassee ",FL," 32301",B,Police<br>Association,CH,,1000.00,,"Florida Police Benevolent Asso"
+9641,11,2022-07-01,C,"Greenpointe Developers LLC","7807 BaymeadowsRoad East Suite 205",,Jacksonville,FL,32256,B,Real<br>estate<br>develop-,CH,,1000.00,,"Greenpointe Developers LLC"
+9641,12,2022-07-01,C,"Kathryn   Heller","791 Woodland Ave SE",,Atlanta,GA,30316,I,,CH,,100.00,,Heller
+9641,13,2022-07-01,C,"Gil  Ziffer","PO Box 3208",,Tallahassee,FL,32315,I,Advertising,CH,,250.00,,Ziffer
+9641,14,2022-07-01,C,"Maria  Norvell","637 Live Oak Plantation Rd",,Tallahassee,FL,32312,I,Homemaker,CH,,1000.00,,Norvell
+9641,15,2022-07-01,C,"Carl  Eldred","***Protected Voter***",,,,,I,Attorney,CH,,200.00,,Eldred
+9641,16,2022-07-01,C,"Richard  Stephens","3811 Longford Dr",,tALLAHASSEE,fl,32309,I,,CH,,100.00,,Stephens
+9641,17,2022-07-01,C,"Kathleen  Cavell","1453 Pine St",,Tallahassee,FL,32303,I,,CH,,50.00,,Cavell
+9641,1,2022-07-01,E,Paypal,"2211 North First St",,"San Jose ",CA,95131,,,MO,"Ecommerce Fees",204.94,,Paypal
+9641,2,2022-07-01,E,"Target Print and Mail","2843 Industrial Plaza Dr",,Tallahasee,FL,32301,,,MO,"Advertisment Buttons",11.76,,"Target Print and Mail"
+9641,18,2022-07-01,C,"Kelly  O'Keefe","7965 Hidden Oak Court",,Tallahassee,FL,32317,I,,CH,,100.00,,O'Keefe
+9641,3,2022-07-01,E,"Haynes and Associates","PO Box 10835",,Tallahassee,fl,32302,,,MO,"Campaign Consulting",500.00,,"Haynes and Associates"
+9641,19,2022-07-01,C,"Daryl  Parks","540 Gore Ave",,Tallahassee,FL,32310,I,,CH,,25.00,,Parks
+9641,4,2022-07-01,E,"Stearns Weaver Miller PA","150 West Flagler St, Ste 2200",,Miami,FL,33130,,,MO,"Professional fees",2042.10,,"Stearns Weaver Miller PA"
+9641,20,2022-07-01,C,"Robert  Asztalos","5013 Centennial Oak Circle",,Tallahassee,FL,32308,I,,CH,,50.00,,Asztalos
+9641,21,2022-07-01,C,"Christopher  Daniels","704 Robert & Trudie Perkins Way",,Tallahassee,FL,32310,I,,CH,,100.00,,Daniels
+9641,22,2022-07-01,C,"Elizabeth Button Jackson","16400 Star Hill Road",,Tallahassee,FL,32310,I,,CH,,100.00,,Jackson
+9641,23,2022-07-01,C,"Chalmus  Thomas","3115 Parkridge Drive",,Tallahassee,FL,32305,I,,CH,,50.00,,Thomas
+9641,24,2022-07-01,C,"Don W Davis","3649 Uncle Glover Rd",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Davis
+9641,5,2022-07-01,E,"Steve  Beasley","630 West Brevard St",,Tallahassee,FL,32304,,,MO,"Political Consulting-July Services",1000.00,,"Beasley "
+9641,25,2022-07-01,C,"HArold V Branch","***Protected Voter***",,,,,I,,CH,,100.00,,Branch
+9641,26,2022-07-01,C,"Anastasia  P Koikos","7999 Preservation Road",,Tallahassee,FL,32312,I,,CH,,100.00,,Koikos
+9641,6,2022-07-01,E,"Statecraft Digital LLC","37 North Orange Ave, Suite 500",,Orlando,FL,32801,,,MO,"Digital Marketing",11475.00,,"Statecraft Digital LLC"
+9641,27,2022-07-01,C,"Henry  Lewis","4134 Faulkner Lane",,Tallahassee,FL,32311,I,Pharmacist,CH,,250.00,,Lewis
+9641,28,2022-07-01,C,"William E Eichhoefer","3125 Parklawn Street",,Tallahassee,FL,32304,I,,CH,,100.00,,Eichhoefer
+9641,29,2022-07-01,C,"Barney  T Bishop III","2215 Thomasville Road",,Tallahassee,FL,32308,I,,CH,,100.00,,"Bishop III"
+9641,30,2022-07-01,C,"EW Bryant Associates LLC","P.O. Box 14761",,Tallahassee,FL,32308,B,Bus<br>Advisory<br>Service,CH,,250.00,,"EW Bryant Associates LLC"
+9641,31,2022-07-01,C,"Brett R Bacot","1510 E Park Ave",,Tallahassee,FL,32301,I,,CH,,50.00,,Bacot
+9641,32,2022-07-01,C,"Paul M Langston","8845 Glen Abby Drive",,Tallahassee,FL,32312,I,CEO<br>Flightline<br>group,CH,,500.00,,Langston
+9641,7,2022-07-01,E,"Cynthia  Shingles","PO Box 10835",,Tallahassee,FL,32302,,,MO,"Political Advisory ",250.00,,"Shingles "
+9641,33,2022-07-01,C,"Pete  N Koikos","3317 Charleston Road",,Tallahassee,FL,32309,I,,CH,,100.00,,Koikos
+9641,34,2022-07-01,C,"James Ira Crews Jr","P.O. Box 3244",,Tallahassee,FL,32315,I,,CH,,25.00,,"Crews Jr"
+9641,35,2022-07-01,C,"Florida Sports Consulting INC","106 E College Ave Ste 1110",,Tallahassee,FL,32301,B,Sports<br>Advisory,CH,,500.00,,"Florida Sports Consulting INC"
+9641,36,2022-07-01,C,"James Sibley Richerson Jr","1501 Crestview Avenue ",,Tallahassee,FL,32303,I,Realtor,CH,,500.00,,"Richerson Jr"
+9641,37,2022-07-01,C,"Robert L Bull","590 Meadow Ridge Drive",,Tallahssee,FL,32312,I,,CH,,25.00,,Bull
+9641,38,2022-07-01,C,"Tommy  Mitchell Jr","2980 Raymond Diehl Road",,Tallahassee,FL,32309,I,,CH,,100.00,,"Mitchell Jr"
+9641,39,2022-07-01,C,"William  A Messer","6336 Bird Dog PT",,Tallahassee,FL,32309,I,,CH,,50.00,,Messer
+9641,40,2022-07-01,C,"Clear Solutions of Tallahassee","3720 N Monroe Street",,Tallahassee,FL,32303,B,Insurance<br>Broker,CH,,1000.00,,"Clear Solutions of Tallahassee"
+9641,41,2022-07-01,C,"Bob  Wray","3136 Dowling Drive",,Tallahassee,FL,32309,I,Attorney,CH,,200.00,,Wray
+9641,42,2022-07-01,C,"Meredith  Beckham","1742 Riverbirch Hollow",,Tallahassee,FL,32308,I,,CH,,50.00,,"Beckham "
+9644,1,2022-07-08,C,"Good Government PAC  HCA West Forida Division of","101 N. Monroe Street Suite 801",,Tallahassee,FL,32301,F,Political<br>committee,CH,,250.00,,"HCA West Forida Division of "
+9644,2,2022-07-08,C,"Good Government PAC  HCA East Forida Division and","101 N. Monroe Street Suite 801",,Tallahassee,FL,32301,F,Political<br>Committee,CH,,250.00,,"HCA East Forida Division and"
+9644,3,2022-07-08,C,"John  O Terry","1305 Kirby Street",,"Palatka ",FL,32177,I,Attorney,CH,,200.00,,Terry
+9644,8,2022-07-13,C,"Martha  Williams","6027 Jamestown Park",,Orlando,FL,32819,I,,CH,,100.00,,Williams
+9644,9,2022-07-13,C,"John Owen Clark","1730 Armistead Place",,Tallahassee,FL,32308,I,retired,CH,,125.00,,Clark
+9644,10,2022-07-13,E,"Mail Chimp","675 Ponce de Leon Ave NE",,"Atlanta ",GA,30308,,,MO,Postage,34.00,,"Mail Chimp"
+9644,4,2022-07-15,C,"Sharon  Berrian","4381 Rockingham Rd ",,Tallahasseee,FL,32303,I,,CH,,50.00,,Berrian
+9644,5,2022-07-15,C,"Katharine  Lyon","168 Rosehill Dr W",,Tallahassee,FL,32308,I,Psychology<br>specialist,CH,,1000.00,,Lyon
+9644,6,2022-07-15,C,"Marion  Parker","2117 Jenette St",,Tallahassee,FL,32308,I,,CH,,100.00,,Parker
+9644,7,2022-07-15,C,"Danny  Shrine","3445 Garber Dr",,Tallahassee,FL,32303,I,"P, Full<br>Press App",CH,,500.00,,Shrine
+9644,1,2022-07-15,E,"Public Square LLC","12463 Rancho Bernardo Rd",,"San Diego ",CA,92128,,,MO,Communication,50000.00,,"Public Square LLC"
+9644,2,2022-07-15,E,"Public Square LLC","12463 Rancho Bernardo Rd",,"San Diego",CA,92128,,,MO,Communication,2000.00,,"Public Square LLC"
+9644,3,2022-07-15,E,"Resonate Media","2029 Grappa St ",,"Manteca ",CA,95337,,,MO,Media<br>Services,5875.00,,"Resonate Media"
+9644,4,2022-07-15,E,Paypal,"2211 North First St",,"San Jose",CA,95131,,,MO,"Ecommerce fees",47.71,,Paypal
+9644,5,2022-07-15,E,"Grimsley and Company CPAs","1427 Piedmont Dr E Ste 2 ",,Tallahassee,FL,32308,,,MO,Campaign<br>Finance<br>Services,1257.00,,"Grimsley and Company CPAs"
+9644,6,2022-07-15,E,"Stearns Weaver Miller PA","106 E College Ave Ste 700",,Tallahassee,FL,32301,,,MO,"Legal fees",2242.19,,"Stearns Weaver Miller PA"
+9644,7,2022-07-15,E,"Statecraft Digital LLC","37 North Orange Ave",,Orlando,FL,32801,,,MO,"Digital Marketing",14343.75,,"Statecraft Digital LLC"
+9644,10,2022-07-15,C,"A Barnes Associates LLC","2619 Summerwood Ave",,Tallahassee,FL,32303,B,Business<br>Advisory<br>Serv,CH,,150.00,,"A Barnes Associates LLC"
+9644,11,2022-07-15,C,"Max  Solomon","3019 Richview Park Cir S",,Tallahassee,FL,32301,I,,CH,,10.00,,Solomon
+9644,12,2022-07-15,C,"John  B Thomas","930 Live Oak Plantation Rd",,Tallahassee,FL,32312,I,Retired,CH,,500.00,,Thomas
+9644,13,2022-07-15,C,"Donald  Gray","***Protected Voter***",,,,,I,,CH,,100.00,,Gray
+9644,14,2022-07-15,C,"Van  Champion","1504 Hickory Ave",,Tallahassee,FL,32303,I,Childers<br>Construction<br>Pr,CH,,1000.00,,Champion
+9644,15,2022-07-15,C,"Summer  Pfeiffer","***Protected Voter***",,,,,I,,CH,,100.00,,Pfeiffer
+9644,8,2022-07-15,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,Printing,60.33,,"Target Print & Mail"
+9644,9,2022-07-15,E,Paypal,"2211 North First St",,"San Jose ",CA,95131,,,MO,"Ecommerce Fees",6.76,,Paypal
+9716,3,2022-07-18,E,Facebook,"1 Hacker Way",,"Meleno Park",CA,94025,,,MO,Advertisement,108.35,,Facebook
+9716,1,2022-07-20,C,"Christopher  Barkas","2659 Millstone Plantation Road",,Tallahassee,FL,32312,I,,CH,,100.00,,Barkas
+9716,1,2022-07-20,E,"Target Print and Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,Printing<br>/Mailers/Campaign<br>Supplies,10416.31,,"Target Print and Mail"
+9716,2,2022-07-20,E,"Resonate Media LLC","11720 Plaza America Dr 3rd Fl",,Reston,VA,20190,,,MO,Advertisement,1887.50,,"Resonate Media LLC"
+9716,2,2022-07-20,C,"Paden  Woodruff","322 Anderson Street",,Tallahassee,FL,32303,I,Attorney,CH,,250.00,,"Woodruff "
+9716,3,2022-07-20,C,"Donald  Hinle","3710 Bobbin Mill Road",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,Hinle
+9716,4,2022-07-20,C,"Michael  Moody","4039 Kilmartin Dr.",,Tallahassee,FL,32309,I,Attorney,CH,,500.00,,Moody
+9716,5,2022-07-20,C,"Davisson  Dunlap","606 Middlebrooks Cir",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Dunlap
+9716,6,2022-07-20,C,"John  Yearty","***Protected Voter***",,,,,I,Public<br>safety<br>Agent,CH,,200.00,,Yearty
+9716,7,2022-07-20,C,"Eduardo  Lombard","3792 E Millers Bridge Road",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Lombard
+9716,8,2022-07-20,C,"Melissa  R Lombard","3792 E Millers Bridge Road",,Tallahassee,FL,32312,I,Retired,CH,,1000.00,,"Lombard "
+9716,4,2022-07-20,E,"Harland Clarke","15955 La Cantera Pkwy",,"San Antonio",TX,78256,,,MO,Checks,36.15,,"Harland Clarke"
+9716,5,2022-07-21,E,"Tom  Rollins","730 Rollins St",,Tallahassee,FL,32304,,,MO,"Campaign Consulting",1000.00,,"Rollins "
+9716,9,2022-07-22,C,"Jeffrey S Phipps","8960 N Meridian Rd",,Tallahassee,FL,32312,I,Land<br>develoment,CH,,1000.00,,Phipps
+9716,6,2022-07-22,E,PayPal,"2211 North First St ",,"San Jose",CA,95131,,,MO,"Ecommerce Fees",113.75,,PayPal
+9807,1,2022-07-29,C,"Heidi  Scalf","711 Kenilworth Rd",,Tallahassee,FL,32312,I,,CH,,50.00,,Scalf
+9807,2,2022-07-29,C,"Jonathan  Wright","338 Spear St Unit 34B",,"San Francisco",CA,94105,I,Attorney,CH,,250.00,,Wright
+9807,3,2022-07-29,C,"Gil  Ziffer","1448 Terrance Street",,Tallahassee,FL,32303,I,Media/Advertising,CH,,250.00,,"Ziffer "
+9807,4,2022-07-29,C,"Molly  Buehler","1158 Sisken Court",,Tallahassee,FL,32312,I,Sales<br>Fieldstone,CH,,250.00,,Buehler
+9807,5,2022-07-29,C,"Terry  Whitaker","413 Meadow Ridge Dr",,Tallahassee,FL,32312,I,,CH,,100.00,,Whitaker
+9807,1,2022-07-29,E,"City of Tallahassee","300 S Adams St, c/o Box A-4 City Hall",,Tallahassee,FL,32301,,,MO,Parkview<br>Rental,200.00,,"City of Tallahassee "
+9807,2,2022-07-29,E,"Mary  Stevens","1427 Piedmont Dr E Ste 2",,Tallahassee,FL,32308,,,MO,"August Consulting",2500.00,,"Stevens "
+9807,3,2022-07-29,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",56.00,,"Target Print & Mail "
+9807,4,2022-07-29,E,Paypal,"2211 North First St",,"San Jose",CA,95131,,,MO,"Ecommerce Fees",15.44,,Paypal
+9858,1,2022-08-05,C,"Will  Shepard","1435 Denhol Dr",,Tallahassee,FL,32308,I,,CH,,100.00,,Shepard
+9858,2,2022-08-05,C,"Robert  Clarke","4703 High Grove Rd",,Tallahassee,FL,32309,I,Attorney,CH,,250.00,,"Clarke "
+9858,3,2022-08-05,C,"Florida  Realtors Political Committee","200 Monroe St",,Tallahassee,FL,32301,F,PAC,CH,,1000.00,,"Realtors Political Committee "
+9858,4,2022-08-05,C,"Brewster  Bevis","3400 Deer Lane Dr",,Tallahassee,FL,32312,I,"Assoc<br>industries<br>of fl",CH,,500.00,,"Bevis "
+9858,5,2022-08-05,C,"John  Thomas","1510 Escadrille Dr",,Tallahassee,FL,32308,I,CPA,CH,,200.00,,"Thomas "
+9858,6,2022-08-05,C,"Ronald  Araujo","415 Live Oak Plantation Rd",,Tallahassee,FL,32312,I,,CH,,100.00,,Araujo
+9858,7,2022-08-05,C,"Thomas  E Slay","7192 Sleepy Hollow Circle",,Tallahassee,FL,32312,I,Retired,CH,,1000.00,,Slay
+9858,8,2022-08-05,C,"Mcrae & Metcalf PA","2612 Centennial Place ",,Tallahassee,FL,32308,B,Attorney,CH,,1000.00,,"Mcrae & Metcalf PA"
+9858,9,2022-08-05,C,"INC  Persica Landscape Nursery Co","1703 Baum Rd",,Tallahassee,FL,32317,B,"Nursery ",CH,,250.00,,"Persica Landscape Nursery Co "
+9858,10,2022-08-05,C,"RMDC, INC","PO Box 15887",,Tallahassee,FL,32317,B,Payroll<br>Service,CH,,1000.00,,"RMDC, INC"
+9858,11,2022-08-05,C,"Sandra M Yates","PO Box 38277",,Tallahassee,FL,32315,I,Retired,CH,,1000.00,,Yates
+9858,12,2022-08-05,C,"Will  Croley","3215 Lord Murphy Trail",,Tallahassee,FL,32309,I,Insurance,CH,,100.00,,Croley
+9858,13,2022-08-05,C,"Reginald  Bouthiller","3857 Moriarity Court",,Tallahassee,FL,32309,I,Attorney,CH,,500.00,,Bouthiller
+9858,14,2022-08-05,C,"Connie  Barnes","1490 St. Charles Place",,Tallahassee,FL,32308,I,,CH,,100.00,,Barnes
+9858,15,2022-08-05,C,"William  Joy","2776 Julieanna Lane",,Tallahassee,FL,32308,I,Tech<br>director,IK,"Food and Beverage",391.95,,Joy
+9858,16,2022-08-05,C,"Mary  Stevens","2030 Belle Vue Way apt 7",,Tallahassee,FL,32304,I,,IK,"Food and<br>Beverage",91.93,,"Stevens "
+9858,1,2022-08-05,E,"Statecraft Digital LLC","37 North Orange AVE",,Orlando,FL,32801,,,MO,Communications,11475.00,,"Statecraft Digital LLC"
+9858,2,2022-08-05,E,"Haynes and Associates LLC","PO BOx 10835",,Tallahassee,FL,32302,,,MO,"Campaign advisory",500.00,,"Haynes and Associates LLC"
+9858,3,2022-08-05,E,"Steve   Beasley","630 West Brevard St",,Tallahassee,FL,32304,,,MO,"August Services",1000.00,,Beasley
+9858,4,2022-08-05,E,"Public Square LLC","2721 12th Street N ",,"St Petersburg ",FL,32704,,,MO,"Ecommerce Fees",2000.00,,"Public Square LLC"
+9858,5,2022-08-05,E,"Grimsley and Company CPAs","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"Campaign Finance Services",1099.00,,"Grimsley and Company CPAs"
+9858,6,2022-08-05,E,"Cynthia  Shingles","PO Box 10835",,Tallahassee,FL,32302,,,MO,"Political advisory",250.00,,"Shingles "
+9858,7,2022-08-05,E,"Target Print and Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",206.57,,"Target Print and Mail"
+9858,8,2022-08-05,E,Paypal,"2211 North First St ",,"San Jose",CA,95131,,,MO,"Ecommerce Fees",68.49,,Paypal
+9858,9,2022-08-05,E,"Impact politics","21014 Bandera St",,"Woodland Hills ",CA,91364,,,MO,"Communications expense",25000.00,,"Impact politics "
+9858,17,2022-08-05,C,"Jonathan  Costello","4142 Four Oaks Blvd",,Tallahassee,FL,32311,I,,CH,,100.00,,"Costello "
+9858,10,2022-08-05,E,"Capital City Bank","6691 Thomasville Rd",,Tallahassee,FL,32312,,,MO,"Wire transfer fee",25.00,,"Capital City Bank"
+9912,1,2022-08-16,C,"John  Dailey","1427 Peidmont Drive East",,Tallahassee,FL,32308,S,Mayor,IK,"Food and Beverage",292.92,,"Dailey "
+9912,2,2022-08-16,C,"David  Theriaque","400 Capital Cir SE 18-273",,Tallahassee,FL,32301,I,Attorney,CH,,500.00,,Theriaque
+9912,3,2022-08-16,C,"Kenneth  Pratt","7857 Briarcreek Rd W",,Tallahassee,FL,32312,I,,CH,,100.00,,Pratt
+9912,4,2022-08-16,C,"Christian  Bock","1501 SW 22nd Way",,"Boynton Beach",FL,33426,I,Attorney,CH,,1000.00,,"Bock "
+9912,5,2022-08-16,C,"Melissa  Tate","6138 Borderline Drive",,Tallahassee,FL,32312,I,sales<br>consulting,CH,,200.00,,Tate
+9912,6,2022-08-16,C,"Lonnie  Drapper","565 Frank Shaw Rd",,Tallahassee,FL,32312,I,,CH,,50.00,,Drapper
+9912,7,2022-08-16,C,"Joseph  Brown","601 Lothian Drive",,Tallahassee,FL,32312,I,,CH,,100.00,,"Brown "
+9912,8,2022-08-16,C,"John  Wallace","323 E Park Ave",,Tallahassee,FL,32301,I,,CH,,100.00,,Wallace
+9912,9,2022-08-16,C,"Amy  Zublay","6352 Glasgow Dr",,Tallahasssee,FL,32312,I,"FMEA Exec<br>Director",CH,,500.00,,Zublay
+9912,10,2022-08-16,C,"Frances  Berry","1540 Marion Ave",,Tallahassee,FL,312303,I,Retired,CH,,200.00,,Berry
+9912,11,2022-08-16,C,"Everytown for Gun Safety","One World Trade Center, 41st Floor",,"New York",NY,10007,F,PAC,CH,,1000.00,,"Everytown for Gun Safety"
+9912,12,2022-08-16,C,"Timothy J Meenan","9646 Deer Valley Dr ",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,Meenan
+9912,13,2022-08-16,C,"James W Ragans","1305 Parga St",,Tallahassee,FL,32304,I,"Cherry<br>Lake Inv",CH,,250.00,,Ragans
+9912,14,2022-08-16,C,"Sherrill W Ragans","1305 Parga St",,Tallahassee,FL,32304,I,Retired,CH,,250.00,,"Ragans "
+9912,15,2022-08-16,C,"Habana's Boardwalk","2819 Mahan Dr 126",,Tallahassee,FL,32308,B,,CH,,50.00,,"Habana's Boardwalk"
+9912,16,2022-08-16,C,"Carol  Peck","3164 Brockton Way",,Tallahasee,FL,32308,I,,CH,,10.00,,Peck
+9912,17,2022-08-16,C,"James  Shelfer","1430 lloyd's cove road",,Tallahassee,FL,32312,I,,CH,,100.00,,Shelfer
+9912,18,2022-08-16,C,"Matthew  Bennett","908 Shadowlawn Dr.",,Tallahassee,FL,32312,I,Attorney,CH,,250.00,,Bennett
+9912,19,2022-08-16,C,"Laurye  Messer","6960 Standing Pines Lane",,Tallahassee,FL,32312,I,Professor,CH,,500.00,,Messer
+9912,20,2022-08-16,C,"Sabrina  Miller","6215 Buck Run Circle",,Tallahassee,FL,32312,I,,CH,,100.00,,Miller
+9912,21,2022-08-16,C,"Andrew  Miller","6215 Buck Run Circle",,Tallahassee,FL,32312,I,,CH,,100.00,,Miller
+9912,22,2022-08-16,C,"Kathleen  Daly","4504 Rangewood Dr",,Tallahassee,FL,32309,I,"VP FSU<br>relations",CH,,150.00,,Daly
+9912,23,2022-08-16,C,"Julian T Pipkin","7140 Wooded Gorge Rd",,Tallahassee,FL,32312,I,,CH,,100.00,,Pipkin
+9912,24,2022-08-16,C,"Charles D Williams","456 Carr Lane ",,Tallahassee,FL,32312,I,,CH,,100.00,,Williams
+9912,25,2022-08-16,C,"John E Thrasher","3513 Esplande Way",,Tallahassee,FL,32311,I,Retired,CH,,500.00,,Thrasher
+9912,26,2022-08-16,C,"Roady-Lawson  Jennifer L","656 Forest Lair ",,Tallahassee,FL,32312,I,LCSO<br>English<br>Teacher,CH,,500.00,,"Jennifer L "
+9912,27,2022-08-16,C,"Alia S Faraj","3243 Endicott Dr",,Tallahassee,FL,32311,I,"CEO Alia<br>Strategies",CH,,250.00,,Faraj
+9912,1,2022-08-16,E,"Stearns Weaver Miller PA","West Flager Street, Suite 2200",,Miami,FL,33130,,,MO,"Professional fees",294.00,,"Stearns Weaver Miller PA"
+9912,2,2022-08-16,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",741.71,,"Target Print & Mail"
+9912,3,2022-08-16,E,"Capital City Bank","1801 Apalachee Pkwy",,Tallahassee,FL,32301,,,MO,"Wire Fee",25.00,,"Capital City Bank"
+9912,4,2022-08-16,E,"Statecraft Digital LLC","37 North Orange Ave Ste 500",,Orlando,FL,32801,,,MO,"Media Buy",8606.25,,"Statecraft Digital LLC"
+9912,5,2022-08-16,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",49.90,,"Target Print & Mail"
+9912,6,2022-08-16,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing Services",11419.56,,"Target Print & Mail"
+9912,7,2022-08-16,E,"Resonate Media LLC","2721 12th Street N",,"St Petersburg",FL,33704,,,MO,"Media Buy",3055.00,,"Resonate Media LLC"
+9912,8,2022-08-16,E,Paypal,"2211 North First St ",,"San Jose",CA,95131,,,MO,"Ecommerce Fees",87.27,,Paypal
+9912,9,2022-08-16,E,"Steve Andrew Beasley","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"Campaign advisory",750.00,,Beasley
+9912,10,2022-08-16,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing Services",43.98,,"Target Print & Mail"
+9912,11,2022-08-16,E,"Mail Chimp"," 675 Ponce De Leon Ave NE #5000",,Atlanta,GA,30308,,,MO,"Mailing service",34.00,,"Mail Chimp"
+9912,15,2022-08-17,E,"Counterpoint Messaging LLC","1205 John Hood Dr",,Rockvale,TN,37153,,,MO,Advertisement,5000.00,,"Counterpoint Messaging LLC"
+9912,28,2022-08-18,C,"John  Dailey","1427 Peidmont Drive East",,Tallahassee,FL,32308,S,Mayor,IK,"Food and Beverage",82.62,,Dailey
+9912,29,2022-08-18,C,"Sharon  Beaumont","1772 Broken Bow Trail",,Tallahassee,FL,32312,I,,CH,,100.00,,Beaumont
+10021,1,2022-08-18,C,"Christian  Bock","1501 SW 22nd Way",,"Boynton Beach",FL,33426,I,"A4 Media",RE,,-1000.00,A,Bock
+9912,30,2022-08-18,C,"Meredith  Cambre","10449 1st Ave S",,Seattle,WA,98168,I,,CH,,100.00,,Cambre
+9912,31,2022-08-18,C,"Goggo Dada Contract & Trading","710 Live Oak Plantation Rd",,Tallahassee,FL,32312,B,Real<br>estate,CH,,1000.00,,"Goggo Dada Contract & Trading "
+9912,32,2022-08-18,C,"Village Pizza & Pasta INC","1400- 33 Village Square Blvd",,Tallahassee,FL,32312,B,Restaurant,CH,,1000.00,,"Village Pizza & Pasta INC"
+9912,12,2022-08-18,E,"Grimsley and Company CPAs","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"Campaign Advisory Services",1362.00,,"Grimsley and Company CPAs"
+9912,13,2022-08-18,E,"Courtney Andrew Barry","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"Campaign Advisory",200.00,,Barry
+9912,14,2022-08-18,E,"Red Hills Journalism","3048 Waterford Dr ",,Tallahassee,FL,32309,,,MO,Advertisement,470.00,,"Red Hills Journalism"
+9963,1,2022-08-25,E,Paypal,"2211 N First St ",,"San Jose",CA,95131,,,MO,"Ecommerce Fees",49.05,,Paypal
+9963,2,2022-08-25,E,"Mega Ace Media","4317 Calcutta Ct",,Tallahassee,FL,32303,,,MO,Communications,3000.00,,"Mega Ace Media"
+9963,3,2022-08-25,E,"Red Hills Journalism","3048 Waterford Dr",,Tallahassee,FL,32309,,,MO,Advertisement,470.00,,"Red Hills Journalism"
+9963,4,2022-08-25,E,"Red Hills Journalism","3048 Waterford Dr",,Tallahassee,FL,32309,,,MO,Advertisement,470.00,,"Red Hills Journalism"
+9963,5,2022-08-25,E,"Red Hills Journalism","3048 Waterford Dr",,Tallahassee,FL,32309,,,MO,Advertisement,470.00,,"Red Hills Journalism"
+9963,6,2022-08-25,E,"Chism Strategies","2906 N State St Ste 311",,JAckson,MS,39126,,,MO,Comunications,5000.00,,"Chism Strategies"
+9963,7,2022-08-25,E,"Nicole Everett Enterprises","1333 Lola Dr",,Tallahassee,FL,32308,,,MO,Communications,100.00,,"Nicole Everett Enterprises"
+9963,8,2022-08-25,E,"Donnell Andrew Benson","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"BBQ services provided",900.00,,Benson
+9963,9,2022-08-25,E,"LIVE Communications INC","1363 E Tennesee St",,Tallahassee,FL,32308,,,MO,Advertisement,1000.00,,"LIVE Communications INC"
+9963,10,2022-08-25,E,"Statecraft Digital","37 NORTH ORANGE AVE",,Orlando,FL,32801,,,MO,Communications,1200.00,,"Statecraft Digital"
+9963,1,2022-08-25,C,"Susan G Vanleuven","4444 Vieua Carre Dr",,Tallahassee,FL,32308,I,Retired,CH,,150.00,,Vanleuven
+9963,11,2022-08-26,E,Paypal,"2211 North First St ",,"San Jose",CA,95131,,,MO,"Ecommerce Fees-",66.50,,Paypal
+9963,2,2022-08-26,C,"Jennifer  Collins","2619 Bayshore Blvd",,"Tampa ",FL,33629,I,Professor,CH,,1000.00,,"Collins "
+9963,3,2022-08-26,C,"Peter  Collins","2501 S MacDill Ave",,Tampa,FL,33629,I,Professor,CH,,1000.00,,Collins
+9963,4,2022-08-26,C,"Sam  Waddill","1400 Metropolitan Blvd Ste 216",,Tallahassee,FL,32308,I,"Pres Split<br>Pine",CH,,250.00,,"Waddill "
+9963,5,2022-08-26,C,"Carol  Wesmoreland","614 Beard St",,Tallahassee,FL,32303,I,Redevelopment<br>Executive,CH,,1000.00,,Wesmoreland
+10033,18,2022-08-30,C,"Glenn  Cambre","3134 Smokestone Ct NE ",,Atlanta,GA,30345,I,Attorney,CH,,1000.00,,Cambre
+10033,19,2022-08-30,C,"Emily  Cambre","3134 Smokestone Ct NE ",,Atlanta,GA,30345,I,Retired,CH,,1000.00,,Cambre
+10033,20,2022-09-06,C,"Lorenzo  Alexander","2606 Pottsdamer St",,Tallahassee,FL,32310,I,"Retired ",CH,,200.00,,Alexander
+10033,21,2022-09-06,C,"Talcor Betton Place LLC","1018 Thomasville Road, Suite 200A",,Tallahassee,FL,32303,B,Real<br>Estate,CH,,1000.00,,"Talcor Betton Place LLC"
+10033,22,2022-09-06,C,"NAI Talcor","1018 Thomasville Road, Suite 200A",,Tallahassee,FL,32303,B,Real<br>estate,CH,,1000.00,,"NAI Talcor "
+10033,1,2022-09-06,C,"Will  Shepard","1435 Denhol Dr",,Tallahassee,FL,32308,I,,CH,,100.00,,Shepard
+10033,2,2022-09-06,C,"Nicholas  Larossi III","3924 W Millers Bridge Rd",,Tallahassee,FL,32312,I,Lobbyist,CH,,1000.00,,"Larossi III"
+10033,3,2022-09-06,C,"Jeremy  Cohen","2518 Marston Rd ",,Tallahassee,FL,32308,I,"Dir Target<br>Print Mail",CH,,750.00,,Cohen
+10033,4,2022-09-06,C,"Alan  Suskey","1298 Millstream Road",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Suskey
+10033,5,2022-09-06,C,"John David  White","3808 W Barcelona St",,Tampa,FL,33629,I,Attorney,CH,,1000.00,,"White "
+10033,6,2022-09-06,C,"Kelley  T Brewer","4268 William James Way",,Tallahassee,FL,32303,I,Retired,CH,,1000.00,,Brewer
+10033,7,2022-09-06,C,"William G Smith Jr","P.O. Box 900",,Tallahassee,FL,32302,I,"Pres<br>Capital<br>City Bank",CH,,1000.00,,"Smith Jr"
+10033,8,2022-09-06,C,"TG1245 LLC","615 E Harding Street",,Orlando,FL,32806,B,"Moving and<br>Storage",CH,,1000.00,,"TG1245 LLC"
+10033,9,2022-09-06,C,"Storage MCO LLC","615 E Harding Street",,Orlando,FL,32806,B,"Moving and<br>storage",CH,,1000.00,,"Storage MCO LLC"
+10033,10,2022-09-06,C,"CCM Capital Group INC","615 E Harding Street",,Orlando,FL,32806,B,Investments<br>Group,CH,,1000.00,,"CCM Capital Group INC "
+10033,11,2022-09-06,C,"Megan's Moving LLC","615 E Harding Street",,Orlando,FL,32806,B,"Moving and<br>Storage",CH,,1000.00,,"Megan's Moving LLC"
+10033,12,2022-09-06,C,"RMS Investments LLC","615 E Harding Street",,Orlando,FL,32806,B,Investment<br>group,CH,,1000.00,,"RMS Investments LLC"
+10033,13,2022-09-06,C,"Storage FLL LLC","615 E Harding Street",,Orlando,FL,32806,B,"Moving and<br>Storage",CH,,1000.00,,"Storage FLL LLC"
+10033,14,2022-09-06,C,"Storage TPA LLC","615 E Harding Street",,Orlando,FL,32806,B,"Moving and<br>Storage",CH,,1000.00,,"Storage TPA LLC"
+10033,15,2022-09-06,C,"College Ave District LLC","615 E Harding Street",,Orlando,FL,32806,B,Investments<br>group,CH,,1000.00,,"College Ave District LLC"
+10033,16,2022-09-06,C,"MHM Professional Staging LLC","615 E Harding Street",,Orlando,FL,32806,B,"Moving and<br>Storage",CH,,1000.00,,"MHM Professional Staging LLC"
+10033,17,2022-09-06,C,"Craig  Mateer","615 E Harding Street",,Orlando,FL,32806,I,"Moving,Storage,invest",CH,,1000.00,,Mateer
+10033,23,2022-09-06,C,"John  Dailey","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,S,Mayor,IK,"Food And Beverage",171.65,,Dailey
+10033,92,2022-09-09,C,"Shaun  York","***Protected Voter***",,,,,I,Tech<br>Director,CH,,250.00,,York
+10033,93,2022-09-09,C,"Towanda Davis Photography","2300 Monaco Drive",,Tallahassee,FL,32308,B,,CH,,100.00,,"Towanda Davis Photography"
+10033,94,2022-09-09,C,"Barbara  Uchino","905 Waverly Road",,Tallahassee,FL,32312,I,Psychologist,CH,,150.00,,Uchino
+10033,95,2022-09-09,C,"Kathleen  Brennan","4778 Lancashure Ln",,Tallahassee,FL,32309,I,FSU<br>Foundation,CH,,772.82,,Brennan
+10033,96,2022-09-09,C,"Gil  Ziffer","PO Box 3208",,Tallahassee,FL,32315,I,Retired<br>Commissioner,CH,,257.94,,Ziffer
+10033,97,2022-09-09,C,"Metro Electrical Services","4404 Blountstown Hwy",,Tallahassee,FL,32304,B,Electrical<br>,CH,,1000.00,,"Metro Electrical Services"
+10033,98,2022-09-09,C,"Erwin  D  Jackson","P.O. Box 4006",,Tallahassee,FL,32315,I,Real<br>Estate<br>Mgmt,CH,,1000.00,,Jackson
+10033,99,2022-09-09,C,"Loop Knot Properties LLC","403 E Park Ave",,Tallahassee,FL,32301,B,Investment<br>Prop,CH,,1000.00,,"Loop Knot Properties LLC"
+10033,100,2022-09-09,C,"Sharon  G Berrian","4381 Rockingham Road",,Tallahassee,FL,32303,I,,CH,,75.00,,Berrian
+10033,101,2022-09-09,C,"Thomas  David","***Protected Voter***",,,,,I,,CH,,100.00,,David
+10033,102,2022-09-09,C,"Wayne Blanton and Associates","1319 Peacefield Pl",,Tallahassee,FL,32308,B,Business<br>Advisory,CH,,500.00,,"Wayne Blanton and Associates"
+10033,103,2022-09-09,C,"Althamese P Barnes","2619 Summerwood Ave",,Tallahassee,FL,32303,I,Museum<br>Director,CH,,200.00,,Barnes
+10033,104,2022-09-09,C,"Barabara  Ray","1074 Fairway Estates NE",,Brookhaven,GA,30319,I,,CH,,100.00,,Ray
+10033,105,2022-09-09,C,"Adrian  Lukis","2662 Noble Dr",,Tallahassee,FL,32308,I,Lobbyist,CH,,257.94,,Lukis
+10033,106,2022-09-09,C,"Michele  Ketler","5228 Greystoke Lane",,Tallahassee,FL,32309,I,,CH,,100.00,,Ketler
+10033,107,2022-09-09,C,"David  Coburn","PO Box 3003",,Tallahassee,FL,32315,I,Retired,CH,,1000.00,,Coburn
+10033,108,2022-09-09,C,"Mary  B Coburn","PO Box 3003",,Tallahassee,Fl,32315,I,Retired,CH,-,1000.00,,Coburn
+10033,109,2022-09-09,C,"William  Messar","6336 Bird Dog Pt",,Tallahassee,FL,32309,I,Realtor,CH,,1000.00,,Messar
+10033,110,2022-09-09,C,"Arbor Trace @ Canopy, LLC","2750 Old St Augustine Rd ",,Tallahassee,FL,32308,B,Apartments<br>,CH,,600.00,,"Arbor Trace @ Canopy, LLC"
+10033,111,2022-09-09,C,"Arbor Landing @ Lake Jackson,","4910 N Monroe St",,Tallahassee,FL,32303,B,apartments,CH,,600.00,,"Arbor Landing @ Lake Jackson, "
+10033,112,2022-09-09,C,"Arbor Crossing @ Buck Lake, LL","3810 Buck Lake Rd ",,Tallahassee,FL,32317,B,Apartments,CH,,600.00,,"Arbor Crossing @ Buck Lake, LL"
+10033,113,2022-09-09,C,"Eagles Landing, LTD","1655 Eagles Landing Blvd",,Tallahassee,FL,32308,B,Apartments,CH,,600.00,,"Eagles Landing, LTD "
+10033,114,2022-09-09,C,"Arbor properties, Inc","4910 N Monroe St",,Tallahassee,FL,32303,B,Property<br>Management,CH,,1000.00,,"Arbor properties, Inc"
+10033,115,2022-09-09,C,"Arbor Construction","4910 N Monroe St",,Tallahassee,FL,32303,B,Construction,CH,,1000.00,,"Arbor Construction"
+10033,116,2022-09-09,C,"James R Mabry","2404 Oakdale St",,Tallahassee,FL,32308,I,,CH,,50.00,,Mabry
+10033,117,2022-09-09,C,"Nicole  Vedder","6548 Wildemeade Place",,Tallahassee,FL,32309,I,Insurance,CH,,1000.00,,Vedder
+10033,118,2022-09-09,C,"Arbor Village, LTD","2750 Old St Augustine Rd ",,Tallahassee,FL,32301,B,Apartments,CH,,600.00,,"Arbor Village, LTD"
+10033,1,2022-09-09,E,"City OF Tallahassee","Box A-4, City Hall, 300 S Adams St",,Tallahassee,FL,32301,,,MO,"Park Rental",130.84,,"City OF Tallahassee"
+10033,2,2022-09-09,E,"Runnin Buzz Bartending","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,Bartending/Campaign<br>Event,500.00,,"Runnin Buzz Bartending"
+10033,3,2022-09-09,E,"Haynes and Associates","PO Box 10835",,Tallahassee,FL,32302,,,MO,"Campaign Advisory",1000.00,,"Haynes and Associates"
+10033,4,2022-09-09,E,"Steve  Beasley","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"Campaign Advisory",1000.00,,Beasley
+10033,5,2022-09-09,E,"The Community Round Table","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,Event<br>Sponsorship/tickets,250.00,,"The Community Round Table"
+10033,6,2022-09-09,E,"Mary  Stevens","2030 Belle Vue Way apt 7",,Tallahassee,FL,32304,,,MO,Communications,2500.00,,Stevens
+10033,7,2022-09-09,E,"Stearns Weaver Miller PA","106 E College Ave Ste 700",,Tallahassee,FL,32301,,,MO,"Professional Fees",5588.00,,"Stearns Weaver Miller PA"
+10033,8,2022-09-09,E,"Mega Ace Media","4317 Calcutta Court ",,Tallahassee,FL,32303,,,MO,Communication,1500.00,,"Mega Ace Media"
+10033,9,2022-09-09,E,"Public Square LLC","2721 12th St N",,"St Petersburg",FL,32704,,,MO,"Campaign Adisory",2500.00,,"Public Square LLC"
+10033,10,2022-09-09,E,Facebook,"1 Hacker Way",,"Melno Park",CA,94025,,,MO,Advertisement,175.00,,Facebook
+10033,11,2022-09-09,E,Facebook,"1 Hacker Way",,"Melno Park",CA,94025,,,MO,Advertising,175.00,,Facebook
+10033,12,2022-09-09,E,Facebook,"1 Hacker Way",,"Melno Park",CA,94025,,,MO,Advertising,250.00,,Facebook
+10033,13,2022-09-09,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",3442.87,,"Target Print & Mail"
+10033,14,2022-09-09,E,"Steve  Beasley","630 West Brevard St",,Tallahassee,FL,32304,,,MO,"Campaign Advisory",750.00,,Beasley
+10033,24,2022-09-09,C,"Talcor Tennessee Square LLC","1018 Thomasville Road, Suite 200A",,Tallahassee,FL,32303,B,Real<br>Estate,CH,,1000.00,,"Talcor Tennessee Square LLC"
+10033,25,2022-09-09,C,"Talcor Properties LLC","1018 Thomasville Road, Suite 200A",,Tallahassee,FL,32303,B,Real<br>estate,CH,,1000.00,,"Talcor Properties LLC"
+10033,26,2022-09-09,C,"Talcor Management Group LC","1018 Thomavillle Road, Suite 200A",,Tallahassee,FL,32303,B,"Real<br>estate mgt",CH,,1000.00,,"Talcor Management Group LC"
+10033,27,2022-09-09,C,"Talcor Holdings INC","1018 Thomavillle Road, Suite 200A",,Tallahassee,FL,32303,B,Real<br>estate<br>invest,CH,,1000.00,,"Talcor Holdings INC"
+10033,28,2022-09-09,C,"Molly Paige LLC","2518 Marston Rd ",,Tallahassee,FL,32308,B,Broadcasting,CH,,750.00,,"Molly Paige LLC"
+10033,29,2022-09-09,C,"Thomas  Allen","406 Audubon Dr",,Tallahassee,FL,32312,I,Banker,CH,,257.94,,Allen
+10033,30,2022-09-09,C,"Patrick  Farrell","7391 Buck Lake Rd",,Tallahassee,FL,32317,I,Attorney,CH,,250.00,,Farrell
+10033,31,2022-09-09,C,"Ronald  Christaldi","3321 west carrington street",,Tampa,FL,33611,I,Attorney,CH,,1000.00,,Christaldi
+10033,32,2022-09-09,C,"Allison  Hill","3899 Ward Basin Rd",,Milton,Fl,32583,I,OBGYN,CH,,100.00,,Hill
+10033,33,2022-09-09,C,"Carlana  Hoffman","2023 Middlewood Drive",,Tallahassee,FL,32312,I,Retired,CH,,200.00,,Hoffman
+10033,34,2022-09-09,C,"Richard  Kearney","6949 Mcbride Pt",,Tallahassee,FL,32312,I,"CEO,<br>MAINLINE<br>INFO.",CH,,1000.00,,Kearney
+10033,35,2022-09-09,C,"Adam  Ellis","***Protected Voter***",,,,,I,,CH,,100.00,,Ellis
+10033,36,2022-09-09,C,"George  Reynolds","***Protected Voter***",,,,,I,Attorney,CH,,200.00,,Reynolds
+10033,37,2022-09-09,C,"Maria  Norvell","637 Live Oak Plantation Rd",,Tallahassee,FL,32312,I,Homemaker,CH,,1000.00,,Norvell
+10033,38,2022-09-09,C,"Alice  Bonn","514 mcdaniel street",,Tallahassee,FL,32303,I,,CH,,35.00,,Bonn
+10033,39,2022-09-09,C,"Mahoney's Books","2920 Ivanhoe Rd",,Tallahassee,FL,32312,B,"Book sales",CH,,900.00,,"Mahoney's Books"
+10033,40,2022-09-09,C,"Lee  Hinkle","824 Greenbrier Ln",,Tallahassee,FL,32308,I,retired,CH,,1000.00,,Hinkle
+10033,41,2022-09-09,C,"John Weasley   White","4615 OAK FOREST DR E",,Sarasota,FL,34231,I,retired,CH,,500.00,,White
+10033,42,2022-09-09,C,"Derek  Whitis","403 Plantation Rd",,Tallahassee,FL,32303,I,Convirgent<br>Executive,CH,,1000.00,,Whitis
+10033,43,2022-09-09,C,"Courtney  Whitis","403 Plantation Rd",,Tallahassee,FL,32303,I,Covirgent<br>Executive,CH,,1000.00,,Whitis
+10033,44,2022-09-09,C,"Frank  Walper","4205 Ruth Dr",,Tallahassee,Fl,32303,I,,CH,,50.00,,"Walper "
+10033,45,2022-09-09,C,"Christian  Bock","1501 SW 22nd Way",,"Boynton Beach",FL,33426,I,Attorney,CH,,1000.00,,"Bock "
+10033,46,2022-09-09,C,"Anne  Griffith","2805 Thomasville Rd",,Tallahassee,Fl,32308,I,,CH,,100.00,,"Griffith "
+10033,47,2022-09-09,C,"Rebecca   Miller","3532 Trillium Ct",,Tallahassee,FL,32312,I,,CH,,50.00,,"Miller "
+10033,48,2022-09-09,C,"Elizabeth   Dudeck","4617 Killimore Ln",,Tallahassee,FL,32309,I,Health<br>care<br>director-,CH,,300.00,,Dudeck
+10033,49,2022-09-09,C,"Garvin  Bowden","***Protected Voter***",,,,,I,Attorney,CH,,200.00,,"Bowden "
+10033,50,2022-09-09,C,"Floyd  Self","2924 Coldstream Drive",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Self
+10033,51,2022-09-09,C,"Wendy  Walker","1329 Preakness Point",,Tallahassee,FL,32308,I,"Pres at<br>Leadership",CH,,200.00,,Walker
+10033,52,2022-09-09,C,"Leslie Frye  Allen","1807 Sageway Dr",,Tallahassee,FL,32303,I,Realtor,CH,,300.00,,Allen
+10033,53,2022-09-09,C,"Laura  Murphy","371 Milestone Dr",,Tallahassee,FL,32312,I,,CH,,100.00,,Murphy
+10033,54,2022-09-09,C,"Ken  Daley","1314 SW 17th St",,"Ocala ",FL,34471,I,"Tri Eagle<br>Pres",CH,,1000.00,,Daley
+10033,55,2022-09-09,C,"Diane Carr Consulting, LLC","1550 Cristobal Drive",,Tallahassee,FL,32303,B,Business<br>Advisor,CH,,250.00,,"Diane Carr Consulting, LLC"
+10033,56,2022-09-09,C,"Union Investment Properties IN","3797 Bobbin Mill Road",,Tallahassee,FL,32312,B,Investments,CH,,1000.00,,"Union Investment Properties IN"
+10033,57,2022-09-09,C,"Monica R Bailey","3797 Bobbin Mill Road",,Tallahassee,FL,32312,I,Investment<br>Property,CH,,1000.00,,Bailey
+10033,58,2022-09-09,C,"Sherrill W Ragans","1305 Parga St. ",,Tallahassee,FL,32304,I,Retired,CH,,500.00,,Ragans
+10033,59,2022-09-09,C,"Christine W Speer","502 Hillcrest St.",,Tallahassee,FL,32308,I,,CH,,100.00,,Speer
+10033,60,2022-09-09,C,"Curtis  B Richardson","***Protected Voter***",,,,,I,,CH,,100.00,,Richardson
+10033,61,2022-09-09,C,"Smith and Smith Contracting","578 Meadow Ridge Dr.",,Tallahassee,FL,32312,B,Home<br>Inspection,CH,,500.00,,"Smith and Smith Contracting"
+10033,62,2022-09-09,C,"Thomas Michael  Barrett","***Protected Voter***",,,,,I,Retired,CH,,600.00,,Barrett
+10033,63,2022-09-09,C,"Steven  Evans","3920 Bobbin Brook Circle",,Tallahassee,FL,32312,I,Retired,CH,,250.00,,Evans
+10033,64,2022-09-09,C,"Charles  Dodson","***Protected Voter***",,,,,I,Judge,CH,,200.00,,Dodson
+10033,65,2022-09-09,C,"Elizabeth B Jackson","16400 Star Hill Road",,Tallahassee,FL,32310,I,,CH,,100.00,,Jackson
+10033,66,2022-09-09,C,"Sheryl Scott  Ranson","518 River Pond Court",,Tallahassee,FL,32312,I,Retired,CH,,200.00,,Ranson
+10033,67,2022-09-09,C,"Kim  Williams","P.O. Box 2068",,Tallahassee,FL,32316,I,"Marpan CEO",CH,,1000.00,,"Williams "
+10033,68,2022-09-09,C,"Pete J Mitchell","3098 Dickinson Drive",,Tallahassee,FL,32311,I,"Chief of<br>staff<br>senate",CH,,250.00,,Mitchell
+10033,69,2022-09-09,C,"Daniel A Parisi","2025 Herb Ct",,Tallahassee,FL,32312,I,,CH,,100.00,,Parisi
+10033,70,2022-09-09,C,"Charles D  Williams","456 Carr Lane",,Tallahassee,FL,32312,I,,CH,,100.00,,"Williams "
+10033,71,2022-09-09,C,"Amir  Darabi","910 Lasswade Drive",,Tallahassee,FL,32312,I,Engineer,CH,,250.00,,Darabi
+10033,72,2022-09-09,C,"Katherine V Lyon","168 Rosehill Dr W",,Tallahassee,FL,32312,I,Psychologist,CH,,900.00,,Lyon
+10033,73,2022-09-09,C,"Thomas  H Deison","***Protected Voter***",,,,,I,Banker,CH,,1000.00,,"Deison "
+10033,74,2022-09-09,C,"John  B Smith II","149 Rosehill Dr W",,Tallahassee,FL,32312,I,"P, AJAX<br>Build<br>Corp--",CH,,1000.00,,"Smith II"
+10033,75,2022-09-09,C,"Brianne  D Smith","***Protected Voter***",,,,,I,Retired,CH,,1000.00,,Smith
+10033,76,2022-09-09,C,"Karen W Smith","1536 Isabel Ct",,Tallahassee,FL,32303,I,Retired,CH,,1000.00,,"Smith "
+10033,77,2022-09-09,C,"Samuel B Rogers Jr","1741 Marston Place",,Tallahassee,FL,32308,I,"CEO of GDR",CH,,1000.00,,"Rogers Jr"
+10033,78,2022-09-09,C,"Bart D  Gunter","515 South Ride",,Tallahassee,FL,32303,I,"President<br>of HUB",CH,,750.00,,"Gunter "
+10033,79,2022-09-09,C,"Jennifer B Gunter","515 South Ride",,Tallahassee,FL,32303,I,Retired,CH,,750.00,,"Gunter "
+10033,80,2022-09-09,C,"Moore Bass Consulting, INC","805 North Gadsen Street",,Tallahassee,FL,32303,B,Civil<br>Engineering,CH,,1000.00,,"Moore Bass Consulting, INC"
+10033,81,2022-09-09,C,"Urban Catalyst Consultants INC","2851 Remington Green Circle, Suite D",,Tallahassee,FL,32308,B,Engineering,CH,,500.00,,"Urban Catalyst Consultants INC"
+10033,82,2022-09-09,C,"Paula P Smith","1005 East Park Ave",,Tallahassee,FL,32301,I,Retired,CH,,500.00,,Smith
+10033,83,2022-09-09,C,"Robert  A Campbell Jr","7120 Ox Bow Circle",,Tallahassee,FL,32312,I,Family<br>Doctor,CH,,200.00,,"Campbell Jr "
+10033,84,2022-09-09,C,"Michael D Sittig","2108 Ellicott Dr",,Tallahassee,FL,32308,I,"League of<br>cities ",CH,,1000.00,,Sittig
+10033,85,2022-09-09,C,"Marty  B Sittig","2108 Ellicott Dr",,Tallahassee,FL,32308,I,Retired,CH,,1000.00,,Sittig
+10033,86,2022-09-09,C,"Cory  Couch","5355 Pembridge Place",,Tallahassee,FL,32309,I,Orthopedist,CH,,515.38,,Couch
+10033,87,2022-09-09,C,"Erika  Bennenman","7883 McClure drive",,Tallahassee,FL,32312,I,,CH,,51.99,,Bennenman
+10033,88,2022-09-09,C,"Diane  Dove","7834 Jared Way",,Tallahassee,FL,32309,I,"Realtor ",CH,,200.00,,"Dove "
+10033,89,2022-09-09,C,"Bryan  Desloge","PO Box 10723",,Tallahassee,FL,32302,I,Retired<br>Commisioner,CH,,250.00,,Desloge
+10033,90,2022-09-09,C,"Christopher  Maier","1106 Wald Road",,Orlando,FL,32806,I,,CH,,100.00,,Maier
+10033,91,2022-09-09,C,"Lisa  Kauffman","4524 Portobello Circle",,Valrico,FL,33596,I,,CH,,50.00,,Kauffman
+10058,1,2022-09-13,C,"Sue  Colombo","2404 Royal Oaks Dr",,Tallahassee,FL,32309,I,,CH,,100.00,,Colombo
+10058,2,2022-09-13,C,"Charles  Dudley","***Protected Voter***",,,,,I,Attorney,CH,,1000.00,,Dudley
+10058,3,2022-09-13,C,"Ajax Building Co","1080 Commerce Blvd",,"Midway ",FL,32343,B,COMMERICAL<br>CONST.,CH,,1000.00,,"Ajax Building Co "
+10058,4,2022-09-13,C,"Gregory  Hartlage","525 N Calhoun St",,Tallahassee,FL,32301,I,Cardiologist,CH,,500.00,,Hartlage
+10058,5,2022-09-13,C,"Ted   Thomas","1469 Viuex Carre Dr ",,Tallahassee,FL,32308,I,"Tax Lien<br>certifier",CH,,250.00,,"Thomas "
+10058,6,2022-09-13,C,"John K Aurell","1225 Live Oak Plantation Rd ",,Tallahassee,FL,32312,I,,CH,,100.00,,Aurell
+10058,7,2022-09-13,C,"Vicitoria  Weber","708 North Ride ",,tallahassee,FL,32303,I,Attorney,CH,,500.00,,"Weber "
+10058,8,2022-09-13,C,"Perkins Family Trust","2107E Randolph Circle",,Tallahassee,FL,32308,O,Family<br>Trust,CH,,100.00,,"Perkins Family Trust"
+10058,9,2022-09-13,C,"Jervonie  Ford","2915 Sharer Rd. Apt. 431",,Tallahassee,FL,32312,I,,CH,,50.00,,"Ford "
+10058,10,2022-09-13,C,"Paul  Mitchell","1171 Braemore Way",,Tallahassee,FL,32308,I,Financial<br>Investor,CH,,500.00,,Mitchell
+10058,11,2022-09-13,C,"Christy Daly  Brodeur","***Protected Voter***",,,,,I,Govt<br>Affairs,CH,,250.00,,Brodeur
+10058,12,2022-09-13,C,"Krista   Campbell","***Protected Voter***",,,,,I,Information<br>Systems,CH,,500.00,,Campbell
+10058,13,2022-09-13,C,"WildLands Service Inc","1862 Jefferson Rd ",,Tallahassee,FG,32317,B,,CH,,100.00,,"WildLands Service Inc"
+10058,14,2022-09-13,C,"Anita  A Parish","1023 Landing Loop",,Tallahassee,FL,32311,I,,CH,,25.00,,Parish
+10058,15,2022-09-13,C,"One Florida PAC","175 Bactic Cir",,Tampa,FL,33606,F,PAC,CH,,250.00,,"One Florida PAC"
+10058,1,2022-09-13,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing Services",2841.07,,"Target Print & Mail"
+10058,2,2022-09-13,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing Services",440.52,,"Target Print & Mail"
+10058,3,2022-09-15,E,"Lamar Advertising","4706 Capital Cir SW",,Tallahassee,FL,32305,,,MO,Billboard,3557.71,,"Lamar Advertising "
+10058,4,2022-09-15,E,"Haynes and Associates, LLC","PO Box 10835",,Tallahassee,FL,32302,,,MO,CAMPAIGN<br>COMMUNICATIONS,1500.00,,"Haynes and Associates, LLC"
+10058,5,2022-09-15,E,"Grimsley and Company CPAs","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,"Campaign Finance Advisory",2540.00,,"Grimsley and Company CPAs"
+10058,6,2022-09-15,E,"City OF Tallahassee","Box A-4, City Hall, 300 S Adams St",,Tallahassee,FL,32301,,,MO,"Cascade Park Rental",150.00,,"City OF Tallahassee"
+10058,7,2022-09-15,E,Facebook,"1 Hacker Way",,"Melno Park",CA,94025,,,MO,Communications,254.97,,Facebook
+10058,8,2022-09-15,E,"Christopher  L Matthews","827 Richmond St Apt D",,Tallahassee,FL,32304,,,MO,COMMUNICATIONS<br>CONSULTING,1500.00,,Matthews
+10058,9,2022-09-15,E,"Red Hills Journalism","3048 Waterford Dr ",,Tallahassee,FL,32309,,,MO,Communications,940.00,,"Red Hills Journalism"
+10058,10,2022-09-15,E,"Mail Chimp","675 Ponce de Leon Ave NE Ste 5000",,Atlanta,FL,30308,,,MO,"Mailing Services",34.00,,"Mail Chimp "
+10058,54,2022-09-16,C,"John E Dailey","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,S,Mayor,IK,"Food and Beverage",580.75,,Dailey
+10058,16,2022-09-20,C,"Mary L Mann","17281 Brenfield Ln",,"Alva ",FL,33920,I,Retired,CH,,500.00,,Mann
+10058,17,2022-09-20,C,"Ken  Fuqua","1836 Hermitage BLVD Ste 100",,Tallahassee,FL,32308,I,State<br>Securities,CH,,500.00,,Fuqua
+10058,18,2022-09-20,C,"Sarah G Dailey","2510 Limerick Dr",,Tallahassee,FL,32309,I,Retired,CH,,1000.00,,Dailey
+10058,19,2022-09-20,C,"Sharon  P Dailey","***Protected Voter***",,,,,I,Medical<br>Ventures,CH,,1000.00,,Dailey
+10058,20,2022-09-20,C,"Charles  J Dailey","***Protected Voter***",,,,,I,Retired,CH,,1000.00,,Dailey
+10058,21,2022-09-20,C,"Florida Police Benevolent   Association FLA PBA Local PAC","300 E Brevard St ",,Tallahassee,FL,32301,F,PAC,CH,,1000.00,," Association FLA PBA Local PAC"
+10058,22,2022-09-20,C,"Marco  Paredes","3132 Mist Flower Rd",,Tallahassee,FL,32311,I,Attorney,CH,,250.00,,Paredes
+10058,23,2022-09-20,C,"Pascoe Real Estate","705 Kenilworth Rd",,Tallahassee,FL,32312,B,Real<br>Estate,CH,,1000.00,,"Pascoe Real Estate"
+10058,24,2022-09-20,C,"Deno  Hicks","1353 Windsor Harbor Drive",,Jacksonville,FL,32225,I,,CH,,100.00,,Hicks
+10058,25,2022-09-20,C,"Ormand  Lawson III","5019 Metzke Lane",,Tallahassee,FL,32303,I,Real<br>estate<br>Broker,CH,,500.00,,"Lawson III"
+10058,26,2022-09-20,C,"Will  Hall","4059 Roscrea Dr",,Tallahassee,FL,32309,I,,CH,,100.00,,"Hall "
+10058,27,2022-09-20,C,"Davisson   Dunlap","606 Middlebrooks Cir",,Tallahassee,FL,32312,I,Attorney,CH,,750.00,,Dunlap
+10058,28,2022-09-20,C,"HME 22, LLC SL53178","1444 Denholm Dr",,Tallahassee,FL,32308,B,,CH,,50.00,,"HME 22, LLC SL53178"
+10058,29,2022-09-20,C,"Rebecca  Watson","2491 Elfinwing Ln",,Tallahassee,FL,32309,I,,CH,,75.00,,Watson
+10058,30,2022-09-20,C,"Clayton  J Dobson","4621 Barclay Ln",,Tallahassee,FL,32309,I,,CH,,100.00,,Dobson
+10058,31,2022-09-20,C,"Thomas  Findley","6369 Pickney Hill Rd",,Tallahassee,FL,32312,I,,CH,,100.00,,Findley
+10058,32,2022-09-20,C,"Flecia  Braswell","2094 Wildbridge Dr",,Tallahassee,FL,32303,I,,CH,,100.00,,Braswell
+10058,33,2022-09-20,C,"Jay  P Schuck","3675 Dexter Dr",,Tallahassee,FL,32312,I,SENIOR<br>PLANNER,CH,,600.00,,Schuck
+10058,34,2022-09-20,C,"William  E Colbert","1309 Covington Dr",,Tallahassee,FL,32312,I,Engineer,CH,,200.00,,"Colbert "
+10058,35,2022-09-20,C,"Kevin  Alverez","3694 Dwight Davis Dr ",,Tallahassee,FL,32312,I,Attorney,CH,,300.00,,Alverez
+10058,36,2022-09-20,C,"Frank J Mercer","2077 Florida Ave ",,Tallahassee,FL,32303,I,Accountant,CH,,500.00,,"Mercer "
+10058,37,2022-09-20,C,"Chris  Lee Kraft","215 W College Ave Apt 1002",,tallahassee,FL,32301,I,"CAR SALES",CH,,500.00,,"Kraft "
+10058,38,2022-09-20,C,"Ruth   Akers","1453 Vieux Carre Dr",,Tallahassee,FL,32308,I,Retired,CH,,1000.00,,Akers
+10058,39,2022-09-20,C,"Superior Painting of Tallahass","2184 W Lake hall Rd",,Tallahassee,FL,32309,B,Painters,CH,,250.00,,"Superior Painting of Tallahass"
+10058,40,2022-09-20,C,"Todd  Sperry","2275 Trescott Dr",,Tallahassee,FL,32308,I,COMMERCIAL<br>CONST.,CH,,250.00,,Sperry
+10058,41,2022-09-20,C,"Mark  Logan","2410 Killarney Way",,Tallahassee,FL,32309,I,,CH,,100.00,,"Logan "
+10058,42,2022-09-20,C,"Brewster  Bevis","3400 Deer Lane Dr",,Tallahassee,FL,32312,I,"Political<br>Adv. Serv",CH,,500.00,,Bevis
+10058,43,2022-09-20,C,"Nicole  Balmer","***Protected Voter***",,,,,I,Dermapathology,CH,,309.43,,"Balmer "
+10058,44,2022-09-20,C,"Jordan   Matheson","1400 Village Square Blvd Unit 3-219",,Tallahassee,FL,32312,I,"Moving and<br>Storage-",CH,,1000.00,,Matheson
+10058,45,2022-09-20,C,"Chris  Dudley","3907 W Millers Bridge Rd",,Tallahassee,FL,32312,I,Southern<br>Group,CH,,500.00,,Dudley
+10058,46,2022-09-20,C,"Joseph  Warwick","626 Chancey Ln",,Tallahassee,FL,32308,I,,CH,,50.00,,Warwick
+10058,47,2022-09-20,C,"Dainne-Williams  Cox","2312 Mavis Cir",,Tallahassee,FL,32301,I,,CH,,100.00,,Cox
+10058,48,2022-09-20,C,"John  E Dailey","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,S,Mayor,LO,"Loan to<br>themselves",30000.00,,Dailey
+10058,49,2022-09-20,C,"Guy  M Spearman III","516 Delannoy Ave ",,Cocoa,FL,32922,I,Lobbyist,CH,,500.00,,"Spearman III"
+10058,50,2022-09-20,C,"Joseph  W Landers Jr","5009 Brill Point",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,"Landers Jr "
+10058,51,2022-09-20,C,"John B Thomas","930 Live Oak Plantation Rd ",,Tallahassee,FL,32312,I,Medical<br>Doctor,CH,,500.00,,"Thomas "
+10058,52,2022-09-20,C,"Wansley  Walters","310 NE 99th Street",,"Miami Shore",FL,33138,I,Juvenile<br>Justice<br>Sec,CH,,250.00,,Walters
+10058,53,2022-09-20,C,"Jeffrey S Phipps","8960 N Meridian Rd ",,Tallahassee,FL,32312,I,Real<br>Estate<br>Dev.,CH,,1000.00,,Phipps
+10058,11,2022-09-23,E,"Impact Politics","16740 Waters Edge Dr",,Weston,FL,33326,,,MO,ADVERTISING/COMMUNICATIONS,75000.00,,"Impact Politics"
+10058,12,2022-09-23,E,"Capital City Bank","3255 Mahan Dr.",,Tallahassee,FL,32308,,,MO,"Wire Fee",25.00,,"Capital City Bank "
+10067,1,2022-10-04,C,"Harry   Morrison","1051 Live Oak Plantation Rd",,Tallahassee,FL,32312,I,Attorney,CH,,500.00,,Morrison
+10067,2,2022-10-04,C,"SHS Management, LLC","2020 West Pensacola St Ste 285",,Tallahassee,FL,32304,B,Student<br>housing,CH,,1000.00,,"SHS Management, LLC"
+10067,3,2022-10-04,C,"Westwood Plaza LLC BY SHS Mana","2020 West Pensacola St Ste 285",,Tallahassee,FL,32304,B,Student<br>housing,CH,,1000.00,,"Westwood Plaza LLC BY SHS Mana"
+10067,4,2022-10-04,C,"Sperry Van Ness  Southland Commercial, LLC DBA","2065 Thomasville Rd ",,Tallahassee,FL,32308,B,Commercial<br>Real<br>estate,CH,,1000.00,,"Southland Commercial, LLC DBA "
+10067,5,2022-10-04,C,"Abigail  Vail","3636 DEXTER DR",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Vail
+10067,6,2022-10-04,C,"Junious  Brown","***Protected Voter***",,,,,I,"FL Housing<br>Finance",CH,,1000.00,,Brown
+10067,7,2022-10-04,C,"Palmer  Williams","3740 Bobbin Brook Way",,Tallahassee,FL,32312,I,Attorney,CH,,1000.00,,Williams
+10067,8,2022-10-04,C,"Leslie S Williams","3740 Bobbin Brook Way",,Tallahassee,FL,32312,I,Homemaker,CH,,1000.00,,Williams
+10067,9,2022-10-04,C,"Ronald  R Richmond","4425 Meandering Way, Apt 420",,Tallahassee,FL,32312,I,"House of<br>Represent",CH,,1000.00,,Richmond
+10067,10,2022-10-04,C,"Kathleen B Shiver","3842 E Millers Bridge Rd ",,Tallahassee,FL,32312,I,Property<br>Mgt,CH,,250.00,,Shiver
+10067,11,2022-10-04,C,"Waste Refurbishing Services","2875 N Flannery Rd",,"Baton Rouge ",LA,40814,B,"Waste mgt",CH,,1000.00,,"Waste Refurbishing Services"
+10067,12,2022-10-04,C,"Eli Roberts & Sons","2195 Lake Bradford rd",,Tallahassee,FL,32310,B,Fuel<br>distributor,CH,,500.00,,"Eli Roberts & Sons "
+10067,13,2022-10-04,C,"SunCoast Electric and Network","3476 Garber Dr",,Tallahassee,FL,32303,B,Electrical<br>Contracting,CH,,990.00,,"SunCoast Electric and Network"
+10067,14,2022-10-04,C,"Jon  Johnson","***Protected Voter***",,,,,I,Lobbying,CH,,1000.00,,Johnson
+10067,15,2022-10-04,C,"Sonya  G Endicott","2915 Sunset Way",,"St Pete Beach",FL,33706,I,"Florida<br>Sunny Mgr",CH,,250.00,,Endicott
+10067,16,2022-10-04,C,"John E Dailey","1427 Piedmont Dr E Ste 2",,Tallahassee,FL,32308,S,Mayor,LO,,20000.00,,Dailey
+10067,17,2022-10-04,C,"Joseph  T Wright","4873 Lake Park Dr ",,Tallahassee,FL,32311,I,Retired,CH,,200.00,,Wright
+10067,18,2022-10-04,C,"Florida  Associated Industries of","Po Box 10085 ",,Tallahassee,FL,32302,F,PAC,CH,,1000.00,,"Associated Industries of "
+10067,19,2022-10-04,C,"Florida Properity Fund","Po Box 10085 ",,Tallahasssee,FL,32302,F,PAC,CH,,1000.00,,"Florida Properity Fund"
+10067,20,2022-10-04,C,"Children's Future   Florida United For Our","Po Box 10085 ",,Tallahassee,FL,32302,F,PAC-,CH,,1000.00,,"Florida United For Our "
+10067,21,2022-10-04,C,"Voice of Florida Business PAC","Po Box 10085 ",,Tallahassee,FL,32302,F,PAC,CH,-,1000.00,,"Voice of Florida Business PAC "
+10067,22,2022-10-04,C,"Democracy  Floridians for a Stronger","Po Box 10085 ",,Tallahasssee,FL,32302,F,PAC,CH,,1000.00,,"Floridians for a Stronger "
+10067,23,2022-10-04,C,"John E Dailey","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,S,Mayor,IK,"Food and Beverage ",658.75,,Dailey
+10067,24,2022-10-06,C,"Victoria   Zepp","2114 Spence Avenue",,Tallahassee,FL,32301,I,,CH,,100.00,,Zepp
+10067,1,2022-10-06,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",284.57,,"Target Print & Mail"
+10067,2,2022-10-06,E,"Lamar Advertising","4706 Capital Cir SW",,Tallahassee,FL,32305,,,MO,COMMUNICATOINS,175.00,,"Lamar Advertising"
+10067,3,2022-10-06,E,Paypal,"221 North First St",,"San Jose",CA,95131,,,MO,"Ecommerce Fees",1109.23,,Paypal
+10067,4,2022-10-06,E,"Mary  Stevens","2030 Belle Vue Way apt 7",,Tallahassee,FL,32304,,,MO,CAMPAIGN<br>CONSULTING,6055.10,,Stevens
+10067,5,2022-10-06,E,"Stearns Weaver Miller PA","106 E College Ave Ste 700",,Tallahassee,FL,32301,,,MO,"Legal Fees",136.00,,"Stearns Weaver Miller PA"
+10067,6,2022-10-06,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",9113.06,,"Target Print & Mail"
+10067,7,2022-10-06,E,"Steve  Beasley","630 West Brevard St",,Tallahassee,FL,32304,,,MO,CAMPAIGN<br>CONSULTING,1000.00,,Beasley
+10067,8,2022-10-06,E,"Lamar Advertising","4706 Capital Cir SW",,Tallahassee,FL,32305,,,MO,ADVERTISING/COMMUNICATIONS,2264.00,,"Lamar Advertising"
+10067,9,2022-10-06,E,"Lamar Advertising","4706 Capital Cir SW",,Tallahassee,FL,32305,,,MO,ADVERTISING/COMMUNICATIONS,1200.00,,"Lamar Advertising"
+10067,10,2022-10-06,E,"David  Hall","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,,,MO,Communications<br>CONSULTING,1000.00,,Hall
+10067,11,2022-10-06,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",128.13,,"Target Print & Mail"
+10067,12,2022-10-06,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",6382.52,,"Target Print & Mail"
+10067,25,2022-10-07,C,"Susan  Slay","7192 Sleepy Hollow Cir",,Tallahassee,FL,32312,I,Homemaker,CH,,1000.00,,Slay
+10067,26,2022-10-07,C,"Charles  D Moore","119 Rochelsie Rd",,Crawfordville,FL,32327,I,,CH,,100.00,,Moore
+10067,27,2022-10-07,C,"Jeffrey  Doxsee","3668 Las Brisas St",,Tallahassee,FL,32309,I,,CH,,100.00,,Doxsee
+10067,28,2022-10-07,C,"Charles E Cook","1358 Millstream Dr ",,Tallahassee,FL,32312,I,Retired,CH,,500.00,,Cook
+10067,29,2022-10-07,C,"Catherine  R Nelson","2792 Julieanna Ln",,Tallahassee,FL,32306,I,,CH,,50.00,,Nelson
+10067,30,2022-10-07,C,"William  D  Crona","2020 Lee Ave",,Tallahassee,FL,32306,I,Bank<br>Director,CH,,500.00,,"Crona "
+10067,31,2022-10-07,C,"Douglas  I Mannheimer","215 S Monroe St Ste 400",,Tallahassee,FL,32301,I,Attorney,CH,,1000.00,,Mannheimer
+10067,32,2022-10-07,C,"William H  Moore","1102 Lasswade Dr ",,Tallahassee,FL,32312,I,"BUSINESS<br>ADVS SERV.",CH,,250.00,,Moore
+10067,33,2022-10-07,C,"David  Brady","8113 Longmeadow Dr ",,Tallahassee,FL,32312,I,Retired,CH,,500.00,,Brady
+10067,34,2022-10-07,C,"S Horovitz  Maurer","1765 SE 7th St",,"Fort Lauderdale ",FL,33316,I,Attorney,CH,,1000.00,,Maurer
+10067,35,2022-10-07,C,"Demirel Internationsal LLC","343 Oakland Ave",,Tallahassee,FL,32301,B,Investment<br>firm,CH,,1000.00,,"Demirel Internationsal LLC"
+10067,36,2022-10-07,C,"Bugra  Demirel","859 Call St",,Tallahassee,FL,32301,I,Investments,CH,,1000.00,,Demirel
+10067,37,2022-10-07,C,"Gina  Conn","859 East Call ST",,Tallahassee,FL,32301,I,Architect,CH,,1000.00,,Conn
+10067,38,2022-10-07,C,"Thomas  F Panza","2400 E Commercial Blvd #905",,"Fort Lauderdale",FL,33308,I,Attorney,CH,,1000.00,,Panza
+10067,39,2022-10-07,C,"Willco Industries Inc.","13351 Laurel Hill Dr ",,Tallahassee,FL,32308,B,Architect,CH,,200.00,,"Willco Industries Inc. "
+10067,40,2022-10-07,C,"Manausa, Shaw & Minacci P.A.","1701 Hermitage Blvd Ste 100",,Tallahassee,FL,32308,B,"Law Firm",CH,,1000.00,,"Manausa, Shaw & Minacci P.A."
+10067,41,2022-10-07,C,"Azalea Land Group LLC","4708 Capital Circle NW Ste 200",,Tallahassee,FL,32303,B,Real<br>Estate<br>Investment,CH,,1000.00,,"Azalea Land Group LLC"
+10067,42,2022-10-07,C,"Golden Park LLC","4708 Capital Circle CW",,Tallahassee,FL,32303,B,"Real<br>estate ",CH,,1000.00,,"Golden Park LLC"
+10067,43,2022-10-07,C,"OB Homes of Tallahassee","4708 Capital Circle CW",,Tallahasseee,FL,32303,B,Real<br>estate,CH,,1000.00,,"OB Homes of Tallahassee"
+10067,44,2022-10-07,C,"Golden Oak Land Group LLC","4708 Capital Circle CW",,Tallahassee,FL,32303,B,Real<br>Estate<br>Investment,CH,,1000.00,,"Golden Oak Land Group LLC"
+10067,45,2022-10-07,C,"Dogwood Homes LLC","4708 Capital Circle CW",,Tallahasssee,FL,32303,B,Rental<br>Properties,CH,,1000.00,,"Dogwood Homes LLC"
+10067,46,2022-10-07,C,"Persica Homes, Inc","1607-2 Village Square Blvd",,Tallahassee,FL,32309,B,Real<br>Estate,CH,,200.00,,"Persica Homes, Inc"
+10067,47,2022-10-07,C,"Urban Catalyst Consultants Inc","2851 Remington Green Circle Sutie D",,Tallahassee,FL,32308,B,Engineering,CH,,500.00,,"Urban Catalyst Consultants Inc"
+10067,48,2022-10-07,C,"Florida Health Care PAC","307 West Park Ave",,Tallahasseee,FL,32301,F,PAC,CH,,1000.00,,"Florida Health Care PAC"
+10067,49,2022-10-07,C,"John E Dailey","1427 Piedmont Dr E Ste 2",,Tallahssee,FL,32308,S,Mayor,IK,T-shirts,795.25,,Dailey
+10067,13,2022-10-07,E,"Target Print & Mail","2843 Industrial Plaza Dr",,Tallahassee,FL,32301,,,MO,"Printing services",5953.78,,"Target Print & Mail"
