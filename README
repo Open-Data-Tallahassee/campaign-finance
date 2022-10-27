@@ -1,0 +1,15 @@
+## Campaign Finance Tracker
+
+Campaign contributions from John Dailey's 2022 Mayoral race were 
+
+Our dataset currently only contains contributions from John Dailey's 2022 Mayoral race. Details are summarized in the table below:
+
+| Candidate                      | Amount Raised | Estimated Individual Contributions |
+|----------------------------------|------------------------|-----------|
+| John Dailey | $449,683.44                   | 867    |
+
+
+[Leon County's Supervisor of Elections Office](https://www.voterfocus.com/CampaignFinance/candidate_pr.php?el=21&c=leon) publishes each candidate's campaign contributions.
+
+The data was downloaded and cleaned through a Python [script](https://github.com/Open-Data-Tallahassee/campaign-finance/tree/main/scripts).
+
