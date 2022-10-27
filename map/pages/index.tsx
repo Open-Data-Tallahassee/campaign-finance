@@ -14,31 +14,14 @@ const Home: NextPage = () => {
       </Head>
 
      {/* main section */}
-      <main className={styles.main}>
-        <div flex justify-center items-center pt-16>
-          <h1 className="text-4xl font-bold text-purple-900 sm:text-6xl">
-            🔍 Open Tallahassee
-          </h1>
-        </div>
-        <div className={styles.grid}>
-          <a href="/dailey" className={styles.card}>
-            <h2>Politician Profiles &rarr;</h2>
-            <p>Find in-depth information about local politicians.</p>
-          </a>
+      <div className="mt-10 text-center text-2xl font-bold text-slate-900 sm:text-2xl sm:mt-10 sm:text-center">🔍 Open Tallahassee's Campaign Finance Explorer</div>
+      <div className="mt-10 text-center text-2xl font-bold text-slate-900 sm:text-2xl sm:mt-10 sm:text-center">Candidates: 
+        <a href="/dailey"> John Dailey</a>
+      </div>
 
-          <a href="/vision-zero" className={styles.card}>
-            <h2>Vision Zero &rarr;</h2>
-            <p>Advocating for safe, 🚶🏾‍♀️, 🚲 streets. </p>
-          </a>
-        </div>
-
-
-      </main>
-
+      {/* footer */}
       <footer className={styles.footer}>
-        <div flex justify-center items-center pt-16>
-          made with by <a href="/about">Open Tallahassee</a>
-        </div>
+        Built by <a href="https://www.shelbygn.com">Shelby Green</a>. This is a proof of concept for <a href="https://www.opentlh.com">Open Tallahassee</a>. Have suggestions or feedback? <a href="mailto:opentlh@gmail.com">Email us</a>.
       </footer>
     </div>
   )
