@@ -78,26 +78,19 @@ const Map = () => {
               500, 10,
               1000, 15,
             ],
-            // {
-            //     'base': 1.75,
-            //     'stops': [
-            //     [12, 2],
-            //     [22, 180]
-            //     ]
-            // },
             'circle-color': [
               'match',
               ['get', 'cont. type'],
               'I', // individual
-              '#E09F7D',
+              '#7D9DD3',
               'B', // business
-              '#311847',
+              '#38BDF8',
               'S', // self
-              '#A01A7D', // 51 to 75
+              '#0EA5E9', // 51 to 75
               'F', // political committee
-              '#EF5D60', // 76 to 99
+              '#0284C7', // 76 to 99
               'C',
-              '#EC4067', // committee
+              '#0369A1', // committee
               '#ccc', // other
           ],
           "circle-stroke-color": "#fff",
@@ -112,8 +105,10 @@ const Map = () => {
         layers: ['points-circle']
       })
 
-      const name = features[0].properties.name
-      const amount = features[0].properties.amount
+      if (typeof window === "undefined" || node === null) return;
+
+      const name = features[0]?.properties?.name // optional chaining to avoid "object is null" error
+      const amount = features[0]?.properties?.amount
 
       const html = `${name} donated $${amount}`
 
@@ -121,7 +116,7 @@ const Map = () => {
       const tooltip = document.getElementById('popup')
             
       // store html in the tooltip, which will be displayed in the floating card div
-      tooltip.innerHTML = html
+      tooltip!.innerHTML = html
 
     });
 
