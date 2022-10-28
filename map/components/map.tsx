@@ -78,13 +78,6 @@ const Map = () => {
               500, 10,
               1000, 15,
             ],
-            // {
-            //     'base': 1.75,
-            //     'stops': [
-            //     [12, 2],
-            //     [22, 180]
-            //     ]
-            // },
             'circle-color': [
               'match',
               ['get', 'cont. type'],
@@ -112,8 +105,10 @@ const Map = () => {
         layers: ['points-circle']
       })
 
-      const name = features[0].properties.name
-      const amount = features[0].properties.amount
+      if (typeof window === "undefined" || node === null) return;
+
+      const name = features[0]?.properties?.name // optional chaining to avoid "object is null" error
+      const amount = features[0]?.properties?.amount
 
       const html = `${name} donated $${amount}`
 
@@ -121,7 +116,7 @@ const Map = () => {
       const tooltip = document.getElementById('popup')
             
       // store html in the tooltip, which will be displayed in the floating card div
-      tooltip.innerHTML = html
+      tooltip!.innerHTML = html
 
     });
 

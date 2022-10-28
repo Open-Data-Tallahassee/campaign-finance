@@ -13,6 +13,7 @@ module.exports = {
         'paradise-pink': '#EC4067',
         'flirt': '#A01A7D',
         'russian-violet': '#311847',
+        'gray':'#ccc'
       }
     },
   },

@@ -61,7 +61,7 @@ const Home: NextPage = () => {
               <span className="text-gray-600 dark:text-gray-400">Committee</span>
             </div>
             <div className="group flex items-center">
-              <span className="w-5 h-5 inline-block bg-sky-700 rounded-md m-2 text-md"></span>
+              <span className="w-5 h-5 inline-block bg-gray rounded-md m-2 text-md"></span>
               <span className="text-gray-600 dark:text-gray-400">Other</span>
             </div>
           </div>
