@@ -4,6 +4,7 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Map from '../components/map'
 import pic from "../images/john-dailey.jpeg"
+import Link from "next/link"
 
 const Home: NextPage = () => {
   return (
@@ -15,9 +16,9 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* header */}
-      <a href="/">
+      <Link href="/">
         <div className=" mt-1 text-bold text-2xl text-green-900 text-left sm:text-lg sm:text-left sm:mt-1 ">Open Tallahassee</div>
-      </a>
+      </Link>
       
       {/* top section */}
       <div>
@@ -38,21 +39,37 @@ const Home: NextPage = () => {
       <div className=" mt-5 text-xl text-center sm: text-lg">
           <Map/> 
           {/* legend */}
-          <div className="group flex">
-            <div className="group flex items-center">
-              <span className="w-10 h-10 inline-block bg-tumbleweed-500 rounded-md m-2"></span>
-              <span className="text-gray-600 dark:text-gray-400">Legend indicator</span>
+          <div className="group flex sm: group flex-wrap">
+            <div className="group flex items-center text-gray-600 dark:text-gray-400">Contribution Type:
+              <span className="w-5 h-5 inline-block bg-sky-200 rounded-md m-2 text-md "></span>
+              <span className="text-gray-600 dark:text-gray-400 ">Individual</span>
             </div>
             <div className="group flex items-center">
-              <span className="w-2 h-2 inline-block bg-gray-500 rounded-full mr-2"></span>
-              <span className="text-gray-600 dark:text-gray-400">Legend indicator</span>
+              <span className="w-5 h-5 inline-block bg-sky-300 rounded-md m-2 text-md"></span>
+              <span className="text-gray-600 dark:text-gray-400">Business</span>
+            </div>
+            <div className="group flex items-center">
+              <span className="w-5 h-5 inline-block bg-sky-400 rounded-md m-2 text-md"></span>
+              <span className="text-gray-600 dark:text-gray-400">Self</span>
+            </div>
+            <div className="group flex items-center">
+              <span className="w-5 h-5 inline-block bg-sky-500 rounded-md m-2 text-md"></span>
+              <span className="text-gray-600 dark:text-gray-400">Political Committee</span>
+            </div>
+            <div className="group flex items-center">
+              <span className="w-5 h-5 inline-block bg-sky-600 rounded-md m-2 text-md"></span>
+              <span className="text-gray-600 dark:text-gray-400">Committee</span>
+            </div>
+            <div className="group flex items-center">
+              <span className="w-5 h-5 inline-block bg-sky-700 rounded-md m-2 text-md"></span>
+              <span className="text-gray-600 dark:text-gray-400">Other</span>
             </div>
           </div>
       </div>
 
     {/* footer */}
     <footer className={styles.footer}>
-      Built by <a href="https://www.shelbygn.com">Shelby Green</a>. This is a proof of concept for <a href="https://www.opentlh.com">Open Tallahassee</a>. Methodology <a href="https://github.com/Open-Data-Tallahassee/campaign-finance">here</a>. Have suggestions or feedback? <a href="mailto:opentlh@gmail.com">Email us</a>.
+      Built by <Link href="https://www.shelbygn.com">Shelby Green</Link>. This is a proof of concept for <Link href="https://www.opentlh.com">Open Tallahassee</Link>. Methodology <Link href="https://github.com/Open-Data-Tallahassee/campaign-finance">here</Link>. Have suggestions or feedback? <Link href="mailto:opentlh@gmail.com">Email us</Link>.
     </footer>
     </div>
     </div>

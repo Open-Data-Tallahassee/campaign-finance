@@ -2,6 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
+import Link from 'next/link'
 
 const Home: NextPage = () => {
   return (
@@ -21,7 +22,7 @@ const Home: NextPage = () => {
 
       {/* footer */}
       <footer className={styles.footer}>
-        Built by <a href="https://www.shelbygn.com">Shelby Green</a>. This is a proof of concept for <a href="https://www.opentlh.com">Open Tallahassee</a>. Have suggestions or feedback? <a href="mailto:opentlh@gmail.com">Email us</a>.
+        Built by <Link href="https://www.shelbygn.com">Shelby Green</Link>. This is a proof of concept for <Link href="https://www.opentlh.com">Open Tallahassee</Link>. Have suggestions or feedback? <Link href="mailto:opentlh@gmail.com">Email us</Link>.
       </footer>
     </div>
   )

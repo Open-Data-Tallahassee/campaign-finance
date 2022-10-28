@@ -89,15 +89,15 @@ const Map = () => {
               'match',
               ['get', 'cont. type'],
               'I', // individual
-              '#E09F7D',
+              '#7D9DD3',
               'B', // business
-              '#311847',
+              '#38BDF8',
               'S', // self
-              '#A01A7D', // 51 to 75
+              '#0EA5E9', // 51 to 75
               'F', // political committee
-              '#EF5D60', // 76 to 99
+              '#0284C7', // 76 to 99
               'C',
-              '#EC4067', // committee
+              '#0369A1', // committee
               '#ccc', // other
           ],
           "circle-stroke-color": "#fff",
