@@ -15,9 +15,9 @@ const Home: NextPage = () => {
       </Head>
 
      {/* main section */}
-      <div className="mt-10 text-center text-2xl font-bold text-slate-900 sm:text-2xl sm:mt-10 sm:text-center">🔍 Open Tallahassee's Campaign Finance Explorer</div>
+      <div className="mt-10 text-center text-2xl font-bold text-slate-900 sm:text-2xl sm:mt-10 sm:text-center">🔍 Open Tallahassee&apos;s Campaign Finance Explorer</div>
       <div className="mt-10 text-center text-2xl font-bold text-slate-900 sm:text-2xl sm:mt-10 sm:text-center">Candidates: 
-        <a href="/dailey"> John Dailey</a>
+        <Link href="/dailey"> John Dailey</Link>
       </div>
 
       {/* footer */}
